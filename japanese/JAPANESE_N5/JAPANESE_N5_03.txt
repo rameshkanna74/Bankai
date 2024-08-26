@@ -1,0 +1,531 @@
+3. N は P です。
+N wa P desu
+Something/somebody is somewhere.
+This grammar structure is for indicating people or objects in a certain place.
+P indicates a place.
+1.かいがいぶは 3がいです。
+kaigaibuwa sangaidesu
+The overseas department is on the third floor.
+2.ぶちょうのへやは あそこです。
+buchoonoheyawa asokodesu 
+The manager’s room is over there.
+3.うけつけは いっかいです。
+uketsukewa ikkaidesu
+The reception desk is on the first floor.
+
+-------------------
+
+give many best example like above with most important japanese vocab
+
+***************************************************************************************************
+
+## Let's expand on the grammar structure "N は P です" with more diverse examples!
+
+### Understanding the Structure
+As you've correctly pointed out, "N は P です" is used to indicate the location of a person or object. 
+
+* **N:** The noun or subject (what or who)
+* **は (wa):** The topic marker
+* **P:** The place (where)
+* **です (desu):** The copula, indicating a state or condition
+
+### More Examples with Essential Vocabulary
+
+**1. In an Office**
+
+* **会議室は ５階です。** (Kaigishitsu wa go-kai desu.) - The conference room is on the fifth floor.
+* **コピー機は あそこです。** (Kopii-ki wa asoko desu.) - The copy machine is over there.
+* **私のデスクは 窓のそばです。** (Watashi no desuku wa mado no soba desu.) - My desk is next to the window.
+
+**2. At Home**
+
+* **テレビは リビングルームにあります。** (Terebi wa ribingurumu ni arimasu.) - The TV is in the living room.
+* **キッチンは 右側にあります。** (Kitchin wa migi gawa ni arimasu.) - The kitchen is on the right side.
+* **私の部屋は 二階です。** (Watashi no heya wa nikai desu.) - My room is on the second floor.
+
+**3. In a City**
+
+* **駅は 市の中心部にあります。** (Eki wa shi no chushinbu ni arimasu.) - The station is in the center of the city.
+* **郵便局は 公園の近くです。** (Yuubinkyoku wa koen no chikaku desu.) - The post office is near the park.
+* **レストランは 川のそばにあります。** (Resutoran wa kawa no soba ni arimasu.) - The restaurant is by the river.
+
+**4. In a Store**
+
+* **トイレは 奥にあります。** (Toire wa oku ni arimasu.) - The restroom is at the back.
+* **試着室は 右側にあります。** (Shitchakushitsu wa migi gawa ni arimasu.) - The fitting room is on the right side.
+* **レジは 入口の近くです。** (Reji wa iriguchi no chikaku desu.) - The cash register is near the entrance.
+
+### Additional Notes
+
+* **Other particles that can indicate location:**
+    * **に (ni):** Used for a more specific location or movement to a place.
+    * **で (de):** Used for a place where an action occurs.
+* **Expressions for location:**
+    * **上の階 (ue no kai):** the upper floor
+    * **下の階 (shita no kai):** the lower floor
+    * **正面 (shomen):** the front
+    * **背面 (haimen):** the back
+
+By mastering this grammar structure, you can easily describe the location of various objects and people in Japanese. 
+
+**Would you like to practice with more specific scenarios or vocabulary?** Here are some ideas:
+
+* **Giving directions:** using words like "右" (migi), "左" (hidari), "まっすぐ" (massugu)
+* **Describing a map:** using "北" (kita), "南" (minami), "東" (higashi), "西" (nishi)
+* **Talking about your home:** using room names and furniture
+
+Let me know your thoughts!
+
+
+###################################################################################################
+
+4. N が あります / います
+N ga arimasu / imasu
+There is/ There are
+This indicates the existence of something. In English, it means “There is/are”.
+When referring to objects, you should use “あります”.
+When referring to people or animals, you should use “います”.
+1. N が あります。
+あります indicates the existence of things, except humans and animals, in a
+certain place
+1 じどうはんばいきがあります。
+jidoohambaikigaarimasu
+There is a vending machine.
+2 はなが あります。
+hanaga arimasu
+There is a flower.
+
+2.N が います。
+います Indicates the existence of humans and animals in a certain place
+
+3 やまださんが います。
+yamadasanga imasu
+There is Mr.Yamada.
+4 ねこが います。
+nekoga imasu
+There is a cat.
+
+
+-------------------
+
+give many best example like above with most important japanese vocab
+
+***************************************************************************************************
+
+## Let's expand on the grammar structure "N が あります/います" with more diverse examples!
+
+### Understanding the Structure
+As you correctly pointed out, "N が あります/います" is used to indicate the existence of something. 
+
+* **N:** The noun or subject (what or who)
+* **が (ga):** The subject marker
+* **あります (arimasu):** Indicates the existence of inanimate objects
+* **います (imasu):** Indicates the existence of animate beings (people, animals)
+
+### More Examples with Essential Vocabulary
+
+**1. In a Classroom**
+
+* **黒板があります。** (Kokuban ga arimasu.) - There is a blackboard.
+* **生徒が 20人 います。** (Seito ga 20-nin imasu.) - There are 20 students.
+* **窓が 3つ あります。** (Mado ga 3tsu arimasu.) - There are 3 windows.
+
+**2. At a Park**
+
+* **ベンチがあります。** (Benchi ga arimasu.) - There is a bench.
+* **鳥が 鳴いています。** (Tori ga naite imasu.) - Birds are singing.
+* **木がたくさんあります。** (Ki ga takusan arimasu.) - There are many trees.
+
+**3. In a Restaurant**
+
+* **メニューがあります。** (Menyu ga arimasu.) - There is a menu.
+* **客が 多くいます。** (Kyaku ga ooku imasu.) - There are many customers.
+* **テーブルが 空いています。** (Tēburu ga aite imasu.) - There is an empty table.
+
+**4. In a Library**
+
+* **本がたくさんあります。** (Hon ga takusan arimasu.) - There are many books.
+* **静けさがあります。** (Shizukesa ga arimasu.) - There is quietness.
+* **人が ほとんどいません。** (Hito ga hotondo imasen.) - There are almost no people.
+
+### Additional Notes
+
+* **Negative form:** To express non-existence, use "ありません" (arimasen) for objects and "いません" (imasen) for people or animals.
+    * **本がありません。** (Hon ga arimasen.) - There are no books.
+    * **猫はいません。** (Neko ga imasen.) - There are no cats.
+* **Question form:** To ask if something exists, use "ありますか" (arimasu ka) or "いますか" (imasu ka).
+    * **コーヒーはありますか？** (Koohii wa arimasu ka?) - Is there any coffee?
+    * **犬はいますか？** (Inu wa imasu ka?) - Is there a dog?
+
+**Would you like to practice with more specific scenarios or vocabulary?** Here are some ideas:
+
+* **Describing a room:** using furniture and object names
+* **Talking about a party:** using food, drinks, and people
+* **Describing a natural scene:** using animals, plants, and weather expressions
+
+Let me know your thoughts!
+
+
+###################################################################################################
+
+1.P に N が あります
+This indicates the existence of things, except humans and animals, in a certain place
+1あそこに いすとつくえが あります。
+asokoni isutotsukuega arimasu
+There is a chair and a desk over there.
+2エレベーターのとなりに トイレが あります。
+erebeetaanotonarini toirega arimasu
+There is a restroom next to the elevator.
+
+-------------------
+
+give many best example like above with most important japanese vocab
+
+***************************************************************************************************
+
+## Let's delve deeper into the grammar structure "P に N が あります"!
+
+### Understanding the Structure
+As you've correctly pointed out, "P に N が あります" indicates the existence of an object in a specific place. 
+
+* **P:** The place
+* **に (ni):** Indicates a location
+* **N:** The noun or subject (what)
+* **が (ga):** The subject marker
+* **あります (arimasu):** Indicates the existence of an inanimate object
+
+### More Examples with Essential Vocabulary
+
+**1. In a House**
+* **冷蔵庫に牛乳があります。** (Reizouko ni gyuunyuu ga arimasu.) - There is milk in the refrigerator.
+* **テーブルの上に本があります。** (Tēburu no ue ni hon ga arimasu.) - There is a book on the table.
+* **壁に絵があります。** (Kabe ni e ga arimasu.) - There is a picture on the wall.
+
+**2. In a Restaurant**
+* **メニューに寿司があります。** (Menyu ni sushi ga arimasu.) - There is sushi on the menu.
+* **窓際に席があります。** (Mado gawa ni seki ga arimasu.) - There is a seat by the window.
+* **テーブルの上に調味料があります。** (Tēburu no ue ni chōmiryō ga arimasu.) - There are seasonings on the table.
+
+**3. In a Park**
+* **公園に遊具があります。** (Kouen ni yūgu ga arimasu.) - There are playground equipment in the park.
+* **木の下にベンチがあります。** (Ki no shita ni benchi ga arimasu.) - There is a bench under the tree.
+* **池に鯉がいます。** (Ike ni koi ga imasu.) - There are carp in the pond. *Note: Even though "koi" is an animal, we can use "arimasu" in a more general sense.*
+
+### Additional Notes
+
+* **Other particles that can indicate location:**
+    * **で (de):** Used for a place where an action occurs. Example: **部屋で勉強します。** (Heya de benkyō shimasu.) - I study in my room.
+    * **から (kara):** Used to indicate the starting point of a movement. Example: **駅前からバスに乗ります。** (Eki mae kara basu ni norimasu.) - I will get on the bus from in front of the station.
+* **Expressions for location:**
+    * **中に (naka ni):** inside
+    * **外に (soto ni):** outside
+    * **上に (ue ni):** on top of
+    * **下に (shita ni):** under
+
+### Practice with More Complex Sentences
+
+* **キッチンには冷蔵庫と電子レンジがあります。** (Kitchin ni wa reizouko to denshi renji ga arimasu.) - There is a refrigerator and a microwave in the kitchen.
+* **公園には滑り台とブランコがあります。** (Kouen ni wa suberi dai to buranko ga arimasu.) - There is a slide and a swing in the park.
+* **部屋の隅に古い本がたくさんあります。** (Heya no sumi ni furui hon ga takusan arimasu.) - There are many old books in the corner of the room.
+
+By practicing with these examples, you can become more comfortable using this grammar structure to describe the location of objects in Japanese.
+
+**Would you like to practice with more specific scenarios or vocabulary?** Here are some ideas:
+
+* **Describing your house:** using room names and furniture
+* **Giving directions:** using words like "右" (migi), "左" (hidari), "まっすぐ" (massugu)
+* **Talking about a store:** using product names and sections
+
+Let me know your thoughts!
+
+
+###################################################################################################
+
+2.P に N が います。
+This indicates the existence of humans and animals in a certain place
+3A: かいぎしつに だれが いますか。
+kagishitsuni darega imasuka
+Who is in the meeting room?
+4B:かいぎしつに ぶちょうが います。
+kaigishitsuni buchooga imasu
+The manager is in the meeting room.
+
+-------------------
+
+give many best example like above with most important japanese vocab
+
+***************************************************************************************************
+
+## Let's delve deeper into the grammar structure "P に N が います"!
+
+### Understanding the Structure
+As you've correctly pointed out, "P に N が います" is used to indicate the existence of a person or animal in a specific place. 
+
+* **P:** The place
+* **に (ni):** Indicates a location
+* **N:** The noun or subject (who)
+* **が (ga):** The subject marker
+* **います (imasu):** Indicates the existence of a living thing
+
+### More Examples with Essential Vocabulary
+
+**1. In a School**
+* **教室に先生がいます。** (Kyoushitsu ni sensei ga imasu.) - There is a teacher in the classroom.
+* **図書館に学生がたくさんいます。** (Toshokan ni gakusei ga takusan imasu.) - There are many students in the library.
+* **公園に子供がいます。** (Kouen ni kodomo ga imasu.) - There are children in the park.
+
+**2. In a Hospital**
+* **病院に患者がいます。** (Byouin ni kanja ga imasu.) - There are patients in the hospital.
+* **待合室に看護師がいます。** (Mataisetsushitsu ni kangoshi ga imasu.) - There is a nurse in the waiting room.
+* **診察室に先生がいます。** (Shinsatsushitsu ni sensei ga imasu.) - There is a doctor in the examination room.
+
+**3. In a Zoo**
+* **動物園に動物がたくさんいます。** (Doubutsuen ni doubutsu ga takusan imasu.) - There are many animals in the zoo.
+* **檻の中にライオンがいます。** (Ori no naka ni raion ga imasu.) - There is a lion in the cage.
+* **池の中に鴨がいます。** (Ike no naka ni kamo ga imasu.) - There are ducks in the pond.
+
+### Additional Notes
+
+* **Question words:** You can use question words like "だれ" (dare, who) or "何" (nani, what) to ask about the subject.
+    * **部屋に誰がいますか？** (Heya ni dare ga imasu ka?) - Who is in the room?
+    * **動物園に何がいますか？** (Doubutsuen ni nani ga imasu ka?) - What is in the zoo?
+* **Other particles:** You can use other particles like "も" (mo, also) or "だけ" (dake, only) to express additional information.
+    * **部屋に猫もいます。** (Heya ni neko mo imasu.) - There is also a cat in the room.
+    * **公園に子供だけじゃありません。** (Kouen ni kodomo dake ja arimasen.) - It's not only children in the park.
+
+### Practice with More Complex Sentences
+
+* **レストランに、家族連れがたくさんいます。** (Resutoran ni, kazoku zure ga takusan imasu.) - There are many families in the restaurant.
+* **会議室には、部長と課長がいます。** (Kaigishitsu ni wa, buchō to kachō ga imasu.) - The manager and the section chief are in the meeting room.
+* **動物園には、パンダやキリンがいます。** (Doubutsuen ni wa, panda ya kirin ga imasu.) - There are pandas and giraffes in the zoo.
+
+By practicing with these examples, you can become more comfortable using this grammar structure to describe the location of people and animals in Japanese.
+
+**Would you like to practice with more specific scenarios or vocabulary?** Here are some ideas:
+
+* **Describing a party:** using people's names and activities
+* **Talking about a classroom:** using school supplies and students
+* **Describing a forest:** using animals and plants
+
+Let me know your thoughts!
+
+
+###################################################################################################
+
+1.N は P に あります。
+This indicates the existence of things, except humans and animals, in a certain place (人や動物ではないものが ある場所に存在)
+1あのしゃしんは あんどうさんの つくえの うえに あります。
+anoshashinwa andosanno tsukueno ueni arimasu
+That picture is on Mr. Ando's desk.
+2じどうはんばいきは うけつけのとなりに あります。
+jidoohambaikiwa uketsukenotonarini arimasu
+The vending machine is next to the reception desk.
+
+-------------------
+
+give many best example like above with most important japanese vocab
+
+***************************************************************************************************
+
+## Let's expand on the grammar structure "N は P に あります" with more diverse examples!
+
+### Understanding the Structure
+As you've correctly pointed out, "N は P に あります" indicates the existence of an inanimate object in a specific place.
+
+* **N:** The noun or subject (what)
+* **は (wa):** The topic marker
+* **P:** The place
+* **に (ni):** Indicates a location
+* **あります (arimasu):** Indicates the existence of an inanimate object
+
+### More Examples with Essential Vocabulary
+
+#### In a House
+* **本は棚の中にあります。** (Hon wa tana no naka ni arimasu.) - The book is in the bookshelf.
+* **鍵は引き出しの中にあります。** (Kagi wa hikidashi no naka ni arimasu.) - The key is in the drawer.
+* **ゴミ箱はキッチンにあります。** (Gomibako wa kichin ni arimasu.) - The trash can is in the kitchen.
+
+#### In an Office
+* **パソコンはデスクの上にあります。** (Pasokon wa desuku no ue ni arimasu.) - The computer is on the desk.
+* **書類はファイルの中にあります。** (Shorui wa fairu no naka ni arimasu.) - The documents are in the file.
+* **印鑑は引き出しの奥にあります。** (Inkan wa hikidashi no oku ni arimasu.) - The seal is at the back of the drawer.
+
+#### In a Store
+* **りんごは冷蔵庫の中にあります。** (Ringo wa reizouko no naka ni arimasu.) - The apples are in the refrigerator.
+* **パンは棚にあります。** (Pan wa tana ni arimasu.) - The bread is on the shelf.
+* **レジは出口の近くにあります。** (Reji wa deguchi no chikaku ni arimasu.) - The cash register is near the exit.
+
+#### In a Park
+* **ベンチは木の下にあります。** (Benchi wa ki no shita ni arimasu.) - The bench is under the tree.
+* **ゴミ箱は公園の入り口にあります。** (Gomibako wa kouen no iriguchi ni arimasu.) - The trash can is at the entrance of the park.
+* **池には鯉がいます。** (Ike ni wa koi ga imasu.) - There are carp in the pond. *Note: Even though "koi" is an animal, we can use "arimasu" in a more general sense.*
+
+
+### Additional Notes
+You can use various prepositions to indicate specific locations:
+* **上 (ue):** on top of
+* **下 (shita):** under
+* **中 (naka):** inside
+* **そば (soba):** near
+* **後ろ (ushiro):** behind
+* **前 (mae):** in front of
+
+By combining these prepositions with different nouns, you can express a wide range of locations.
+ 
+**Would you like to explore more examples with specific themes or vocabulary?** Here are some ideas:
+* Describing a room in detail
+* Giving directions to a place
+* Talking about objects in a store
+
+Please let me know if you have any other questions.
+
+
+###################################################################################################
+
+2.N は P に います。
+This indicates the existence of humans and animals in a certain place
+3A: しゃちょうはどこに いますか。
+shachoowa dokoni imasuka
+Where is the company president?
+4B:しゃちょうは あのへやに います。
+shachoowa anoheyani imasu
+He is in that room.
+-------------------
+
+give many best example like above with most important japanese vocab
+
+***************************************************************************************************
+
+## Let's delve deeper into the grammar structure "N は P に います"!
+
+### Understanding the Structure
+As you've correctly pointed out, "N は P に います" is used to indicate the existence of a person or animal in a specific place.
+
+* **N:** The noun or subject (who)
+* **は (wa):** The topic marker
+* **P:** The place
+* **に (ni):** Indicates a location
+* **います (imasu):** Indicates the existence of a living thing
+
+### More Examples with Essential Vocabulary
+
+#### In a School
+* **生徒は教室にいます。** (Seito wa kyoushitsu ni imasu.) - The students are in the classroom.
+* **先生は職員室にいます。** (Sensei wa shokumu-shitsu ni imasu.) - The teacher is in the staff room. 
+* **猫は校庭にいます。** (Neko wa koten ni imasu.) - The cat is in the schoolyard.
+
+#### In a Hospital
+* **患者は病室にいます。** (Kanja wa byoushitsu ni imasu.) - The patient is in the hospital room.
+* **医師は手術室にいます。** (Ishi wa shushutsu-shitsu ni imasu.) - The doctor is in the operating room.
+* **看護師はナースステーションにいます。** (Kangoshi wa naasu-suteshon ni imasu.) - The nurse is at the nurse's station.
+
+#### In a Restaurant
+* **客はテーブルに座っています。** (Kyaku wa tēburu ni suwatte imasu.) - The customers are sitting at the table.
+* **シェフはキッチンにいます。** (Shefu wa kichin ni imasu.) - The chef is in the kitchen.
+* **ウェイターはカウンターにいます。** (Weitā wa kauntā ni imasu.) - The waiter is at the counter.
+
+### English Translations
+* The students are in the classroom.
+* The teacher is in the staff room.
+* The cat is in the schoolyard.
+* The patient is in the hospital room.
+* The doctor is in the operating room.
+* The nurse is at the nurse's station.
+* The customers are sitting at the table.
+* The chef is in the kitchen.
+* The waiter is at the counter.
+
+### Additional Notes
+You can use various question words to ask about location:
+* **どこ (doko):** where
+* **どこに (doko ni):** where (with a location marker)
+* **どこへ (doko e):** where (to)
+
+You can also use different particles to express more complex ideas:
+* **も (mo):** also
+* **だけ (dake):** only
+
+### Practice with More Complex Sentences
+* **私の友達は公園で遊んでいます。** (Watashi no tomodachi wa kouen de asonde imasu.) - My friend is playing in the park.
+* **犬はソファーの下に隠れています。** (Inu wa sofā no shita ni kakurete imasu.) - The dog is hiding under the sofa.
+* **彼らは会議室で会議をしています。** (Karera wa kaigishitsu de kaigi o shite imasu.) - They are having a meeting in the conference room.
+
+**Would you like to explore more examples with specific themes or vocabulary?** Here are some ideas:
+* Describing a party scene
+* Talking about people's daily routines
+* Discussing where animals live
+
+Please let me know if you have any other questions.
+
+
+###################################################################################################
+
+
+
+-------------------
+
+give many best example like above with most important japanese vocab
+
+***************************************************************************************************
+
+
+
+###################################################################################################
+
+
+-------------------
+
+give many best example like above with most important japanese vocab
+
+***************************************************************************************************
+
+
+
+###################################################################################################
+
+
+
+-------------------
+
+give many best example like above with most important japanese vocab
+
+***************************************************************************************************
+
+
+
+###################################################################################################
+
+
+-------------------
+
+give many best example like above with most important japanese vocab
+
+***************************************************************************************************
+
+
+
+###################################################################################################
+
+
+
+-------------------
+
+give many best example like above with most important japanese vocab
+
+***************************************************************************************************
+
+
+
+###################################################################################################
+
+
+-------------------
+
+give many best example like above with most important japanese vocab
+
+***************************************************************************************************
+
+
+
+###################################################################################################
+
