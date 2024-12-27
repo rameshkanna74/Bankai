@@ -1,0 +1,93 @@
+---
+
+give best time and space complexity code in rust,give variables usefull name, add comments to explain the code way more clear,also add code to run example case
+
+---
+
+
+
+===============
+take below one for example only, create formated table like below for above converation, use english for explaining
+===============
+
+| Speaker    | Japanese (Hiragana)                                                                                                                                                                                                                                                                                                                                                                    | Japanese (Kanji)                                                                                                                                                                                                                                                                                                                  | English Translation                                                                                                                                                                                                                                                                                                                                                                      | Romaji                                                                                                                                                                                                                                                                                                                                                                         | Notes                                                                                           |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| 宅配便の人 | たなくびん です。 お とどけもの です。                                                                                                                                                                                                                                                                                                                                                 | 宅配便です。 お届け物です。                                                                                                                                                                                                                                                                                                       | It's the delivery service. Your delivery has arrived.                                                                                                                                                                                                                                                                                                                                    | takkyubin desu. o todokemono desu.                                                                                                                                                                                                                                                                                                                                             | _宅配便_ (takkyubin) is a noun meaning "delivery service".                                      |
+| 安藤       | はい。                                                                                                                                                                                                                                                                                                                                                                                 | はい。                                                                                                                                                                                                                                                                                                                            | Yes.                                                                                                                                                                                                                                                                                                                                                                                     | hai.                                                                                                                                                                                                                                                                                                                                                                           | A simple affirmative response.                                                                  |
+| 宅配便の人 | こちらの サインを お ねがいします。 ありがとうございました。                                                                                                                                                                                                                                                                                                                           | こちらの サインを お願いします。 ありがとうございました。                                                                                                                                                                                                                                                                         | Please sign here. Thank you.                                                                                                                                                                                                                                                                                                                                                             | kochira no sain wo onegai shimasu. arigatou gozaimashita.                                                                                                                                                                                                                                                                                                                      | _サイン_ (sain) is a loanword from English meaning "signature".                                 |
+
+
+   ==============================
+
+   take below one for example only, create formated table like below for all 25 above vocab, give explaination in english
+
+   ---
+
+   | No. | Japanese (Kanji) | Hiragana | Romaji  | English Translation | Part of Speech   | Example Sentence (Japanese) | Example Sentence (English) | Example Sentence (Romaji)     | Notes                          |
+   | --- | ------- | -------- | ------- | ---------- | ------- | --------- | -------- | ----------- | --- |
+   | 1   | 私               | わたし   | watashi | I                   | Pronoun          | 私は学生です。              | I am a student.            | watashi wa gakusei desu.      | Basic pronoun for "I"          |
+   | 2   | 貴方           | あなた   | anata   | you                 | Pronoun          | あなたは先生ですか？        | Are you a teacher?         | anata wa sensei desu ka?      | Used for "you"                 |
+   | 3   | ドイツ           | どいつ       | doitsu     | Germany             | Proper noun      | ドイツに行ったことがあります。   | I have been to Germany.          | Doitsu ni itta koto ga arimasu.     | Country name                                             |
+   | 4  | から             | から         | kara       | from                | Particle         | 日本から来ました。               | I came from Japan.               | Nihon kara kimashita.               | Indicates origin                                         |
+
+   ---
+
+   also do formatting like this for above all data, when creating table use the number given in input
+
+
+
+
+==================
+
+give many best example to master this grammar, give all important points to consider when using this grammar,use english for explaining
+
+==================
+give many many many best example to master this grammar, give all important points to consider when using this grammar, also give practice session new question,use english for explaining
+
+
+
+create useful table for above grammar
+
+
+
+===========================
+Please provide a detailed explanation for the above Japanese grammar point. Your response should include the following sections and follow this format:
+
+1. **Explanation:**
+   - Briefly explain the grammar point, including its usage and significance in Japanese.
+
+2. **Conjugation/Transformation Rules:**
+   - Describe how to convert or transform the base form into its various grammatical forms if applicable.
+
+3. **Examples and Explanation:**
+   - Give new examples (more than 10)
+   - Create a table with the following columns:
+     - **No.**: Number of the example.
+     - **Japanese Sentence (Hiragana)**: The sentence written in Hiragana.
+     - **Japanese Sentence (Kanji)**: The sentence written in Kanji.
+     - **English Translation**: The English translation of the sentence.
+     - **Romaji**: The sentence written in Romaji.
+     - **Notes**: Additional notes explaining the usage of the grammar point in the sentence.
+
+4. **Important Points:**
+   - Highlight key points to remember about the grammar point.
+   - Include any nuances or special cases.
+
+5. **Practice:**
+   - Provide a section with practice exercises where the reader can apply the grammar point.
+
+
+
+==================
+give many many many(more than 10 Please) best example to master this grammar, give all important points to consider when using this grammar, also give practice session new question,use english for explaining
+
+
+
+==============
+give ten new more example to master above grammar,
+this below one is for example only 
+| No. | Japanese Sentence (Hiragana) | Japanese Sentence (Kanji) | English Translation | Romaji | Notes |
+|---|---|---|---|---|---|
+| 5 | いぬがえさをほしがっていると言っていました。 | 犬が餌を欲しがっていると言っていました。 | They said that the dog is asking for food. | Inu ga esa o hoshigatte iru to itte imashita. | The statement about the dog's need for food is being reported. |
+| 6 | えいがはよるにやっていると言っていました。 | 映画は夜にやっていると言っていました。 | They said that the movie is showing at night. | Eiga wa yoru ni yatte iru to itte imashita. | The information about the movie schedule is being reported. |
+use this format 
