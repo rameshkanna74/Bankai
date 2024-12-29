@@ -1,3 +1,0 @@
-Invalid input: *
-Invalid input: test
-Valid number: 77
