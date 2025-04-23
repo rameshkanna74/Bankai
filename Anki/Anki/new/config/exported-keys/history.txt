@@ -1,0 +1,4636 @@
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+p10k configure
+sudo apt install docker.io
+docker --version
+sudo apt install ./docker-desktop-4.27.2-amd64.deb
+sudo apt install lazydocker
+cd .local/bin
+./lazydocker
+alias ld='/home/aurexus/.local/bin/lazydocker'\
+
+sudo docker pull postgres
+sudo apt install docker-compose 
+cd Django/Zeus/Django-aurexus
+sudo apt install ./vdhcoapp-linux-x86_64.deb
+reboo
+ssh-keygen -t rsa -b 4096 -C "rameshkanna725@gmail.com"\
+
+cat /home/aurexus/.ssh/id_rsa
+cat /home/aurexus/.ssh/id_rsa.pub
+ssh rameshkanna7@github.com\
+
+ssh rameshkanna74@github.com\
+
+git@github.com:rameshkanna74/Django-aurexus.git
+git clone git@github.com:rameshkanna74/Django-aurexus.git
+cd Spell_check_skl
+tar -cJf compressed_spell.tar.xz spell_ipynb
+cd Music/Python/py_labelme/
+cd network_share
+rm network_share
+rmdir network_share
+tar -cJf 1_labelme.tar.xz Labelme
+which tesseract
+mkdir data_l
+pip uninstall opencv-python
+source ve
+source ~/Music/Python/py_labelme/Labelme/bin/activate
+tesseract django-logo.png output_text\
+
+tesseract Example_of_french-spaced_text_(1874).jpg output_text
+tesseract Example_of_french-spaced_text_\(1874\).jpg frenct.txt
+sudo apt-get install tesseract-ocr-fra\
+
+tesseract Example_of_french-spaced_text_\(1874\).jpg frenct.txt -l fra --psm 1 --oem 1 preserve_interword_spaces=1
+tesseract Example_of_french-spaced_text_\(1874\).jpg frenct.txt -l fra --psm 1 --oem 1 
+tesseract Example_of_french-spaced_text_\(1874\).jpg frenct.txt -l fra 
+python opencv_tess.py
+labelme data_l
+venv/bin/python -m pip install opencv-python pytesseract numpy
+cd data_l
+python 3_tesseract.py
+python 4_tesseract.py
+source /home/aurexus/Music/tesseract_ocr/venv/bin/activate
+python 2_tesseract.py
+sudo apt-get install flameshot\
+
+flameshot gui
+python base_tesseract.py
+python 4_ocr.py
+cd Music/Python
+docker exec -it my-postgres-container bash\
+
+curl https://get.modular.com | sh - && \\
+modular auth mut_84a2f2cace404c799d3146e7f3b368e2
+sudo apt-get update && \\
+sudo apt-get install modular && \\
+modular clean && \\
+modular install mojo
+sudo apt install modular
+modular auth
+modular auth mut_84a2f2cace404c799d3146e7f3b368e2
+conda init 
+modular install mojo
+modular update mojo
+modular update https://packages.modular.com/mojo
+mojo --verison
+modular --version
+mojo
+source ~/.bash_profile
+source ~/.bashrc
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+source "$HOME/.cargo/env"
+exit()\
+:quit
+cd Django/Mojo
+mkdir rustt
+mkdir rust
+rmdir rustt
+mkdir moon
+cd moon
+docker exec -it my_postgres_container bash
+docker exec -it my-postgres-container bash
+sudo apt safe-upgrade
+cd miniconda3/envs/light
+cd lib/
+cd s
+cd share
+sudo apt upgrade libreoffice
+lvim
+sudo service ntp restart\
+
+sudo systemctl status ntp\
+
+sudo apt udpate
+sudo apt ugrade
+date
+cd /home/aurexus/Music/Python/sss/escriptorium-develop
+sudo apt udate
+gpg --gen-ky
+gpg --edit-key 51F90B7E1188A8BD7F3A855F15F39F5B06E46689
+pass init 51F90B7E1188A8BD7F3A855F15F39F5B06E46689
+pass insert gmail
+sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl\
+sudo chmod a+rx /usr/local/bin/youtube-dl
+ls /usr/local/bin/youtube-dl
+sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl\
+sudo chmod a+rx /usr/local/bin/youtube-dl
+find senpwai
+ld
+cd Python
+cd sss
+cd senZmaki
+yt-dlp https://www.youtube.com/watch\?v\=VsxFSTf8MA8
+yt-dlp https://www.youtube.com/watch\?v\=VsxFSTf8MA8 -S res:1080
+yt-dlp https://www.youtube.com/watch\?v\=VsxFSTf8MA8 -F
+yt-dlp https://www.youtube.com/watch\?v\=VsxFSTf8MA8 -f 18
+yt-dlp https://www.youtube.com/watch\?v\=fMPTSiOuNpA -F
+yt-dlp https://www.youtube.com/watch\?v\=fMPTSiOuNpA -f b*
+yt-dlp https://www.youtube.com/watch\?v\=fMPTSiOuNpA -f b
+yt-dlp  -f b https://www.youtube.com/watch\?v\=MJ2B5-Yn-10
+ven
+cd rust
+git clone https://github.com/guimcaballero/bevy_chess
+cd bevy_chess
+rustup default nightly\
+
+sudo apt-get install clang\
+
+git clone https://github.com/CudiLala/Rust-axum-postgres-CRUD-app.git\
+cd Rust-axum-postgres-CRUD-app\
+
+psql -U postgres\
+
+psql
+sudo -U postgres psql
+sudo -u postgres psql -U axum_postgres 
+sudo -u postgres psql -U 
+sudo -u postgres psql -U axum_postgres -d axum_postgres
+sudo -u postgres psql -U postgres -d axum_postgres
+./target/debug/axum-postgres
+cd D
+cd Default
+cd Profile\ 1/
+cd Extensions
+cd..
+tar -cvJf tar_profile.tar.xz  Profile\ 1/
+bah
+tar -cvzf template.tar.gz pdf_work\
+
+tar -cvzf template.tar.xz pdf_work\
+
+tar -cJvf new_template.tar.xz pdf_work\
+
+sudo apt install thunderbird
+cd djangobnb-main
+bun run dev
+help
+man zsh
+new
+histroy
+/usr/bin/z
+/usr/bin/zsh
+curl https://raw.githubusercontent.com/jesseduffield/lazydocker/master/scripts/install_update_linux.sh | bash
+lazydockr
+cd /home/aurexus/Music/stein/dj_next/djangobnb_backend-main
+docker exec -it my_flask_app /bin/bash\
+
+docker exec -it 31b65a936020 /bin/bash\
+\
+
+docker run -it --name my_flask_app my_flask_app /bin/bash\
+
+docker run -it dbac312e830e  my_flask_app /bin/bash\
+
+docker exec -it dbac312e830e /bin/bash\
+\
+
+cd facto_blueprints
+cat j
+cat jumpstart.txt
+cd /home/aurexus/Django/speedrun/starter-main/requirements.txt
+cd /home/aurexus/Django/speedrun/starter-main/
+venv/bin/python manage.py createsuperuser
+venv/bin/python manage.py inspectdb > test.py
+which shell
+which sh
+which xsh
+which zsh
+echo $SHELL
+sudo apt install git
+mv ~/.zshrc ~/.zshrc.bak
+touch ~/.zshrc 
+nvim .zshrc
+sudo apt install fzf
+sudo apt install ca-certificates apt-transport-https\
+
+date\
+
+sudo ntpdate pool.ntp.org\
+
+sudo parrot-mirror-selector\
+
+sudo apt update -o Acquire::Mirrors=https://mirrors.nxtgen.com/parrot-mirror
+ip lo
+ip help
+ip show
+ip address
+cd /home/aurexus/Videos/dj_dev/video-membership
+cat requirements.
+pip install -r requirements.
+python -c 'import cassandra; print (cassandra.__version__)'
+cd video-membership-main
+python -m uvicorn app.main:app --reload
+cd Debian-Hyprland
+./install.sh
+cd Hyprland
+H
+H!
+hyperland
+source red/bin/activate
+cd PRE
+cd Pokemon
+cd PokemonRedExperiments/
+cd baselines
+python run_pretrained_interactive.py
+source /home/aurexus/Videos/Fastapi_async/async-fastapi-sqlalchemy-main/venv/bin/activate
+black app
+ruff app
+ruff check app
+mypy a
+mypy app
+pytest app
+docker run -d --name db \\
+  -e POSTGRES_PASSWORD=password \\
+  -e PGDATA=/var/lib/postgresql/data/pgdata \\
+  -v pgdata:/var/lib/postgresql/data/pgdata \\
+  -p 5432:5432 \\
+  postgres:15.2-alpine
+./home/aurexus/Django/NVChad/nvim-linux64/bin/nvim
+/home/aurexus/Django/NVChad/nvim-linux64/bin/nvim
+yt-dlp -f b https://www.youtube.com/watch\?v\=rQ_J9WH6CGk
+cd /Django/dragon/onur/
+mkdir meshida
+kraken/bin/activatge
+source kraken/bin/activate
+conda remove py_env --all
+conda remove -n  py_env --all
+conda remove -n  light --all
+conda remove -n  python8 --all
+conda activate python8
+conda create -n arch python=3.11
+conda create -n arch python=3.12
+codium /home/aurexus/miniconda3/envs/arch/lib/python3.12/site-packages/kraken/
+mkdir kamui
+cd kamui
+nana environmental.yml
+conda env create -f environment.yml
+nano environmental.yml
+conda env create -f environmental.yml
+cd miniconda3/envs/
+rm kamui
+rm -rf kamui
+conda create -n kraken python=3.11
+pip install kraken --upgrade
+jupyter --data-dir
+jupyter --debug
+jupyter --runtime-dir
+jupyter --paths
+conda update matplotlib
+conda update -n lua  matplotlib
+python -m matplotlib
+python -m matplotlib --vesron
+python -m matplotlib --vesrion
+python -m matplotlib 
+conda activate moon 
+conda install jupyter
+pip install black
+black 
+black --help
+conda install seaborn
+conda install plotly
+conda install pandas numpy matplotlib scikit-learn jupyter
+tar -cJf moon.tar.xz moon
+tar -cJf lua.tar.xz lua
+rm lua.tar.xz
+tar -cJfv lua.tar.xz lua
+tar -vcJf lua.tar.xz lua
+senpcli -q 720p tar -cJf lua.tar.xz lua 
+senpcli -q 720p reborn as monster
+senpcli -q 720p reborn-as-monster
+senpcli -q 720p reborn-as-a-monster-what-the-hell
+tar -vcJf kraken.tar.xz kraken
+cd Django/dragon/onur
+cd meshida
+yt-dlp -f b https://www.youtube.com/watch\?v\=F-nG-rOL17c
+yt-dlp -f b https://www.youtube.com/watch\?v\=0B7yhtmfdTg
+yt-dlp -f b https://www.youtube.com/watch\?v\=mixoUMr3rpY
+yt-dlp -f b https://www.youtube.com/watch\?v\=d454d6bZvqw
+ps
+senpcli -q 720p mob-ps
+senpcli -q 720p Kono-Subarashii-Sekai-ni-Shukufu
+senpcli -s sub -q 720p Kono-Subarashii-Sekai-ni-Shukufu
+senpcli -sd sub -q 720p Kono-Subarashii-Sekai-ni-Shukufu
+redshift 3200
+redshift --help
+redshift -h
+redshift -) 3000
+curl -sSLf https://github.com/aclap-dev/vdhcoapp/releases/latest/download/install.sh | bash
+fzf data/MNIST/raw/train-images-idx3-ubyte.gz
+cd /home/aurexus/Pictures/kraken_train/kraken_train_data
+ketos train batch-1/*.yml
+ketos train batch-1/*.png
+cd batch-1
+ketos train *.txt
+cd batch-2
+ketos train *.xml
+ketos train kraken_train_data/*.xml
+kraken
+dev_env/bin/python -m ketos train kraken_train_data/batch-1/*.yml
+dev_env/bin/python -m pip list
+dev_env/bin/python -m pip install kraken
+dev_env/bin/python -m kraken
+dev_env/bin/python -m kraken --version
+python -m venv kraken_pip
+source kraken_pip
+/home/aurexus/Pictures/dev/kraken_pip/bin/python -m pip install kraken\
+
+ketos train /home/aurexus/Pictures/dev/kraken_env_for_ocr/kraken_train_data/batch-1kraken_train_data/*.xml
+ketos train /home/aurexus/Pictures/dev/kraken_env_for_ocr/kraken_train_data/batch-1/*.xml
+ketos train /home/aurexus/Pictures/dev/kraken_env_for_ocr/lectaurep-repertoires-main/data/Arsenal_Ms-10292/*.xml
+ketos train /home/aurexus/Pictures/dev/kraken_env_for_ocr/lectaurep-repertoires-main/data/Arsenal_Ms-10283/*.xml
+ketos train kraken_train_data/batch-1/*.xml
+pip isntall kraken=5.2.4
+pip install kraken=5.2.4
+pip install kraken==5.2.4
+ketos train kraken_train_data/batch-1/*.txt
+ketos train -f xml  kraken_train_data/batch-1/*.txt
+ketos train -f xml  kraken_train_data/batch-1/*.xml
+ketos test -m model_best.mlmodel  kraken_train_data/batch-1/*.jpg
+ketos test -m model_best.mlmodel  kraken_train_data/batch-1/*.xml
+ketos test -m model_best.mlmodel -f xml  kraken_train_data/batch-1/*.xml
+kraken get 10.5281/zenodo.2577813
+kraken get 10.5281/zenodo.10886224
+ketos test -m ManuMcFondue.mlmodel -f xml  kraken_train_data/batch-1/*.xml
+ketos test -m en_best.mlmodel -f xml  kraken_train_data/batch-1/*.xml
+ketos test -m Tridis_Medieval_EarlyModern.mlmodel -f xml  kraken_train_data/batch-1/*.xml
+kraken clear
+kraken -a -i post-32175-032282300+1281431179-2009663509.jpg image.txt segment -bl ocr -m en_best.mlmodel
+kraken -a -i Screen Shot 2020-01-21 at 4.31.44 PM.png  image.txt segment -bl ocr -m en_best.mlmodel
+kraken -a -i test_1.png  image.txt segment -bl ocr -m en_best.mlmodel
+kraken  -i test_1.png  image.txt segment -bl ocr -m en_best.mlmodel
+kraken  -i image-4-1675429106.jpeg  image.txt segment -bl ocr -m en_best.mlmodel
+kraken  -i FRAD072_12J381_lettre0002_003.jpg  image.txt segment -bl ocr -m en_best.mlmodel
+kraken  -i FRAD072_12J381_lettre0002_003.jpg  image.txt segment -bl ocr -m model_pec_9789_nfc.mlmodel
+kraken -a  -i FRAD072_12J381_lettre0002_003.jpg  image.txt segment -bl ocr -m model_pec_9789_nfc.mlmodel
+pip isntall kraken
+senpcli -sd sub -q 720p Sticky Fingers  
+senpcli -sd sub -q 720p Sticky-Fingers  
+senpcli -sd sub -q 720p black-clover-tv -se 110
+senpcli -sd sub -q 720p black-clover-tv -se 110 -hls
+senpcli -sd sub -q 720p black-clover-tv -se 110 
+senpcli -sd sub -q 720p nierautomata-ver1-1a
+senpcli -sd sub -q 720p arifureta-shokugyou-de-sekai-saikyou
+senpcli -sd sub -q 720p arifureta-shokugyou-de-sekai-saikyou-season-2
+senpcli -sd sub -q 720p I‚ÄÉπve Been Killing Slimes for 300 Years and Maxed Out My Level
+senpcli -sd sub -q 720p slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita
+senpcli -sd sub -q 720p souno
+senpcli -sd sub -q 720p sou
+senpcli -sd sub -q 720p fir
+senpcli -sd sub -q 720p fira
+senpcli -sd sub -q 720p sousou
+senpcli -sd sub -q 360p sousou
+mpv *
+ketos segtrain -f alto batch-1/*.xml --resize both -i blla.mlmodel -o output
+ketos segtrain -f alto kraken_train_data/Arsenal_Ms-10283/*.xml --resize both -i blla.mlmodel -o output
+./zilla2john.py MEGA-RECOVERYKEY.7z > hashfile.txt
+john --help
+sudo apt install john
+john
+pass_gen.pl
+cat telegram2john.py
+sudo apt install waydroid
+curl https://repo.waydro.id | sudo bash
+sudo curl https://repo.waydro.id | sudo bash
+sudo apt install adb
+sudo apt install snap
+redshift -O 3000
+redshift -O 100
+redshift -O 1000
+redshift -x
+sudo apt-get update\
+sudo apt-get upgrade
+sudo apt install git postgresql postgresql-contrib libpq-dev redis-server gettext netcat-traditional jpegoptim pngcrush libvips build-essential python3 python3-dev python3-venv npm
+sudo service postgresql start\
+sudo service redis-server start
+mkdir escriptorium
+mv escriptorium aux-escriptorium
+git clone https://gitlab.com/scripta/escriptorium.git 
+venv/bin/python -m pip install -U pip setuptools wheel
+venv/bin/python -m pip install -r app/requirements.txt -r app/requirements-dev.txt
+venv/bin/python -m pip install -r app/requirements-dev.txt
+cat app/requirements.txt
+venv/bin/python -m pip install Pillow>=5.4.1
+venv/bin/python -m pip install "Pillow>=5.4.1"
+venv/bin/python -m pip install "pyspark>=3.0.1"
+venv/bin/python -m pip install -r app/requirements.txt 
+cp app/escriptorium/local_settings.py.example app/escriptorium/local_settings.py
+npm install -g npm@10.8.1
+sudo npm install -g npm@10.8.1
+gunicorn --bind 0.0.0.0:5000 wsgi:application
+nano docker_clean.sh
+USED_IMAGES=$(docker ps -a --format '{{.Image}}' | sort | uniq)\
+
+ALL_IMAGES=$(docker images --format '{{.Repository}}:{{.Tag}}' | sort | uniq)\
+
+IMAGES_TO_DELETE=$(comm -23 <(echo "$ALL_IMAGES") <(echo "$USED_IMAGES"))\
+
+for image in $IMAGES_TO_DELETE; do\
+  docker rmi $image\
+done\
+
+vim docker_clean.sh
+pip uninstall psycopg2-binary 
+python manage.py makemessages --all --settings escriptorium.local_settings\
+python manage.py compilemessages --settings escriptorium.local_settings
+ssudo apt-get update\
+
+sudo apt install lsb-release curl gpg
+curl -fsSL https://packages.redis.io/gpg | sudo gpg --dearmor -o /usr/share/keyrings/redis-archive-keyring.gpg\
+\
+echo "deb [signed-by=/usr/share/keyrings/redis-archive-keyring.gpg] https://packages.redis.io/deb $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/redis.list\
+\
+sudo apt-get update\
+sudo apt-get install redis
+sudo systemctl start redis\
+sudo systemctl enable redis\
+
+redis
+sudo apt install redis
+redis --version
+sudo systemctl start redis\
+
+sudo apt-get install redis-server\
+
+sudo systemctl start redis-server\
+\
+
+sudo systemctl enable redis-server\
+
+sudo systemctl status redis-server\
+
+which redis-server\
+
+sudo netstat -tuln | grep 6379\
+
+sudo kill -9 <PID>\
+
+redis-server &\
+\
+
+docker build -t my-ocr-app .\
+
+docker run -p 8080:8080 my-ocr-app
+tar -czvf your_file.tar.gz escriptorium\
+
+tar -tzvf your_file.tar.gz\
+
+ls -ah
+ls -h
+lsa
+mkdir ocr_model_run
+cd aux-escriptorium
+cd ocr_model_run
+venv/bin/python -m pip install coremltools
+vim model_convert.py
+rm .
+ls -l
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu\
+
+pip install --upgrade coremltools\
+
+python model_convert.py
+docker compose up
+docker-compose up
+docker-compose exec callico-app /bin/bash\
+
+sudo systemctl stop redis-server\
+
+source /home/aurexus/Django/dragon/Kraken/venv/bin/activate
+docker-compose run callico django-admin createsuperuser~
+docker-compose run callico django-admin migrate\
+
+docker-compose run callico django-admin createsuperuser
+cd Pictures/
+yt-dlp -f b https://youtu.be/PNsiWJvvf2g
+mpv .
+mpv P
+mpv Power\ Rangers\ Ninja\ Storm\ Theme\ Tamil\ Version\ \[PNsiWJvvf2g\].mp4
+cd /home/aurexus/Pictures/Aurexus/arkindex
+git clone git@gitlab.teklia.com:arkindex/backend.git\
+
+https://gitlab.teklia.com/arkindex/backend.git
+git clone https://gitlab.teklia.com/arkindex/backend.git
+git clone https://gitlab.teklia.com:arkindex/frontend.git
+git clone https://gitlab.teklia.com/arkindex/frontend.git
+python -m venv ark
+source ark/bin/activate
+ark/bin/python -m pip install -e .[test]
+ark/bin/python -m pip install -r requirements.txt
+ark/bin/python -m pip install -r tests-requirements.txt
+make services
+yt-dlp -f b https://www.youtube.com/watch\?v\=RmvpyuRaAmg
+yt-dlp -f b https://www.youtube.com/watch\?v\=WbNNESIxJnY
+docker stop 377ae0f5ff07
+docker stop ce15d6d7f39f
+venv/bin/python -m pip install django
+pip freeze > zzz_requirements.txt
+mkdir src
+codium --list-extensions > vscode-extensions.txt\
+
+lz
+cd derek
+mv derek dj_chat_and
+cd dj_chat_and
+yt-dlp -f b https://www.youtube.com/playlist\?list\=PL5E1F5cTSTtRSP3Qb8-gZ-Hm5AXp3VKvu
+yt-dlp -f b https://www.youtube.com/playlist\?list\=PLOLrQ9Pn6cayGytG1fgUPEsUp3Onol8V7
+cd flask_crud
+yt-dlp -f b https://www.youtube.com/playlist\?list\=PLOLrQ9Pn6cayGytG1fgUPEsUp3Onol8V7 > playlist.txt
+ls static
+ls static/translations
+python app.py
+source /home/aurexus/Django/Medusa/venv/bin/activate
+docker stop flask-app \
+
+docker ps\
+
+senpcli -sd sub -q 360p kenja-no-mago
+senpcli -sd sub -q 360p akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen
+senpcli -sd sub -q 360p King Crimson
+senpcli -sd sub -q 360p za warudo
+senpcli -sd sub -q 360p King-Crimson
+senpcli -sd sub -q 360p za-warudo
+python -m pip install senpwai --upgrade
+python -m pip install yt-dlp --upgrade
+sudo apt install ffmpeg
+rm pip_upgrade.sh
+nano pip_upgrade.sh
+bash pip_upgrade.sh
+yt-dlp -f w https://www.youtube.com/watch\?v\=RaIasOylbYs
+yt-dlp -f w https://www.youtube.com/watch\?v\=XQKaj0Gv8oU
+yt-dlp -f w https://www.youtube.com/watch\?v\=nV7mkKwaikQ
+yt-dlp -f b https://www.youtube.com/watch\?v\=ShdVSaE79KY
+yt-dlp -f b https://www.youtube.com/watch\?v\=_Q9gAJevTc8
+yt-dlp -f b https://www.youtube.com/shorts/k_XxD3U98fY
+docker build -t flask-app .\
+
+docker run -p 8080:8080 flask-app
+cd andrei
+mkdir dj_vue_stei
+mkdir dj_vue_stein
+rm dj_vue_stei
+rmdir dj_vue_stei
+cd dj_vue_stein
+pip isntall django
+django-admin startproject codingjobs
+cd codingjobs
+mkdir apps
+mkdir apps/core
+python manage.py startapp core apps/core
+yt-dlp -f b https://www.youtube.com/watch\?v\=IgBOT0QyByQ
+mpv Vue\ 101\ Crash\ CourseÔºÉ∫\ Learn\ Vue\ JS\ \(6\ HOURS\!\)\ +\ Build\ Your\ First\ Project\ ÔΩÉº\ Zero\ To\ Mastery\ \[IgBOT0QyByQ\].mp4
+docker stop $(docker ps -aq)\
+
+docker rm $(docker ps -aq)
+docker rmi $(docker images -q)\
+
+docker volume rm $(docker volume ls -q)\
+
+docker network rm $(docker network ls -q)\
+
+python -m pip install -r requirements.txt
+ls callico
+cat callico/manage.py
+python callico/manage.py runserver 
+python callico/manage.py test
+cd /home/aurexus/Desktop/callico_django/callico-master
+python callico-master/callico/manage.py runserver
+mv django-starter-main callico
+mv callico callico-master
+cd callico-master
+senpcli -sd sub -q 720p -hls vinland-saga
+senpcli -sd sub -q 720p -hls vinland-saga-2
+cd /home/aurexus/Music/aux_kraken_test
+kraken -a -i Balzac1624_Lettres_btv1b86262420_corrected_0068.png image.txt segment -bl ocr -m bleu.mlmodel
+kraken -i Balzac1624_Lettres_btv1b86262420_corrected_0068.png lines.json segment -bl ocr -m bleu.mlmodel
+kraken -i Balzac1624_Lettres_btv1b86262420_corrected_0068.png lines.json segment -bl ocr -m cheddar.mlmodel
+cd escriptorium-develop
+sudo systemctl stop redis-server
+redis-cli ping\
+
+sudo apt update\
+sudo apt install redis-server\
+sudo systemctl start redis\
+sudo systemctl enable redis\
+
+sudo systemctl start redis-server
+sudo systemctl status redis-server
+celery -A your_project_name worker --loglevel=info\
+
+source /home/aurexus/Pictures/dbrouke/venv/bin/activate
+codium Custom\ HTR
+conda uninstall scikit-learn
+conda install scikit-learn
+pip install transformers
+senpcli -sd sub -q 400p -hls boku-no
+senpcli -sd sub -q 480p -hls boku-no-hero
+senpcli -sd sub -q 360p boku-no-hero
+hto[
+DJANGO_SETTINGS_MODULE=escriptorium.local_settings celery -A escriptorium.celery:app -l info\
+
+\! pg_dump -U postgres -s escriptorium > escriptorium_schema.sql\
+
+pg_dump -U postgres -s escriptorium > escriptorium_schema.sql\
+
+sudo -u postgres psql\
+
+pg_dump -U postgres -p root -s escriptorium > ~/escriptorium_schema.sql\
+
+pg_dump -U postgres -s escriptorium > ~/escriptorium_schema.sql\
+
+sudo pg_dump -U postgres -s escriptorium > ~/escriptorium_schema.sql\
+
+sudo -u postgres pg_dump -U postgres -s escriptorium > ~/escriptorium_schema.sql\
+
+cd Pic
+cd /home/aurexus/Documents/Dj_learn
+cd newfile
+python manage.py makemigrations
+python manage.py runserver 
+createdb escriptorium
+sudo npm install -g n
+sudo n latest
+hash -r
+npm audit fix
+python manage.py makemessages --all --settings escriptorium.local_settings
+python manage.py compilemessages --settings escriptorium.local_settings
+sudo service redis-server status\
+
+senpcli -sd sub -q 720p -hls mushoku-tensei-isekai-ittara-honki-dasu -se 3
+senpcli -sd sub -q 360p -hls mushoku-tensei-isekai-ittara-honki-dasu-2nd-season
+senpcli -sd sub -q 360p -hls mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2
+senpcli -sd sub -q 360p -hls mushoku-tensei-isekai-ittara-honki-dasu-special
+senpcli -sd sub -q 360p -hls prison-school
+senpcli -sd sub -q 360p -s gogo prison-school
+senpcli -sd sub -q 360p -s gogo mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2
+senpcli -sd sub -q 360p -s gogo mushoku-tensei-isekai-ittara-honki-dasu-special
+senpcli -sd sub -q 360p -s gogo mushoku-tensei-ii-isekai-ittara-honki-dasu
+senpcli -sd sub -q 360p -s gogo mushoku-tensei-isekai-ittara-honki-dasu-2nd-season
+cd Django/dragon
+cd o
+	cd onur
+cd 2D-portfolio
+touch download.py
+nano download.py
+python download.py
+sudo service redis-server start\
+
+sudo apt install obs
+sudo apt install obs-studio
+obs-studio
+cd Pictures/Aurexus
+cd Music/aux_kraken_test/
+cd /home/aurexus/Pictures/Aurexus/aux-escriptorium/escriptorium 
+sudo service redis-server start
+pip install pip --upgrade
+yt-dlp -f b https://www.youtube.com/watch\?v\=-MYsqfD2sRY
+cd dwhelper
+yt-dlp -f b https://www.youtube.com/shorts/op-qCf1kXuk
+pip uninstall coremltools
+pip install torch
+nano torch_model.py
+cat torch_model.py
+python torch_model.py
+pip install requests
+cd Music/Python/Picarta
+yt-dlp -f b https://youtu.be/i06C2KuaiGY
+python free_tier_api.py
+sudo apt install anydesk
+sudo apt install ./anydesk_6.3.2-1_amd64.deb
+yt-dlp -f b https://www.youtube.com/watch\?v\=j9lJbpumnyk\&pp\=ygUQb2ZmIGdyaWQgZmFybWluZw%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=71F0XK1_u0I\&pp\=ygUQb2ZmIGdyaWQgZmFybWluZw%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=T9oXE9xJDug\&pp\=ygUQb2ZmIGdyaWQgZmFybWluZw%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=QSnHShly5R0\&pp\=ygUQb2ZmIGdyaWQgZmFybWluZw%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=VmQ9WDmLe1w\&pp\=ygUQb2ZmIGdyaWQgZmFybWluZw%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=p8y54IdWPo4\&pp\=ygUQb2ZmIGdyaWQgZmFybWluZw%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=J94TqEEPp1I\&pp\=ygUQb2ZmIGdyaWQgZmFybWluZw%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=XC3Stj33Gts\&pp\=ygUQb2ZmIGdyaWQgZmFybWluZw%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=FJv_nCAdCio\&pp\=ygUQb2ZmIGdyaWQgZmFybWluZw%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=T15gXm6ha_I\&pp\=ygUQb2ZmIGdyaWQgZmFybWluZw%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=MpDgE-DCqzs\&pp\=ygUWZm9vZCBmb3Jlc3QgdGFtaWwgbmFkdQ%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=wZmLpih1xb8\&pp\=ygUWZm9vZCBmb3Jlc3QgdGFtaWwgbmFkdQ%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=KvoQScWaxyA\&pp\=ygUWZm9vZCBmb3Jlc3QgdGFtaWwgbmFkdQ%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=UlVqJTUNgIM\&pp\=ygUWZm9vZCBmb3Jlc3QgdGFtaWwgbmFkdQ%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=yNCN7ODoEbU\&pp\=ygUWZm9vZCBmb3Jlc3QgdGFtaWwgbmFkdQ%3D%3
+yt-dlp -f b https://www.youtube.com/watch\?v\=yNCN7ODoEbU\&pp\=ygUWZm9vZCBmb3Jlc3QgdGFtaWwgbmFkdQ%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=Iy9XTRLpqQE\&pp\=ygUWZm9vZCBmb3Jlc3QgdGFtaWwgbmFkdQ%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=b-cxRpEy4QE\&pp\=ygUWZm9vZCBmb3Jlc3QgdGFtaWwgbmFkdQ%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=OaR-18W7Eek\&pp\=ygUWZm9vZCBmb3Jlc3QgdGFtaWwgbmFkdQ%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=YhMtINv6ioo
+cd Music/vanilla_js
+yt-dlp -f b https://www.youtube.com/watch\?v\=xP07THIxerQ\&pp\=ygUucHJpbmNlIG9mIHBlcnNpYSB3YXJyaW9yIHdpdGhpbiBwY3N4MiBzZXR0aW5ncw%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=ZJaCE8qPoGc\&pp\=ygUecmVzaWRlbnQgZXZpbCA0IHBjc3gyIHNldHRpbmdz
+yt-dlp -f b https://www.youtube.com/watch\?v\=G1cYYkDtRPk\&pp\=ygUqbW9ydGFsIGtvbWJhdCBzaGFvbGluIG1vbmtzIHBjc3gyIHNldHRpbmdz
+yt-dlp -f b https://www.youtube.com/watch\?v\=H4G37oqrAUE\&pp\=ygUfcGNzeDIgc2V0dGluZ3MgZm9yIGdvZCBvZiB3YXIgMQ%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=td1J5yozMj4
+yt-dlp -f b https://i.ytimg.com/an_webp/gr83mBvhZkA/mqdefault_6s.webp\?du\=3000\&sqp\=CMDw9LMG\&rs\=AOn4CLBRSKfdXoSzq30ikEteh6kMRSyhgw
+yt-dlp -f b https://www.youtube.com/watch\?v\=DvD5sjBxF0A
+yt-dlp -f b https://www.youtube.com/watch\?v\=DJF__5GWU34
+conda create -n kraken python=3.12
+/home/aurexus/miniconda3/envs/kraken/bin/pip install "kraken==5.2.5"
+conda create -n kraken python=3.11.2
+conda activate kraken
+pip lsita
+sudo fallocate -l 8G /swapfile\
+
+sudo mkswap /swapfile\
+
+sudo chmod 600 /swapfile\
+
+sudo swapoff -a\
+
+sudo swapon /swapfile\
+
+sudo swapoff /swapfile\
+sudo rm /swapfile\
+sudo fallocate -l 8G /swapfile  # Adjust size as needed\
+sudo chmod 600 /swapfile\
+sudo mkswap /swapfile\
+sudo swapon /swapfile\
+
+sudo file -s /swapfile\
+
+sudo tail -n 20 /var/log/syslog\
+
+sudo swapoff /swapfile\
+sudo rm /swapfile\
+sudo fallocate -l 8G /swapfile\
+sudo chmod 600 /swapfile\
+sudo mkswap /swapfile\
+sudo swapon /swapfile\
+
+sudo fdisk /dev/sdX\
+
+sudo fdisk /dev/sda\
+
+/home/aurexus/miniconda3/envs/kraken/bin/pip install -r requirements.txt
+/home/aurexus/miniconda3/envs/kraken/bin/pip list
+tar -czvf your_file.tar.gz /home/aurexus/miniconda3/envs/kraken\
+
+yt-dlp -f b https://www.youtube.com/watch\?v\=xvZg29lUzKU
+yt-dlp -f b https://www.youtube.com/watch\?v\=gJAa-D3AI40
+yt-dlp -f b https://www.youtube.com/watch\?v\=SPs5-JDmxDs
+rm -rf  dj_chat_and
+sudo rm -rf dj_chat_and
+sudo pluma .
+hp
+sudo pluma .zshrc
+yt-dlp -f b alias sz='cd ~/Django/Dante && source ~/Music/Python/sss/senZmaki/venv/bin/activate'\
+
+yt-dlp -f b https://www.youtube.com/watch\?v\=xlAVEOi7uY4\&pp\=ygUWdGhlbm5hbnRob3BwdSBpbiB0YW1pbA%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=3GN63hA5M7Q\&pp\=ygUWdGhlbm5hbnRob3BwdSBpbiB0YW1pbA%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=KyFw027mPEU\&pp\=ygUWdGhlbm5hbnRob3BwdSBpbiB0YW1pbA%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=gPj-PQHj6xI\&pp\=ygUWdGhlbm5hbnRob3BwdSBpbiB0YW1pbA%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=Fdah8D9stsY\&pp\=ygUWdGhlbm5hbnRob3BwdSBpbiB0YW1pbA%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=7agbBBQgNK0\&pp\=ygUWdGhlbm5hbnRob3BwdSBpbiB0YW1pbA%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=GackqvQCdHI\&pp\=ygUWdGhlbm5hbnRob3BwdSBpbiB0YW1pbA%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=QjrSdh_KLZk\&pp\=ygUWdGhlbm5hbnRob3BwdSBpbiB0YW1pbA%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=fRCWj9o4wqQ\&pp\=ygUWdGhlbm5hbnRob3BwdSBpbiB0YW1pbA%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=D7Wc024afn4\&pp\=ygUWdGhlbm5hbnRob3BwdSBpbiB0YW1pbA%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=cjEnMOs1-Hw\&pp\=ygUWdGhlbm5hbnRob3BwdSBpbiB0YW1pbA%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=cjEnMOs1-Hw -o '%(title).100s.%(ext)s'\
+
+yt-dlp -f b https://www.youtube.com/watch\?v\=cjEnMOs1-Hw -o 'coconut.%(ext)s'\
+
+sh upgrade_pip_packages.sh
+pip install --upgrade senpwai
+python 
+Labelme/bin/pip install --upgrade pip
+Labelme/bin/pip install --upgrade labelme
+conda create -n labelme python=3.12
+conda activate labelme
+pip install --upgrade labelme
+yt-dlp -f b https://youtu.be/iFEVef5XdMI
+tar -czvf your_file.tar.gz /home/aurexus/miniconda3/envs/labelme
+labelme/Scripts/python 
+ls labelme/Scripts/
+tar -cvf - max.txt | gpg -c -o max.tar.gpg\
+
+gpg -d yourarchive.tar.gpg | tar -xv\
+
+gpg -d max.tar.gpg | tar -xv\
+
+sudo apt install ./freetube_0.21.0_amd64.deb 
+yt-dlp -f 'bestvideo[ext=mp4]+bestaudio[ext=m4a]' https://youtu.be/iFEVef5XdMI\
+
+yt-dlp -f 'bestvideo[height<=1080]+bestaudio' https://youtu.be/iFEVef5XdMI
+pip install ipykernel --upgrade
+pip install matplotlib numpy --upgrade
+mkdir Debian
+yt-dlp -f 'bestvideo[height<=780]+bestaudio' https://www.youtube.com/watch\?v\=DH2-TsrMRns
+yt-dlp -f b https://www.youtube.com/watch\?v\=DH2-TsrMRns
+yt-dlp -f b https://i.ytimg.com/an_webp/cCNlKOnGuBY/mqdefault_6s.webp\?du\=3000\&sqp\=COyflLQG\&rs\=AOn4CLAmkAG2TvRLTOjnEv2RE_thlOUzNw
+yt-dlp -f b https://www.youtube.com/watch\?v\=VCZQZwtQzrg
+yt-dlp -f b https://www.youtube.com/watch\?v\=cCNlKOnGuBY
+cd Debian
+yt-dlp -f 'bestvideo[height<=780]+bestaudio' https://www.youtube.com/watch\?v\=1Lmyh0YRH-w
+yt-dlp -f 'bestvideo[height<=780]+bestaudio' https://www.youtube.com/watch\?v\=VljhZ0e9zGE\&t\=1239s
+yt-dlp -f 'bestvideo[height<=780]+bestaudio' https://www.youtube.com/watch\?v\=hZ0dRTYy5NA
+yt-dlp -f 'bestvideo[height<=780]+bestaudio' https://www.youtube.com/watch\?v\=niMybnzmzqc
+yt-dlp -f 'bestvideo[height<=780]+bestaudio' https://www.youtube.com/watch\?v\=ns73xOcl9es
+yt-dlp -f 'bestvideo[height<=780]+bestaudio' https://www.youtube.com/watch\?v\=dlCcnJdh4c4
+yt-dlp -f 'bestvideo[height<=780]+bestaudio' https://www.youtube.com/watch\?v\=05ptDtpyAGo
+pip install yt-dlp --upgrade
+yt-dlp -f 'bestvideo[height<=780]+bestaudio' https://www.youtube.com/watch\?v\=KYxlM0hh96o\&t\=2361s
+yt-dlp -f 'bestvideo[height<=780]+bestaudio' https://www.youtube.com/watch\?v\=1fI4eRoKhrc\&t\=699s
+yt-dlp -f 'bestvideo[height<=780]+bestaudio' https://www.youtube.com/watch\?v\=Fu-W2VyJYRc\&t\=778s
+yt-dlp -f 'bestvideo[height<=780]+bestaudio' https://www.youtube.com/watch\?v\=875RhZwa-6M\&t\=96s
+. Labelme/bin/activate
+cd Music/Python/
+mkdir Easy_OCR_Docker
+cd Easy_OCR_Docker
+source /home/aurexus/Documents/Dj_learn/venv/bin/activate
+mkdir google_vision_python
+cd google_vision_python
+venv/bin/python -m pip install google-cloud-vision
+python json_parser.py
+python Lua/json_to_db.py
+git clone https://github.com/agalea91/dotfiles.git ~/dotfiles\
+ln -s ~/dotfiles/alacritty ~/.config/alacritty\
+ln -s ~/dotfiles/nvim ~/.config/nvim\
+ln -s ~/dotfiles/.tmux.conf ~/.tmux.conf
+cd ~/do
+cd ~/dotfiles
+cat .zsh
+senpcli -sd sub -q 720p -hls isekai-yakkyoku
+./gnirehtet
+gnirehtet install
+yt-dlp -f 'bestvideo[height<=1080]+bestaudio' https://www.youtube.com/watch\?v\=ISb8MkRItEk\&pp\=ygUYZmlnbWEgdHV0b3JpYWwgZm9yIHRhbWls
+mv images.csv ocr_results.csv /home/aurexus/Desktop
+sudo mv images.csv ocr_results.csv /home/aurexus/Desktop
+cd /tmp
+python /home/aurexus/Music/Python/py_labelme/Labelme/lib/python3.11/site-packages/labelme/google_folder.py
+cd Zeus
+cat Untitled.ipynb
+rm Untitled.ipynb
+mkdir google_document_ai_test
+cd google_document_ai_test
+touch google_folder_ocr.py
+python /home/aurexus/Django/dev/google_document_ai_test/google_folder_ocr.py
+sudo apt install ./msodbcsql17_17.10.5.1-1_amd64.deb 
+cd Lua
+pip install pyinstaller
+pyinstaller /home/aurexus/Music/Python/py_labelme/Labelme/lib/python3.11/site-packages/labelme/app.py
+nvim 
+cd /home/aurexus/Music/Python/py_labelme/Lua
+cd /home/aurexus/Music/Python/py_labelme/Labelme/lib/python3.11/site-packages
+yt-dlp -f 'bestvideo[height<=1080]+bestaudio' https://www.youtube.com/watch\?v\=COE-vPSRyLQ\&pp\=ygUNIFVuIFBvY28gTG9jbw%3D%3D
+yt-dlp -f 'bestvideo[height<=720]+bestaudio' https://www.youtube.com/watch\?v\=COE-vPSRyLQ\&pp\=ygUNIFVuIFBvY28gTG9jbw%3D%3D
+yt-dlp -f b https://www.youtube.com/watch\?v\=COE-vPSRyLQ\&pp\=ygUNIFVuIFBvY28gTG9jbw%3D%3D -o 'coco.%(ext)s'\
+
+python backend/manage.py createsuperuser
+python py_client/labelme_login.py
+whoami
+id -u
+sudo -l
+yt-dlp -f 'bestvideo[height<=720]+bestaudio' https://www.youtube.com/watch\?v\=f_9NBdSAo-g
+mkdir pyqt_learn
+cd pyqt_learn
+. venv/bin/activate
+pip install pillow matplotlib
+pip install PyQt5
+python first_app.py
+/home/aurexus/Django/dev/pyqt_learn/venv/bin/python /home/aurexus/Django/dev/pyqt_learn/calculator.py
+/home/aurexus/Django/dev/pyqt_learn/venv/bin/python /home/aurexus/Django/dev/pyqt_learn/yt_dlp.py
+python yt_dlp.py
+yt-dlp -f 'bestvideo[height<=720]+bestaudio' https://youtu.be/kykDfDtp7Wg
+yt-dlp -f 'bestvideo[height<=720]+bestaudio' https://youtu.be/rfM3Jli81fU
+cd /home/aurexus/Music/Python/py_labelme
+cd /home/aurexus/Django/dev
+sudo apt updatew
+sudo apt install kdenlive
+killall -9 mpv\
+
+pluma .zshrc
+yt-dlp -f 'bestvideo[height<=720]+bestaudio' https://youtu.be/6AvhGeZBl-c
+yt-dlp -f 'bestvideo[height<=720]+bestaudio' https://youtu.be/zlwQERpksnw
+yt-dlp -f 'bestvideo[height<=720]+bestaudio' https://youtu.be/TDCpgOMvIkc
+yt-dlp -f 'bestvideo[height<=720]+bestaudio' https://youtu.be/rfTgO9rpqck
+yt-dlp -f 'bestvideo[height<=720]+bestaudio' https://youtu.be/BGpzGu9Yp6Y
+source /home/aurexus/Django/dev/pyqt_learn/venv/bin/activate
+/home/aurexus/Pictures/Aurexus/aux-escriptorium/escriptorium
+python manage.py check --settings escriptorium.local_settings
+python manage.py makemigrations --settings escriptorium.local_settings
+python manage.py migrate --settings escriptorium.local_settings
+python manage.py createsuperuser --settings escriptorium.local_settings
+DJANGO_SETTINGS_MODULE=escriptorium.local_settings celery -A escriptorium worker -l INFO &
+python progress_pop_up.py
+python backend/manage.py runserver 5000
+tar -czvf Labelme.tar.gz Labelme
+cd Labelme/bin/
+ls -r
+ls lib
+cd lib/python3.11
+cd site-packages
+venv/bin/python -m pip install python-dotenv
+venv/bin/python -m pip install psycopg2-binary
+venv/bin/python Zeus/manage.py check
+venv/bin/python Zeus/manage.py makemigrations
+venv/bin/python Zeus/manage.py migrate
+python Zeus/manage.py createsuperuser
+python Zeus/manage.py runserver 
+cd Music
+nano labelme.spec
+cd ~/Music/Python/py_labelme/Labelme/lib64/python3.11/site-packages
+cd labelme
+pyinstaller app.spec
+./app
+source /home/aurexus/Django/dev/saas/venv/bin/activate
+django-admin
+mkdir mymc
+cd mymc
+python gui
+python gui.py
+python mymc.py
+tar -czvf re4_lost_in_dard.tar.gz RE4\ Lost\ In\ The\ Darkness.iso
+tar -czvf re4_lost_in_dard.tar.xz RE4\ Lost\ In\ The\ Darkness.iso
+zip re4_lost.zip RE4\ Lost\ In\ The\ Darkness.iso
+mkdir backend
+pip install djangorestframework
+django-admin startproject tamil
+python manage.py startapp users apps/users
+python manage.py startapp users 
+python manage.py test
+python manage.py test users
+mkdir bs4
+cd bs4
+touch a_tag_with_drive_in_href.py
+nano a_tag_with_drive_in_href.py
+python a_tag_with_drive_in_href.py
+touch link_download.py
+curl -o 1.pdf https://drive.google.com/uc\?id\=1b_D-ayzl-9gPd1XspNkwHrZi5G-dO-nJ\&export\=download
+python link_download.py
+python -m pip install --upgrade pip
+pip install djangorestframework --upgrade
+pip install requests --upgrade
+pip install pyyaml --upgrade
+python manage.py shell
+cd /home/aurexus/Django/dev/drf
+cd backend
+senpcli -sd sub -q 480p -hls dr-stone-stone-wars
+senpcli -sd sub -q 480p -hls dr-stone-3rd-season
+python py_client/basic.py
+cp pytorch-deep-learning-main.zip ~/Music
+lsblk\
+
+rustup update
+java --verison
+java -h
+java -versin
+java -version
+java --version
+go --verion
+go verion
+sudo apt upgrade go
+cargo --version
+sudo apt upgrade python
+sudo apt upgrade pythone
+sudo apt upgrade python3
+sudo apt dist-upgrade\
+
+sudo apt install libvterm0\
+
+touch /usr/share/applications/vim.desktop
+sudo touch /usr/share/applications/vim.desktop
+sudo apt full-upgrade\
+
+yt-dlp -f 'bestvideo[height<=1080]+bestaudio' https://www.youtube.com/watch\?v\=Rqj7yZCQgjM
+cat INSTALL.md
+ls -a
+sudo apt search compiz
+sudo apt install compiz-mate
+sudo apt uninstall compiz-mate
+sudo apt remove compiz-mate
+sudo apt remove compiz
+sudo apt remove compiz-core
+tar -czvf max.tar.xz  max
+python python_to_obsidian.py
+code .
+python -m venv venv
+pip install huggingface_hub
+huggingface-cli login
+yt-dlp -f 'bestvideo[height<=1080]+bestaudio' https://www.youtube.com/playlist\?list\=PLV3rF--heRVt8j1knkQ5nPCQuyEPy3Rz8
+yt-dlp -f 'bestvideo[height<=720]+bestaudio' https://www.youtube.com/playlist\?list\=PLV3rF--heRVt8j1knkQ5nPCQuyEPy3Rz8
+yt-dlp -f 'bestvideo[height<=480]+bestaudio' https://www.youtube.com/playlist\?list\=PLV3rF--heRVt8j1knkQ5nPCQuyEPy3Rz8
+mkdir dyson
+cd dyson
+yt-dlp -f 'bestvideo[height<=480]+bestaudio' https://www.youtube.com/playlist\?list\=PLV3rF--heRVvMZ8hHe5BHWRGrt1lXfaqt
+cd Videos/Toul
+def process_document(image_path):
+# Function to process all images in a given folder
+def process_folder(folder_path):
+python /home/aurexus/Music/Python/py_labelme/Labelme/lib/python3.11/site-packages/labelme/TOUL.py
+python to_csv.py
+mkdir sample_17
+cd sample_17
+touch google_ai.py
+cp jetBrains/JetBrainsMono-MediumItalic.ttf .
+python google_ai.py
+python draw_ocr_box.py
+conda update scikit-learn
+conda install seaborn plotly
+conda update -n thunder --all
+conda install tensorflow
+conda list
+pip --disable-pip-version-check list --outdated --format=json | \\
+python -c "import json, sys; print('\n'.join([x['name'] for x in json.load(sys.stdin)]))" | \\
+xargs -n1 pip install -U\
+
+touch pip_upgrade.py
+nano pip_upgrade.py
+python pip_upgrade.py
+pip install -U tensorflow
+mkdir huggingface
+cd huggingface
+pip install transformers torch\
+
+pip install timm
+pip install --upgrade transformers\
+
+pip install --upgrade transformers torch\
+
+python verify_model_config.py
+python table_reg_torch.py
+python table_plot.py 
+rustup --version
+rustc --version
+mkdir rust_learn
+touch hello.rs
+/home/aurexus/Django/dev/huggingface/rust_learn\
+
+sudo apt upgrade terminator
+sudo apt install tmux
+cd /home/aurexus/Django/dev/huggingface/rust_learn\
+
+rustc hello.rs
+man tmxu
+./hello
+python download_table_reg_ms_model.py
+sudo apt update && sudo apt upgrade -y
+sudo apt install btop
+senpcli -sd sub -q 480p oshi-no-ko-2nd-season
+senpcli -sd sub -q 480p oshi-no-ko
+mv ~/.config/nvim{,.bak}
+source /home/aurexus/Music/Python/google_vision_python/venv/bin/activate
+python download_ocr_table.py
+python table_detr.py
+pip install --upgrade pip\
+
+pip install --upgrade pandas ipykernel\
+
+pip install --upgrade matplotlib numpy seaborn pandas ipykernel openpyxl\
+
+yt-dlp -f 'bestvideo[height<=1080]+bestaudio' https://www.youtube.com/watch\?v\=rQ_J9WH6CGk
+pip install --upgrade requests
+python midjoureny_api/upload_describe.py
+python midjoureny_api/describe.py
+sclear
+sudo apt remove freetube
+yt-dlp -f 'bestvideo[height<=1080]+bestaudio' https://www.youtube.com/watch\?v\=GIRN-7dm7cE
+sudo apt install zathura
+sudo apt install ncdu
+ncdu
+curl cht.sh/docker
+curl cht.sh/python
+curl cht.sh
+curl cht.sh/ks
+curl cht.sh/ls
+python midjoureny_api/message.py
+python midjoureny_api/describe_and_fetch.py
+sudo apt install tilix
+tilix
+touch default.xml
+nano default.xml
+virsh net-define default.xml\
+
+virsh net-start default\
+
+virsh net-autostart default\
+
+virsh net-list --all\
+
+tmux --help
+man tmux
+tmux -V
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+SZ
+senpcli -sd sub -q 720p Attack on Titan Season 1
+senpcli -sd sub -q 720p Attack-on-Titan-Season-1
+senpcli -sd sub -q 720p shingeki-no-kyojin
+senpcli -sd sub -q 480p shingeki-no-kyojin-season-2
+$HOME/.tmux.conf
+$HOME/tmux/.tmux.conf
+cd .con
+mkdir
+mkdir tmux
+cd tmux
+touch tmux.conf
+touch ~/.config/tmux/tmux.conf
+tmux source ~/.config/tmux/tmux.conf
+senpcli -sd sub -q 480p grand-blue
+senpcli -sd sub -q 480p shingeki-no-kyojin-season-3
+tmux new-session\
+
+btop
+senpcli -sd sub -q 480p shingeki-no-kyojin-season-3-part-2
+tmux new-session
+lv ~/.config/tmux/tmux.conf
+tmux source-file ~/.config/tmux/tmux.conf\
+
+senpcli -sd sub -q 480p shingeki-no-kyojin-season-4
+senpcli -sd sub -q 480p shingeki-no-kyojin
+senpcli -sd sub -q 480p shingeki-no-kyojin-
+sudo apt install pass
+gpg --edit-key 01589B39BA9C16566BAEC46BA812A712862E673C
+pass init 01589B39BA9C16566BAEC46BA812A712862E673C
+pass git init
+pass insert github
+pass edit github
+pass grep "email:"
+pass find kisame
+pass kisame
+pass show kisame
+pass edit kisame
+senpcli -sd sub -q 480p shingeki-no-ky
+mkdir django-talk
+pip install --upgrade sentence-transformer
+pip install --upgrade sentence-transformers
+python manage.py startapp blog
+pip install pgvector
+source /home/aurexus/Django/dev/django-talk/Bankai/bin/activate
+pip install python-decouple dj-database-url
+pip install openai
+python manage.py runserver
+yt-dlp -f 'bestvideo[height<=1080]+bestaudio' https://www.youtube.com/playlist\?list\=PL5E1F5cTSTtRHN1WynTlFmr9ozlfZEUNI
+mkdir alpine_dj
+cd alpine_dj
+y1 https://www.youtube.com/playlist\?list\=PL5E1F5cTSTtRKVmQk3kvf-znDevE6KbKP
+mkdir htmx_dj
+cd htmx_dj
+y1 https://www.youtube.com/playlist\?list\=PL5E1F5cTSTtTAIw_lBp1hE8nAKfCXgUpW
+cd chat_dj
+y1 https://www.youtube.com/playlist\?list\=PL5E1F5cTSTtRSP3Qb8-gZ-Hm5AXp3VKvu
+mkdir 2024_08_06
+y1 https://www.youtube.com/watch\?v\=i7v2m-ebXB4
+sudo apt upgrade -y
+sudo apt full-upgrade -y
+y1 https://www.youtube.com/watch\?v\=vsa9GGzMFXQ
+cd .cache
+sudo rm -rf *
+sudo apt install vim
+pip install pandas numpy -U
+pip install pandas numpy 
+pip install pandas numpy matplotlib scikit-learn ipykernel
+pip install pandas numpy matplotlib scikit-learn ipykernel jupyter
+pip install pandas numpy matplotlib scikit-learn ipykernel jupyter seaborn
+pip install pandas numpy matplotlib scikit-learn ipykernel jupyter seaborn\
+
+conda activate arch
+gpg -d max.tar.gpg | tar -xv
+cd kisame
+tar -cvf - max.txt | gpg -c -o max.tar.gpg
+python test.py
+pip install redis
+pip install redis celery
+pip install django-celery-results
+sudo chmod +x entrypoint.sh
+ls -l entrypoint.sh
+pip install flower
+pip isntall beat
+pip install beat
+senpcli -sd sub -q 480p isekai-shikkaku
+pip uninstall beat
+man fzf
+br
+wr
+mv
+mk
+pip install django --upgrade
+pip install django 
+pip install pillow --upgrade
+pip install django-cleanup django-htmx django-allauth --upgrade
+pip install django-cleanup  --upgrade
+python manage.py migrat
+python -m pip install -U 'channels['
+python -m pip install -U 'channels[daphne]'
+venv/bin/python -m pip install -U 'channels[daphne]'
+python -m pip freeze > requirements.txt
+sudo apt search fastfetch
+sudo apt search fast
+sudo apt find fast
+man apt
+cd 2024_08_06
+nano ~/.bashrc
+y7 https://www.youtube.com/watch\?v\=odgD_RdJjCU
+y7 https://www.youtube.com/watch\?v\=_KrLiGhvd6Y
+y7 https://www.youtube.com/watch\?v\=7ZOSbj_KdCY
+y7 https://www.youtube.com/watch\?v\=rCrT8q0_lsg
+y1 https://www.youtube.com/watch\?v\=KEyWijiG_eY
+source /home/aurexus/Django/dev/huggingface/Bankai/bin/activate
+python new_plot.py
+python table_plot.py
+python table_trans_for_new_image.py
+npm v
+npm install d3
+python table_combine_table_trans.py
+pip install pandas numpy matplotlib ipykernel seaborn
+y7 https://www.youtube.com/watch\?v\=zrTKNSoQUrw
+sudo apt install preload
+pip install pandas numpy matplotlib ipykernel seaborn 
+pip install "psycopg[binary]"  
+sudo systemctl enable preload
+sudo systemctl start preload
+sudo systemctl status preload
+7z a archive_name.7z Bankai max\
+
+cd ~/.config/autostart/\
+
+ls /etc/xdg/autostart/\
+
+sudo apt remove anydesk
+udo nano /etc/xdg/autostart/onboard-autostart.desktop
+gsettings set org.gnome.desktop.a11y.applications screen-keyboard-enabled false\
+
+OnlyShowIn=Unity;MATE;\
+
+sudo nano /etc/xdg/autostart/onboard-autostart.desktop\
+
+sudo mv /etc/xdg/autostart/onboard-autostart.desktop /etc/xdg/autostart/onboard-autostart.desktop.bak\
+
+echo -e "[Desktop Entry]\nType=Application\nExec=firefox\nHidden=false\nNoDisplay=false\nX-GNOME-Autostart-enabled=true\nName=Firefox" > ~/.config/autostart/firefox.desktop\
+
+echo -e "[Desktop Entry]\nType=Application\nExec=vscodium\nHidden=false\nNoDisplay=false\nX-GNOME-Autostart-enabled=true\nName=VSCodium" > ~/.config/autostart/vscodium.desktop\
+
+which vscodium
+which codium
+venv/bin/python -m pip install pip-review\
+\
+
+venv/bin/python -m pip-review --auto\
+\
+
+pip-review --auto\
+\
+
+venv/bin/python -m pip-review 
+venv/bin/python -m pip uninstall pip-review
+venv/bin/python -m pip install -U ipykernel\
+
+venv/bin/python -m pip install -U scikit-learn\
+
+venv/bin/python -m pip install -U pyarrow\
+
+venv/bin/python -m pip install -U pandas\
+
+venv/bin/python -m pip list --outdated\
+
+venv/bin/python -m ipykernel\
+
+sudo apt install micro
+micro .zshrc
+y7 https://www.youtube.com/watch\?v\=hDKCxebp88A
+senpcli -sd sub -q 480p mob-psycho-100-ii
+senpcli -sd sub -q 480p mob-psycho-100-iii
+senpcli -sd sub -q 480p devilman-crybaby
+senpcli -sd sub -q 480p gintam -ee 10
+senpcli -sd sub -q 480p gintam -ee 19
+senpcli -sd sub -q 480p violet-evergarden
+senpcli -sd sub -q 480p violet-evergar
+cat .oh-my-zsh
+cat .oh-my-zsh/oh-my-zsh.sh
+nano ~/.config/tmux/tmux.conf
+kate  ~/.config/tmux/tmux.conf
+sudo apt remove geany
+sudo apt install kate
+kate
+sudo apt remove kate
+sudo apt install geany geany-plugins
+sudo apt remove pluma
+zsh
+cd 01_Arrays\&Hashing
+ls ~/.vscode-oss/extensions
+ncdu  ~/.vscode-oss/extensions
+rm -rf ~/.vscode-oss/extensions/\
+
+mkdir 01_Arrays\&Hashing_rust/
+mkdir 02_TwoPointer_rust/
+mkdir 02_TwoPointers_rust/
+rmdir 02_TwoPointer_rust
+cd Django/dev/drf/neet_code
+./01_Arrays\&Hashing_rust/two_sum
+ls 01_Arrays\&Hashing
+ls 01_Arrays\&Hashing_rust
+rustc 01_Arrays\&Hashing_rust/two_sum.rs
+./two_sum
+senpcli -sd sub -q 480p /sono-bisque-doll-wa-koi-wo-suru
+btop --utf-force
+lv 
+cd Django/dev/pyqt_learn
+whi
+sudo apt install python-black
+sudo apt install python3-black
+conda list -n moon
+cleaR
+black .
+sudo apt install lolcat
+lolcat
+lolcat -h
+nano pomodoro.sh\
+
+nano pomodoro.sh | lolcat\
+
+ls | lolcat
+pwd | lolcat
+sudo chmod +x pomodoro.sh\
+\
+
+source ./pomodoro.sh\
+
+nano stopwatch.sh
+sudo chmod +x ./stopwatch.sh
+./stopwatch.sh
+mv test.tst test.py
+lv test.py
+cd rust_code
+rustc 01_Array/01_merge_sorted_array.rs
+./01_merge_sorted_array
+conda install -c anaconda cmake -y\
+
+conda install -c conda-forge nodejs=15 -y\
+
+conda install -c conda-forge nodejs=18 -y\
+
+jupyter labextension install jupyterlab-plotly\
+
+conda install -c conda-forge nodejs=20 -y\
+
+sudo apt upgrade | lolcat
+sudo apt update | lolcat
+btop | lolcat
+btop  --utf-force | lolcat
+htop | lolcat
+lv |lolcat
+conda remove -n rust --all
+conda create -n rust python=3.12
+conda install -c conda-forge jupyterlab
+conda install -c anaconda cmake -y
+conda install -c conda-forge nodejs -u
+conda install -c conda-forge nodejs -y
+cargo install evcxr_jupyter
+cargo install evcxr_jupyter --force
+evcxr_jupyter --install
+jupyter lab
+ls -ls
+git remote add origin git@github.com:rameshkanna74/Bankai.git
+git branch\
+
+* main\
+
+git statsu
+git add zzz.ipynb
+git push -u origin master
+git branc
+git log
+git commit -m "Initial commit"\
+
+git checkout -b feature-branch\
+
+git commit -m "rust notebook"
+git push -u origin feature-branch\
+
+git add japanese/
+git remove japanese
+git rm japanese
+git rm -r japanese
+tar -czvf rust.tar.gz rust
+/bin/python /home/aurexus/Django/dev/drf/python_test/sample.py
+source /home/aurexus/Django/dev/drf/venv/bin/activate
+rm -rf ~/.config/VSCodium\
+
+jupyter 
+sudo apt install cmatrix
+sudo apt-get install aafire\
+
+sudo apt-get install sl\
+
+sudo apt-get install pipes.sh
+pipes.sh
+pipes
+sudo apt-get install caca-utils\
+
+caca
+cacafire
+sudo apt-get install nyancat\
+
+nyancat
+sudo apt-get remove  nyancat -y
+sudo apt-get remove caca-utils\
+
+sudo apt-get remove pipes.sh
+sudo apt-get remove sl\
+
+mkdir GOT
+yt-dlp -f 'bestvideo[height<=480]+bestaudio' https://www.youtube.com/playlist\?list\=PLF8zf110-cmvQJVpgEhGHzhWYkIwv-K79
+yt-dlp -f 'bestvideo[height<=480]+bestaudio' -o "%(title).50s.%(ext)s"  https://www.youtube.com/playlist\?list\=PLF8zf110-cmvQJVpgEhGHzhWYkIwv-K79
+yt-dlp -f 'bestvideo[height<=480]+bestaudio' -o "%(title).110s.%(ext)s"  https://www.youtube.com/playlist\?list\=PLF8zf110-cmvQJVpgEhGHzhWYkIwv-K79
+yt-dlp -f 'bestvideo[height<=480]+bestaudio' -o "%(title).140s.%(ext)s"  https://www.youtube.com/playlist\?list\=PLF8zf110-cmvQJVpgEhGHzhWYkIwv-K79
+yt-dlp -f 'bestvideo[height<=480]+bestaudio' -o "%(title).100s.%(ext)s" https://www.youtube.com/watch\?v\=cR_b7hEGLLw\&list\=PLF8zf110-cmvQJVpgEhGHzhWYkIwv-K79\&index\=6\&pp\=iAQB
+yt-dlp -U
+sudo apt upgrade yt-dlp
+yt-dlp -h
+yt-dlp --version
+yt-dlp -f 'bestvideo[height<=480]+bestaudio' -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=Otlu6gpcjKo
+mkdir shapez
+cd shapez
+yt-dlp -f 'bestvideo[height<=480]+bestaudio' -o "%(title).80s.%(ext)s" https://www.youtube.com/playlist\?list\=PLV3rF--heRVsALWExxYuukXqv_5MoN_Ag
+yt-dlp -f 'bestvideo[height<=480]+bestaudio' -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=ug4SRz5bWro\&list\=PLwLSw1_eDZl0PC3GwSEfl_Oy2Obxw4H5e\&index\=82
+conda list -n base
+Bankai/bin/pip3 install --upgrade pip
+Bankai/bin/pip3 install -r requirements.txt
+Bankai/bin/pip3 install psycopg2-binary
+Bankai/bin/python manage.py createsuperuser
+Bankai/bin/python manage.py makemigrations
+Bankai/bin/python manage.py migrate
+Bankai/bin/python manage.py runserver 8000
+source /home/aurexus/Music/HTMX_CHAT/realtime_chat/venv/bin/activate
+go main.go
+go 
+go run main.go
+go install github.com/antonmedv/countdown@latest
+countdown 25s
+countdown 25m
+yt-dlp -f 'bestvideo[height<=480]+bestaudio' -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=f41F40vl_DU
+yt-dlp -f 'bestvideo[height<=480]+bestaudio' -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=SSAYzgAS6a4
+yt-dlp -f 'bestvideo[height<=480]+bestaudio' -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=Ok3LkltBPuI
+yt-dlp -f 'bestvideo[height<=480]+bestaudio' -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=A0G_VKH-q58
+yt-dlp -f 'bestvideo[height<=480]+bestaudio' -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=ug4SRz5bWro
+yt-dlp -f 'bestvideo[height<=480]+bestaudio' -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=I-yiNKyMPtA\&list\=PLwLSw1_eDZl0yarBY8H1zXi3Oz834aRhm
+yt-dlp -f 'bestvideo[height<=480]+bestaudio' -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=BCTN848crs4\&list\=PLwLSw1_eDZl3C_LTcF5WnEAWUjILtXptk
+#!/bin/bash\
+\
+# Locate Firefox profile directory\
+PROFILE_DIR=$(find ~/.mozilla/firefox -type d -name '*.default-release')\
+SQLITE_FILE="$PROFILE_DIR/cookies.sqlite"\
+\
+# Extract YouTube cookies\
+sqlite3 "$SQLITE_FILE" "SELECT name, value FROM moz_cookies WHERE baseDomain LIKE '%youtube.com%';" > cookies.txt\
+\
+# Convert cookies to the format required by yt-dlp\
+awk -F'|' '{print $1 "\t" $2 "\t" "TRUE" "\t" "/" "\t" "FALSE" "\t" $2}' cookies.txt > formatted_cookies.txt\
+\
+# Use cookies with yt-dlp\
+yt-dlp --cookies formatted_cookies.txt <URL>\
+
+sudo apt install sqlite
+sudo apt install sqlite3
+#!/bin/bash\
+\
+# Locate Firefox profile directory\
+PROFILE_DIR=$(find ~/.mozilla/firefox -type d -name '*.default-release')\
+SQLITE_FILE="$PROFILE_DIR/cookies.sqlite"\
+\
+# Extract YouTube cookies\
+sqlite3 "$SQLITE_FILE" "SELECT name, value FROM moz_cookies WHERE baseDomain LIKE '%youtube.com%';" > cookies.txt\
+\
+# Convert cookies to the format required by yt-dlp\
+awk -F'|' '{print $1 "\t" $2 "\t" "TRUE" "\t" "/" "\t" "FALSE" "\t" $2}' cookies.txt > formatted_cookies.txt\
+
+PROFILE_DIR=$(find ~/.mozilla/firefox -type d -name '*.default-release')\
+cd "$PROFILE_DIR"\
+ls -l cookies.sqlite\
+
+find ~/.mozilla/firefox -type d -name '*.default-release'\
+
+PROFILE_DIR=$(find ~/.mozilla/firefox -type d -name '*.default-release')\
+cd "$PROFILE_DIR"\
+
+cd /home/aurexus/.mozilla/firefox/tiefprrc.default-esr\
+
+ls cookies.sqlite
+sudo chmod +x /home/aurexus/Templates/Bash_Script/yt_dlp_age_res.sh
+bash /home/aurexus/Templates/Bash_Script/yt_dlp_age_res.sh
+cp youtube_cookies.txt ~/
+sudo chmod +x  yt_firefox.sh
+sudo chmod +x ./yt_firefox.sh
+./yt_firefox.sh
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies youtube_cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=I-yiNKyMPtA\&list\=PLwLSw1_eDZl0yarBY8H1zXi3Oz834aRhm
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=I-yiNKyMPtA\&list\=PLwLSw1_eDZl0yarBY8H1zXi3Oz834aRhm
+cd ~/GOT
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=5xkQMiGXJSI\&list\=PLF8zf110-cmvQJVpgEhGHzhWYkIwv-K79\
+
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=5xkQMiGXJSI\&list\=PLF8zf110-cmvQJVpgEhGHzhWYkIwv-K79 > Got.txt\
+
+python Got.txt
+python file_name.py
+python delete.py
+cd /home/aurexus/Templates
+sudo chmod +x clock.sh
+./clock.sh
+./clock.sh --help
+./clock.sh -d 25s -l log.txt
+./clock.sh -d 15 -l log.txt -m "/path/to/your/audio.mp3"\
+
+./clock.sh -d 15 -l log.txt \
+
+./clock.sh -d 5 -l log.txt \
+
+./clock.sh \
+
+./clock.sh -d 5\
+
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/playlist\?list\=PLwLSw1_eDZl3C3peDURtUL6yivoXKvuZ7
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/playlist\?list\=PLwLSw1_eDZl3eT2fOFMIeAJZQpdxe9tmU
+cd .config/mpv
+cd scripts
+lv mpv.conf
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=zu-hLuZgs-I
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=JtKy0vT6QSQ
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=IuRWqzfX1ik
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=HriJkdgNlKs
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=Ug9ljA-M1c0
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=upC8G5yFBsA
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=-b3t37SIyBs
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=gNN5xURIfAc
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=gNN5xURIfAc\&pp\=ygUIaG9tZSBsYWI%3D
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=6t5BQRQJIVY
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=Pc6gs_IPnoc
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=SlImxtdCFSo
+sudo apt install okular
+sudo apt install ktimer
+ktimer
+sudo apt install kclac
+sudo apt install kcalc
+pip install -U ipykernel pandas numpy seaborn
+sudo apt install rclone\
+
+wget -O /tmp/droidcam_client_amd64.deb https://beta.droidcam.app/go/droidCam.client.setup.deb
+sudo apt install -f /tmp/droidcam_client_amd64.deb
+droidcam
+sudo apt install adb\
+
+sudo apt install build-essential linux-headers-$(uname -r)\
+
+cat /var/lib/dkms/v4l2loopback/0.12.7/build/make.log
+sudo apt update\
+sudo apt install v4l2loopback-dkms\
+
+sudo apt autoremove
+apt search linux-image\
+
+sudo apt remove --purge v4l2loopback-dkms\
+
+sudo rm -rf /var/lib/dkms/v4l2loopback\
+sudo rm -rf /lib/modules/$(uname -r)/updates/dkms/v4l2loopback.ko\
+
+sudo apt update\
+sudo apt upgrade\
+
+sudo apt remove --purge droidcam\
+
+sudo apt search droidcam
+sudo apt remove --purge droidcam-client\
+
+sudo -v ; curl https://rclone.org/install.sh | sudo bash
+rclone --version
+go version
+git clone https://github.com/ox-vgg/via.git
+pp
+pip isntall pyodbc
+pip install pyodbc
+pip isntall pandas
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=I0o0f1k65vY
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://youtu.be/7XIH40W6Jls
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://open.spotify.com/show/0ivcTWawIRLXqhV6TbIZ1y
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=kar5fdqLFrU
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=kVpbiV9K25Y
+labelme --version
+labelme --help
+labelme METZ
+sudo rm -rf ~/.cache/*\
+
+celery -A your_project_name worker --loglevel=info
+cd app\
+
+celery -A escriptorium worker -l INFO  
+python manage.py createsuperuser
+pip install -U easyocr
+python folder_ocr.py
+cd rust_learn/Daily_work
+rustc 10_sep.rs
+./10_sep
+sudo virsh net-start default\
+
+sudo virsh net-autostart default\
+
+sudo virsh net-list --all\
+
+which pip3
+pip3 freeze > requirement.txt
+sudo python -m venv Bankai
+sudo rm -rf Bankai
+source /home/aurexus/Documents/Anki/Japanese_notebook/Bankai/bin/activate
+pip install --upgrade yt-dlp
+pip install --upgrade ipykernel
+pip install --upgrade pandas
+pip install --upgrade pyarrow
+yt-dlp --list-extractors\
+
+rm escriptorium_schema.sql
+cat do
+cat docker_clean.sh
+bash docker_clean.sh
+cat pomodoro.sh m
+cat pomodoro.sh 
+cat stopwatch.sh
+s
+cat prompt.txt
+cd /
+[200~sudo apt-get install p7zip-full
+~sudo apt-get install p7zip-full\
+
+sudo apt-get install p7zip-full\
+
+cd Downloads/
+7z a archive_anime.7z Anime
+7z -t archive_anime.7z
+7z t archive_anime.7z
+mkdir nixos
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/playlist\?list\=PLko9chwSoP-15ZtZxu64k_CuTzXrFpxPE
+sudo apt-get install alacritty 
+alacritty
+sudo apt-get install sl
+man sl
+sl
+sudo apt remove --purge sl
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=nLwbNhSxLd4
+/home/aurexus/Videos/easy_ocr/venv/bin/python
+mkdir .config/alacritty
+fzf alacritty.toml
+rmdir alacritty
+rm alacritty
+mkdir alacritty
+cd alacritty
+touch alacritty.toml
+lv alacritty.toml
+nano alacritty.toml
+mv alacritty.toml alacritty.yml
+fonts
+# We use Alacritty's default Linux config directory as our storage location here.\
+mkdir -p ~/.config/alacritty/themes\
+git clone https://github.com/alacritty/alacritty-theme ~/.config/alacritty/themes
+git clone https://github.com/alacritty/alacritty-theme ~/.config/alacritty/themes
+rm ~/.config/alacritty/themes
+rm -rf ~/.config/alacritty/themes
+mkdir -p ~/.config/alacritty/themes\
+git clone https://github.com/alacritty/alacritty-theme ~/.config/alacritty/themes
+cat alacritty.toml
+alacritty --version
+fc-list\
+
+htop
+echo $PATH\
+
+echo $0\
+
+echo $SHELL\
+
+echo $DESKTOP_SESSION\
+
+cp .xsessiorc
+touch .xsessionrc
+lv .xsessionrc
+7z a notebook.7z Japanese_notebook
+codium 
+pip install --upgrade -r requirements.txt\
+
+pip install --upgrade pip setuptools\
+
+pip list --outdated\
+
+rm -rf medium_clone
+rm -rf authors
+rm -rf re4_lost.zip
+cd django-talk
+cat requirements.txt
+rm -rf django-talk
+python3 -m pip install poetry
+sudo apt install python3-poetry
+sudo apt install python3
+cd ..\
+
+poetry add pandas numpy matplotlib seaborn
+poetry add pandas numpy matplotlib seaborn --no-interaction\
+
+sudo systemctl restart dbus\
+
+poetry self update\
+
+pip install --upgrade keyring
+sudo apt install python3-keyring
+keyring --help\
+
+systemctl status dbus\
+
+poetry config --list\
+
+conda activate thunder
+conda remove -n thunder --all
+conda remove -n arch --all
+conda remove -n kraken --all
+conda remove -n labelme --all
+conda create -n py12 python=3.12
+poetry add pandas \
+
+poetry new notebooks\
+
+cd notebooks
+poetry add pandas
+cd drf/japanese
+senpcli -s gogo -sd sub -q 480p dead-mount-death-play
+senpcli -s gogo -sd sub -q 480p dead-mount-death-play-part-2
+python '/home/aurexus/Music/Python/py_labelme/Labelme/lib/python3.11/site-packages/labelme/google_folder.py'
+source kraken_pip/bin/activate
+cd /home/aurexus/Videos/HTR-imprime-18e-siecle-main/data
+ketos train -f xml  bpt6k70173w/*.xml
+touch kraken_ocr.py
+nano kraken_ocr.py
+python kraken_ocr.py
+kraken -i bpt6k822192_f16.tif -m model_best.mlmodel output.txt
+kraken -i Balzac1624_Lettres_btv1b86262420_corrected_0068.png lines.json segment -bl ocr -m dentduchat.mlmodel
+kraken -i bpt6k822192_f16.tif lines.json segment -bl ocr -m dentduchat.mlmodel
+kraken -i bpt6k822192_f16.tif lines.json segment -bl ocr -m model_best.mlmodel
+kraken -i bpt6k70173w_f20.tif lines_2.json segment -bl ocr -m model_best.mlmodel
+ketos train -f xml -i model_best.mlmodel  btv1b86146004/*.xml
+pip install requests_html
+/home/aurexus/Documents/Anki/notebook/Bankai/bin/pip install requests_html
+sudo apt install aria2
+aria2c --help
+aria2c --enable-rpc --rpc-listen-all=true --rpc-allow-origin-all --rpc-secret=boom\
+
+ip addr show\
+
+aria2c --enable-rpc --rpc-listen-all=false --rpc-listen-port=6800 --rpc-allow-origin-all --rpc-secret=boom\
+
+aria2c --enable-rpc --rpc-listen-port=6800 --rpc-allow-origin-all --rpc-secret=boom --disable-ipv6\
+
+curl -X POST http://localhost:6800/jsonrpc \\
+     -d '{"jsonrpc":"2.0","id":"1","method":"aria2.getVersion","params":["boom"]}' \\
+     -H 'Content-Type: application/json'\
+
+‚É¥É¨‚É¥Ä[aurexus@parrot] - [~] - [Mon Sep 16, 09:57]\
+‚É¥É¥‚É¥Ä[$] <> curl -X POST http://localhost:6800/jsonrpc \\
+     -d '{"jsonrpc":"2.0","id":"1","method":"aria2.getVersion","params":["boom"]}' \\
+     -H 'Content-Type: application/json'\
+\
+{"id":"1","jsonrpc":"2.0","error":{"code":1,"message":"Unauthorized"}}%\
+‚É¥É¨‚É¥Ä[aurexus@parrot] - [~] - [Mon Sep 16, 09:58]\
+‚É¥É¥‚É¥Ä[$] <>\
+\
+
+curl -X POST http://localhost:6800/jsonrpc \\
+     -d '{"jsonrpc":"2.0","id":"1","method":"aria2.getVersion"}' \\
+     -H 'Content-Type: application/json' \\
+     -H 'Authorization: Basic boom'\
+
+pkill aria2c  # This command will kill any running aria2c instance\
+aria2c --enable-rpc --rpc-listen-port=6800 --rpc-allow-origin-all --rpc-secret=boom --disable-ipv6\
+
+tail -f ~/.aria2/aria2.log\
+
+pkill aria2c  # This command will kill any running aria2c instance\
+aria2c --enable-rpc --rpc-listen-port=6800 --rpc-allow-origin-all --disable-ipv6\
+
+curl -X POST http://localhost:6800/jsonrpc \\
+     -d '{"jsonrpc":"2.0","id":"1","method":"aria2.getGlobalStat"}' \\
+     -H 'Content-Type: application/json'\
+
+curl -X POST http://localhost:6800/jsonrpc \\
+     -d '{"jsonrpc":"2.0","id":"1","method":"aria2.getVersion"}' \\
+     -H 'Content-Type: application/json'\
+
+lf
+rm hakuneko-6.1.7
+rmdir  hakuneko-6.1.7
+git clone 'https://github.com/manga-download/hakuneko.git' hakuneko
+node build-app.js
+node build-web.js
+rm -rf .git
+./seanime
+pkill seanime
+7z a hakuneko.7z hakuneko
+aria2c --enable-rpc --rpc-listen-port=6800 --rpc-allow-origin-all --rpc-secret=boom --disable-ipv6
+go install github.com/gopasspw/gopass@latest
+go env GOPATH\
+
+export PATH=$PATH:$(go env GOPATH)/bin\
+
+source ~/.zshrc  # or source ~/.bashrc\
+
+ls $(go env GOPATH)/bin/gopass\
+
+$(go env GOPATH)/bin/gopass create\
+
+gopass create
+gopass list
+gopass anki/kisme
+python paddle.py
+cat /proc/cpuinfo | grep avx\
+
+pip uninstall paddlepaddle
+pip install paddlepaddle==2.5.0
+pip install paddlepaddle==2.5.2
+python ocr_paddle.py
+tesseract --version
+easyocr --help
+sudo apt-get install python3-tk\
+
+pip install numpy
+python sample_ocr.py
+python ocr_main.py
+pydoc easyocr\
+
+pip show easyocr\
+
+pip show flask\
+
+pip show torch\
+
+pip show gunicorn
+docker build -t flask-ocr .\
+
+docker run -p 8080:8080 flask-ocr\
+
+kill -9 85114
+kill -9 85572
+lsof -i :5000\
+
+rustup update stable
+mkdir poetry_check
+cd poetry_check
+mv poetry_check senpwai
+git clone https://github.com/SenZmaKi/Senpwai
+python -m venv Bankai
+which python
+cd senpwai
+python image_plot.py
+python senpwai/senpcli/main.py
+python senpwai/main.py
+mkdir /home/aurexus/Documents/Mangas
+gunicorn --bind 0.0.0.0:5000 wsgi:app
+cd Go
+cd GOT
+yt-dlp -f 'bestvideo[height<=1080]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/playlist\?list\=PLwVgIGt40K446aVrcwB66VQh_H0tASWJJ
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/playlist\?list\=PLwVgIGt40K446aVrcwB66VQh_H0tASWJJ
+rm -rf password_generator
+cargo new password_generator\
+cd password_generator\
+
+clear\
+
+cargo run\
+
+cargo run password_checker.rs
+rustc password_checker.rs
+python compress.py
+cd ~/GOT/SS
+yt-dlp -f 'bestvideo[height<=720]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/playlist\?list\=PLwVgIGt40K446aVrcwB66VQh_H0tASWJJ
+yt-dlp -f 'bestvideo[height<=720]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/playlist\?list\=PLwVgIGt40K446aVrcwB66VQh_H0tASWJJ > log.txt
+python rename_py.txt
+python3 -m ven Bankai
+pip install django-allauth
+pip install django-cleanup
+pip install django-cors-headers --upgrade
+pip install pillow gunicorn
+pip install whitenoise
+pip install decouple
+pip install python-decouple
+pip install dj-database-url
+pip install pip install python-decouple
+pip show python-decouple\
+
+pip install python-decouple\
+
+python3 -m pip install -r web/requirements.txt
+pip install --upgrade python-decouple\
+
+python3 -m venv web/Bankai
+source web/Bankai/bin/activate
+pip install -r web/requirements.txt
+python3 web/manage.py makemigrations
+python3 web/manage.py migrate
+python3 web/manage.py createsuperuser
+Bankai/bin/python -m pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+Bankai/bin/python -m pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+Bankai/bin/python -m pip install easyocr
+cargo list
+cargo --list
+cargo add ndarray
+cargo install --list\
+
+cargo install ndarrya
+cargo install ndarray
+rustc --version\
+
+cargo --version\
+
+cargo install evcxr_jupyter --version latest\
+
+cargo install evcxr_jupyter\
+
+sudo apt-get update\
+
+sudo apt-get upgrade\
+
+sudo apt install tesseract-ocr
+cd /home/aurexus/Downloads/Videos/Aria2
+sudo chmod +x tesseract-5.4.1-x86_64.AppImage
+./tesseract-5.4.1-x86_64.AppImage imagename imgpsh_fullsize_anim.jpeg -l fr 
+./tesseract-5.4.1-x86_64.AppImage imagename imgpsh_fullsize_anim.jpeg 
+./tesseract-5.4.1-x86_64.AppImage 
+./tesseract-5.4.1-x86_64.AppImage imgpsh_fullsize_anim.jpeg
+./tesseract-5.4.1-x86_64.AppImage imgpsh_fullsize_anim.jpeg output_file alto\
+
+pip install shapely
+python opencv_region_finder.py
+python opencv_region_cropper_single.py
+yt-dlp -f 'bestvideo[height<=720]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=UucvO4nLdCA
+py
+python easy_ocr_one.py
+yt-dlp -f 'bestvideo[height<=720]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=36KgZyhVEts
+senpcli -s pahe -sd sub -q 480p im-really-not-the-devils-lackey
+senpcli -s gogo -sd sub -q 480p im-really-not-the-devils-lackey
+senpcli -s gogo -sd sub -q 480p failure
+yt-dlp -f 'bestvideo[height<=720]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=GIZ3GjUlkns
+cd mkdir tempest
+mkdir tempest
+cd tempest
+source /home/aurexus/Pictures/Aurexus/flask_easyocr/venv/bin/activate
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/playlist\?list\=PLwLSw1_eDZl0eNUZD2EZUg4k3YiDheOYF
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=w4P6c5KPWrA\
+
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=8Gp5WIcEPhI\
+
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=GIZ3GjUlkns\
+
+sudo apt-get install i2p
+sudo apt-add-repository ppa:i2p-maintainers/i2p
+source labelme/Scripts/activate
+cd Videos/journal_project
+cd Documents
+cd Django/dev
+cd ocr_dataset_create
+cd ~/Videos/journal_project
+python json_to_excel.py
+for i in $(seq -w 1 31); do\
+    touch "${i}_oct.ipynb"\
+done\
+
+for file in *.ipynb; do\
+    mv "$file" "${file// /-}"\
+done\
+
+python replace.py
+touch file_create.py
+nano file_create.py
+python file_create.py
+mkdir strongest_magician_human
+cd strongest_magician_human
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   https://www.youtube.com/playlist\?list\=PLxSscENEp7JgunHOBYisGRlwPBvz-OgL7
+mkdir /home/aurexus/Downloads/Anime/Isekai Shikkaku
+mkdir -p /home/aurexus/Downloads/Anime/Isekai Shikkaku
+senpcli -s gogo -sd sub -q 480p isekai-shik
+senpcli -s gogo -sd sub -q 480p Cowboy_Bebop
+senpcli -s gogo -sd sub -q 480p Koe_no_Katachi
+senpcli -s gogo -sd sub -q 480p Tokyo_Ghoul
+senpcli -s gogo -sd sub -q 480p ninja kamui
+senpcli -s gogo -sd sub -q 480p ninja-kamui
+senpcli -s gogo -sd sub -q 480p Steins_Gate
+senpcli -s gogo -sd sub -q 480p Drifters
+senpcli -s gogo -sd sub -q 480p Tate_no_Yuusha_no_Nariagari_Season_2
+senpcli -s gogo -sd sub -q 480p Tate_no_Yuusha_no_Nariagari_Season
+senpcli -s gogo -sd sub -q 480p No_Game_No_Life__Zero
+senpcli -s gogo -sd sub -q 480p Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season_Part_2
+senpcli -s gogo -sd sub -q 480p Re_Zero_kara_Hajimeru_Isekai_Seikatsu_2nd_Season
+senpcli -s gogo -sd sub -q 480p Daily Lives of HighSchool Boys
+senpcli -s gogo -sd sub -q 480p Daily-Lives-of-HighSchool-Boys
+lsusb\
+
+ls -l /dev/bus/usb\
+
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://youtu.be/CoWGbtnEISA
+cat alacritty.yml
+pluma .
+pluma alacritty.yml
+kate .
+geany .
+sudo apt install preload\
+
+sudo systemctl enable preload && sudo systemctl start preload\
+
+sudo systemctl start preload\
+
+sudo systemctl status preload\
+
+cat cookies.txt
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=BBX5qh09OIE
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=lYkQmFcj84o
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=fr8-7trqoH4
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=E8Bq4DbMaRU\&pp\=ygUUb2ZmIGdyaWQgaG91c2UgYnVpbGQ%3D
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=EEjoszCLy_c
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=LfIotsb4mvw
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=Wl7PvOPVMj0
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=bd9eI4sk8ks\&pp\=ygUVY2hpY2tlbiBjdXR0aW5nIHZpZGVv
+senpcli -s gogo -sd sub -q 480p darling-in-the-franxx
+labelme ~/Videos/journal_project
+pip freeze > labelme_easyocr_requirements.txt
+which python3
+senpcli -s gogo -sd sub -q 480p log-horizon
+rm -rf ~/.config/nvim/lazyvim\
+
+neovim
+parrot-upgrade
+rm -rf ~/.config/nvim/
+cat ~/.config/nvim/
+rm -rf .git/
+cd speedrun
+cd NVChad
+cd djob
+cd dev
+cd drf
+cd rust_learn
+cd dragon
+mpv ÉΩÉ∫É£ÉΩÉπ∑ÉΩÉπ¥\ ÉΩÉπæÉΩÉ∫ÅÉΩÉπ¥ÉΩÉπ∂ÉΩÉπæÉΩÉπΩ\ ÉΩÉ∫É£ÉΩÉ∫ÅÉΩÉπ∞ÉΩÉπ∏ÉΩÉπªÔºÉ∫\ ÉΩÉπ∞ÉΩÉπºÉΩÉπ¥ÉΩÉ∫ÅÉΩÉπ∏ÉΩÉπ≤ÉΩÉπ∞ÉΩÉπΩ\ ÉΩÉ∫ÇÉΩÉπ¥ÉΩÉ∫É£ÉΩÉ∫É£ÉΩÉπªÉΩÉπ¥ÉΩÉ∫Å\ IOS\ OST\ -\ Full\ Soundtrack\ \[h1yNNv2ZUms\].mp4
+senpcli -s gogo -sd sub -q 480p kamonohashi-ron-no-kindan-suiri
+gpg --edit-key 2DB3273973B60F1033B77BA88A2ED460B244D9E4
+mkdir exported-keys
+cd exported-keys
+gpg --output public.pgp --armor --export rameshkanna788@gmail.com
+gpg --output private.pgp --armor --export-secret-key  rameshkanna788@gmail.com
+gpg -K
+cd ~/.tmux/
+cd plugins
+touch main.rs
+lv main.rs
+git add rust_learn/
+git add Python_Haki/
+git commit -m "rust notebook updated"
+cd rust_learn/Ace_75
+rm -rf Ace_75
+mkdir Ace_75
+cd Ace_75
+python3 file_create.py
+git push -u origin feature-branch
+sudo apt install ./opera-stable_114.0.5282.86_amd64.deb
+sz 
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.bilibili.tv/en/video/2008100516
+senpcli -s gogo -sd sub -q 480p tsue-to-tsurugi-no-wistoria
+/home/aurexus/Django/dev/drf/Bankai/bin/python /home/aurexus/Django/dev/drf/Python_Ace/file_create.py
+sudo apt uninstall opera
+sudo apt remove opera
+mkdir dj_rest_framework
+sudo cp /tmp/mozilla_aurexus0/EP.1.v0.1728811507.480p.mp4 ~/Desktop
+sudo chmod 777 EP.1.v0.1728811507.480p.mp4
+echo 'deb http://download.opensuse.org/repositories/home:/ungoogled_chromium/Debian_Sid/ /' | sudo tee /etc/apt/sources.list.d/home:ungoogled_chromium.list\
+curl -fsSL https://download.opensuse.org/repositories/home:ungoogled_chromium/Debian_Sid/Release.key | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/home_ungoogled_chromium.gpg > /dev/null\
+sudo apt update\
+sudo apt install ungoogled-chromium
+echo 'deb http://download.opensuse.org/repositories/home:/ungoogled_chromium/Debian_Sid/ /' | sudo tee /etc/apt/sources.list.d/home:ungoogled_chromium.list
+curl -fsSL https://download.opensuse.org/repositories/home:ungoogled_chromium/Debian_Sid/Release.key | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/home_ungoogled_chromium.gpg > /dev/null
+sudo apt install ungoogled-chromium
+\
+‚É¥É¨‚É¥Ä[aurexus@parrot] - [~] - [Tue Oct 15, 12:17]\
+‚É¥É¥‚É¥Ä[$] <> echo 'deb http://download.opensuse.org/repositories/home:/ungoogled_chromium/Debian_Sid/ /' | sudo tee /etc/apt/sources.list.d/home:ungoogled_chromium.list\
+[sudo] password for aurexus:\
+deb http://download.opensuse.org/repositories/home:/ungoogled_chromium/Debian_Sid/ /\
+‚É¥É¨‚É¥Ä[aurexus@parrot] - [~] - [Tue Oct 15, 12:17]\
+‚É¥É¥‚É¥Ä[$] <> curl -fsSL https://download.opensuse.org/repositories/home:ungoogled_chromium/Debian_Sid/Release.key | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/home_ungoogled_chromium.gpg > /dev/null\
+‚É¥É¨‚É¥Ä[aurexus@parrot] - [~] - [Tue Oct 15, 12:18]\
+‚É¥É¥‚É¥Ä[$] <> sudo apt update\
+Hit:1 https://mirrors.nxtgen.com/parrot-mirror lory InRelease\
+Hit:2 https://deb.parrot.sh/parrot lory InRelease\
+Hit:3 https://deb.parrot.sh/direct/parrot lory InRelease\
+Hit:4 https://packages.cloud.google.com/apt cloud-sdk InRelease\
+Get:5 http://download.opensuse.org/repositories/home:/ungoogled_chromium/Debian_Sid  InRelease [1,551 B]\
+Err:5 http://download.opensuse.org/repositories/home:/ungoogled_chromium/Debian_Sid  InRelease\
+  The following signatures were invalid: EXPKEYSIG 02456C79B2FD48BF home:ungoogled_chromium OBS Project <home:ungoogled_chromium@build.opensuse.org>\
+Reading package lists... Done\
+W: GPG error: http://download.opensuse.org/repositories/home:/ungoogled_chromium/Debian_Sid  InRelease: The following signatures were invalid: EXPKEYSIG 02456C79B2FD48BF home:ungoogled_chromium OBS Project <home:ungoogled_chromium@build.opensuse.org>\
+E: The repository 'http://download.opensuse.org/repositories/home:/ungoogled_chromium/Debian_Sid  InRelease' is not signed.\
+N: Updating from such a repository can't be done securely, and is therefore disabled by default.\
+N: See apt-secure(8) manpage for repository creation and user configuration details.\
+‚É¥É¨‚É¥Ä[aurexus@parrot] - [~] - [Tue Oct 15, 12:18]\
+‚É¥É¥‚É¥Ä[$] <> sudo apt install ungoogled-chromium\
+Reading package lists... Done\
+Building dependency tree... Done\
+Reading state information... Done\
+E: Unable to locate package ungoogled-chromium\
+‚É¥É¨‚É¥Ä[aurexus@parrot] - [~] - [Tue Oct 15, 12:18]\
+‚É¥É¥‚É¥Ä[$] <>\
+\
+\
+
+\
+‚É¥É¨‚É¥Ä[aurexus@parrot] - [~] - [Tue Oct 15, 12:17]\
+‚É¥É¥‚É¥Ä[$] <> echo 'deb http://download.opensuse.org/repositories/home:/ungoogled_chromium/Debian_Sid/ /' | sudo tee /etc/apt/sources.list.d/home:ungoogled_chromium.list\
+[sudo] password for aurexus:\
+deb http://download.opensuse.org/repositories/home:/ungoogled_chromium/Debian_Sid/ /\
+‚É¥É¨‚É¥Ä[aurexus@parrot] - [~] - [Tue Oct 15, 12:17]\
+‚É¥É¥‚É¥Ä[$] <> curl -fsSL https://download.opensuse.org/repositories/home:ungoogled_chromium/Debian_Sid/Release.key | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/home_ungoogled_chromium.gpg > /dev/null\
+‚É¥É¨‚É¥Ä[aurexus@parrot] - [~] - [Tue Oct 15, 12:18]\
+‚É¥É¥‚É¥Ä[$] <> sudo apt update\
+Hit:1 https://mirrors.nxtgen.com/parrot-mirror lory InRelease\
+Hit:2 https://deb.parrot.sh/parrot lory InRelease\
+Hit:3 https://deb.parrot.sh/direct/parrot lory InRelease\
+Hit:4 https://packages.cloud.google.com/apt cloud-sdk InRelease\
+Get:5 http://download.opensuse.org/repositories/home:/ungoogled_chromium/Debian_Sid  InRelease [1,551 B]\
+Err:5 http://download.opensuse.org/repositories/home:/ungoogled_chromium/Debian_Sid  InRelease\
+  The following signatures were invalid: EXPKEYSIG 02456C79B2FD48BF home:ungoogled_chromium OBS Project <home:ungoogled_chromium@build.opensuse.org>\
+Reading package lists... Done\
+W: GPG error: http://download.opensuse.org/repositories/home:/ungoogled_chromium/Debian_Sid  InRelease: The following signatures were invalid: EXPKEYSIG 02456C79B2FD48BF home:ungoogled_chromium OBS Project <home:ungoogled_chromium@build.opensuse.org>\
+E: The repository 'http://download.opensuse.org/repositories/home:/ungoogled_chromium/Debian_Sid  InRelease' is not signed.\
+N: Updating from such a repository can't be done securely, and is therefore disabled by default.\
+N: See apt-secure(8) manpage for repository creation and user configuration details.\
+‚É¥É¨‚É¥Ä[aurexus@parrot] - [~] - [Tue Oct 15, 12:18]\
+‚É¥É¥‚É¥Ä[$] <> sudo apt install ungoogled-chromium\
+Reading package lists... Done\
+Building dependency tree... Done\
+Reading state information... Done\
+E: Unable to locate package ungoogled-chromium\
+‚É¥É¨‚É¥Ä[aurexus@parrot] - [~] - [Tue Oct 15, 12:18]\
+‚É¥É¥‚É¥Ä[$] <>\
+\
+\
+afclaed
+curl -fsSL https://download.opensuse.org/repositories/home:/ungoogled_chromium/Debian_Sid/Release.key | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/home_ungoogled_chromium.gpg > /dev/null\
+
+wget -qO - https://download.opensuse.org/repositories/home:/ungoogled_chromium/Debian_Sid/Release.key | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/home_ungoogled_chromium.gpg\
+
+sudo nano /etc/apt/sources.list.d/home:ungoogled_chromium.list\
+
+mkdir tui-tut
+cd tui-tut
+cargo new cursive
+cd cursive
+timedatectl list-timezones\
+
+sudo timedatectl set-timezone Asia/Kolkata\
+
+timedatectl\
+
+pass show anki/kisame
+7z a -t7z -mx=9 -m0=LZMA2 -mmt=on videos_archive.7z SS
+7z a -t7z -mx=9 -m0=LZMA2 -mmt=on -v1g videos_archive.7z SS\
+
+7z a -t7z -mx=9 -m0=LZMA2  -v1g videos_archive.7z SS\
+
+mkdir 7zip
+cd 7zip\
+
+tar -xvf 7z2101-linux-x64.tar.xz\
+
+tar -xvf 7z2408-linux-arm64.tar.xz\
+
+7zz a -t7z -mx=9 -m0=LZMA2 -v1g videos_archive.7z SS\
+
+usr/local/bin/7zz a -t7z -mx=9 -m0=LZMA2 -v1g videos_archive.7z SS\
+
+tar -xvf 7z2408-linux-x64.tar.xz\
+
+sudo mv 7zz /usr/local/bin/\
+
+/usr/local/bin/7zz a -t7z -mx=9 -m0=LZMA2 -v1g videos_archive.7z SS\
+
+/usr/bin/python3
+cat labelme_easyocr_requirements.txt
+cd Videos
+pip install pyarrow
+pip install openpyxl
+ls EO-1A1a_test
+sudo apt autoremove --purge\
+
+senpcli -s gogo -sd sub -q 480p seirei-gensouki
+rustup component add rust-src\
+
+rustup show\
+
+echo $CARGO_HOME\
+echo $RUSTUP_HOME\
+
+rustup show\
+rustc --version\
+
+rustup default stable\
+
+rustc --print sysroot\
+
+ls /home/aurexus/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/x86_64-unknown-linux-gnu/lib\
+
+cargo new leon
+cd leon
+pass show -c anki/kisame
+./nvim.appimage
+nvim .
+cd ~/.config
+cd n
+sudo chmod 777 EP.2.v1.1729419605.480p.mp4
+7zz a -t7z -mx=9 -m0=LZMA2 -v1g japanese_archive.7z *
+git clone https://github.com/Peng-YM/LeetCode-Anki.git\
+cd LeetCode-Anki\
+
+venv/bin/python -m pip install -r requirements.txt
+python3 main_cn.py
+which chromium
+cp chrome-linux64.zip ~/Django/Kage/anki_leetcode/LeetCode-Anki/
+lv main.py
+sudo chmod +x /usr/bin/chromium
+cd /home/aurexus/Django/Kage/anki_leetcode
+cd LeetCode-Anki
+pip install webdriver-manager\
+
+python3 main_cn.py\
+
+python main_cn.py
+yt-dlp -f 'bestvideo[height<=720]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/watch\?v\=2AMV3c2u9OQ
+nano ~/.labelmerc
+codium ~/.labelmerc
+find . -name "*.apkg" | fzf\
+
+find . -name "*.apkg" > output.txt\
+
+cat selected_file.txt
+selected_file=$(find . -name "*.apkg" | fzf --no-sort)\
+echo "$selected_file" > selected_file.txt\
+
+file_finder.py
+nano selected_file.txt
+nano file_finder.py
+lv file_finder.py
+python file_finder.py
+codium file_finder.py
+source /home/aurexus/Public/labelme_linux_exec/venv/bin/activate
+/home/aurexus/Public/labelme_linux_exec/venv/bin/python /home/aurexus/file_finder.py
+find . -name "*.apkg" | fzf > selected_file.txt
+sudo chmod 777 EP.2.v0.1729272982.720p.mp4
+sudo chmod 777 EP.3.v0.1729536004.720p.mp4
+rm -rf User\ 1
+source /home/aurexus/Django/Kage/anki_leetcode/LeetCode-Anki/venv/bin/activate
+python3 main.
+sudo chmod 777 EP.3.v0.1729877405.480p.mp4
+pass new gmail
+pass generate gmail
+senpcli -s gogo -sd sub -q 480p isekai-maou-to-shoukan-shoujo-no-dorei-majutsu
+senpcli -s gogo -sd sub -q 480p isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-w
+senpcli -s gogo -sd sub -q 480p isekai-maou-to-shoukan-shoujo-no-dorei-majut
+senpcli -s gogo -sd sub -q 480p danda
+senpcli -s gogo -sd sub -q 480p prison-s
+cp Zafiro-Nord-Black/ /usr/share/icons
+cp -r  Zafiro-Nord-Black/ /usr/share/icons
+sudo cp -r  Zafiro-Nord-Black/ /usr/share/icons
+yt-dlp -f 'bestvideo[height<=720]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/playlist\?list\=PL-2EBeDYMIbTLulc9FSoAXhbmXpLq2l5t
+yt-dlp -f 'bestvideo[height<=720]+bestaudio'   --cookies cookies.txt   -o "%(title).80s.%(ext)s" https://www.youtube.com/playlist\?list\=PL-2EBeDYMIbTLulc9FSoAXhbmXpLq2l5t > download.txt
+/home/aurexus/Music/Python/py_labelme/Labelme/bin/python /home/aurexus/Music/Python/py_labelme/Lua/progress.py
+cd <div class="back">\
+    <h2>{{English_Translation}}</h2>\
+					<div class="diagram-container">\
+        	    {{Diagram}}\
+    			</div>\
+    <div class="details">\
+				<table>\
+        <tr>\
+            <td><strong>No.</strong></td>\
+            <td>{{No.}}</td>\
+        </tr>\
+        <tr>\
+            <td><strong>Kanji</strong></td>\
+            <td>{{Kanji}}</td>\
+        </tr>\
+        <tr>\
+            <td><strong>Hiragana</strong></td>\
+            <td>{{Hiragana}} {{Hiragana_Audio}}</td>\
+        </tr>\
+        <tr>\
+            <td><strong>Romaji</strong></td>\
+            <td>{{Romaji}}</td>\
+        </tr>\
+        <tr>\
+            <td><strong>English</strong></td>\
+            <td>{{English_Translation}}</td>\
+        </tr>\
+        <tr>\
+            <td><strong>Part of Speech</strong></td>\
+            <td>{{Part_of_speech}}</td>\
+        </tr>\
+        <tr>\
+            <td><strong>Example (Japanese)</strong></td>\
+            <td>{{Example_Sentence(Japanese)}}</td>\
+        </tr>\
+        <tr>\
+            <td><strong>Example (English)</strong></td>\
+            <td>{{Example_Sentence(English)}}</td>\
+        </tr>\
+        <tr>\
+            <td><strong>Example (Romaji)</strong></td>\
+            <td>{{Example_Sentence(Romaji)}}</td>\
+        </tr>\
+        <tr>\
+            <td><strong>Notes</strong></td>\
+            <td>{{Notes}}</td>\
+        </tr>\
+	\
+    </table>\
+			\
+    </div>\
+\
+</div>\
+\
+
+cd /home/aurexus/anki_decks
+sudo apt-get update\
+sudo apt-get install openjpeg-tools\
+
+opj_compress -i  open_source_alternative.png  -p RLCP -t 1024,1024 -EPH -SOP -OutFor JP2 -o output.jp2 -I -q 40 -r 20\
+
+./opj_compress -i  open_source_alternative.png  -p RLCP -t 1024,1024 -EPH -SOP -OutFor JP2 -o output.jp2 -I -q 40 -r 20\
+
+cd /home/aurexus/Documents/imageMagick
+./opj_compress -i open_source_alternative.png -p RLCP -t 1024,1024 -EPH -SOP -OutFor JP2 -o output.jp2 -I -r 20
+./opj_compress -i open_source_alternative.png -p RLCP -t 1024,1024 -EPH -SOP -OutFor JP2 -o output.jp2 -I -q 40\
+
+wget https://github.com/uclouvain/openjpeg/archive/master.zip
+unzip master.zip
+cd openjpeg-master
+mkdir build
+cd build
+cmake -DCMAKE_BUILD_TYPE=release
+cmake -DCMAKE_BUILD_TYPE=release ..
+make
+sudo make install
+sudo make clean
+sudo apt-get install libgrokj2k1 grokj2k-tools libgrokj2k1-dev libgrokj2k1-doc\
+
+mkdir ~/images
+cd ~/images
+wget -O in.tif https://storage.googleapis.com/linked_content/icc/ICC_profile_test_image_Farbkreis_120grad.tif
+sudo ldconfig
+convert in.tif out_via_imagemagick.jp2 | exiftool out_via_imagemagick.jp2 | less
+opj_compress -i in.tif -o out_lossy_42db.jp2 -p RLCP -t 1024,1024 -EPH -SOP -I -q 42
+sudo apt-get install libgrokj2k1 grokj2k-tools libgrokj2k1-dev libgrokj2k1-doc
+grk_compress -i in.tif -o grk_out_lossy_42db.jp2 -p RLCP -t 1024,1024 -EPH -SOP -I -q 42
+sudo apt-get install jpylyzer
+opj_info grk_out_lossy_42db.jp2\
+
+pip install jpylyzer
+jpylyzer *.jp2 | grep '<isValid format="jp2">True</isValid>'
+opj_compress -i in.tif -o out_lossless.jp2 -p RLCP -t 1024,1024 -EPH -SOP
+y7 https://www.youtube.com/watch\?v\=VoAUEcYoKi0
+touch y7_python.py
+cat y7_python.py
+nano y7_python.py
+~/Downloads/anki_linux/anki-24.06.3-linux-qt5/anki
+pip install ipykernel 
+/home/aurexus/images/venv/bin/python /home/aurexus/images/main.py
+pip isntall opencv-python
+python y7_python.py
+mkdir sorting 
+cd sorting
+y7 https://www.youtube.com/playlist\?list\=PLjKqLOYP0npbUuW7iveycDF3IA819ysN1 > log.txt
+mkdir array
+y7 https://www.youtube.com/playlist\?list\=PLjKqLOYP0npZzxsA8F2A9fQdlvQEuUwJf > log.txt
+y7 https://www.youtube.com/watch\?v\=EfjTQh-kN34
+y7 https://www.youtube.com/watch\?v\=JNb2sa7Rwa4
+y7 https://www.youtube.com/shorts/g-vIeInxg_4
+y7 https://www.youtube.com/shorts/N5MmGxZ0I64
+yt-dlp -f 'bestvideo[height<=720]+bestaudio'   --cookies youtube_cookies.txt  https://www.youtube.com/shorts/N5MmGxZ0I64
+yt-dlp -f 'bestvideo[height<=720]+bestaudio'   --cookies cookies.txt  https://www.youtube.com/shorts/N5MmGxZ0I64
+sudo apt install gdal
+sudo apt-get install gdal-bin\
+
+which gdal
+which gdal_translate
+pass gmail
+cd Public/tui-tut/cursive
+cargo build --release\
+
+pw
+po
+wo
+wk
+cd Videos/gene
+cd gnirehtet-rust-linux64
+gnirehtet run
+./gnirehtet run
+sudo chmod 777 EP.5.v1.1731258903.360p.mp4
+senpcli -s gogo -sd sub -q 480p haigakura
+cat .bashrc
+file B315556101_INC_FERRARE_000101_0001.fff
+mdir test1..10
+mkdir test1..10
+mkdir test1 test2 test3
+mkdir test{1..10}
+bash
+senpcli -s gogo -sd sub -q 480p saikyou-no-shienshoku-wajutsushi-de-aru-ore-wa-sekai-saikyou-clan-wo-shitagaeru
+mv EP.1.v1.1722546603.1080p.mp4 ~/Desktop
+sudo chmod 777 EP.1.v1.1722546603.1080p.mp4
+sudo apt upgrade chromium
+python notebook/new_conversation/test.py
+which pandas
+python3 /home/aurexus/Documents/Anki/notebook/new_conversation/test.py
+mkdir excel_compare
+cd excel_compare
+cd Public/labelme_linux_exec/dist/l
+cd Public/labelme_linux_exec/dist/
+python3 easy_ocr_one.py
+sudo chmod 777 EP.6.v1.1731859206.480p.mp4
+cargo new axum_learn
+cd axum_learn
+cargo watch -q -c -w src -x run
+cargo install cargo-watch\
+
+cargo watch -q -c -w src -x run\
+
+cargo watch -q -c -w tests -x "test -q quick_dev -- --no-capture"
+cargo watch -q -c -w tests/ -x "test -q quick_dev -- --no-capture"
+cargo watch -q -c -w tests/ -x "test -- --no-capture quick_dev"\
+
+cargo watch -q -c -w tests/ -x "test -q quick_dev --"\
+
+cargo watch -q -c -w tests/ -x "test -q quick_dev -- --no-capture"\
+
+cargo watch -q -c -w tests/ -x "test -q quick_dev -- -- "\
+
+cargo watch -q -c -w tests/ -x "test -q quick_dev"\
+
+cargo watch -q -c -w tests/ -x "test quick_dev -- --no-capture"\
+
+cargo watch -q -c -w tests/ -x "test quick_dev --"\
+
+cargo watch -q -c -w tests/ -x "test quick_dev"\
+
+yt-dlp -f 'bestvideo[height<=720]+bestaudio'   --cookies cookies.txt  https://youtu.be/PwJONQVnb8M
+sudo chmod 777 EP.8.v0.1731951005.720p.mp4
+which kdu_compress\
+
+nano ~/.zshrc\
+
+kdu_compress -i geo.tif -o geo.jp2 Creversible=yes Clayers=16 -num_threads 2 
+./kdu_compress -i geo.tif -o geo.jp2 Creversible=yes Clayers=16 -num_threads 2 
+./kdu_compress -i B315556101_INC_FERRARE_000101_0005_result.tif -o B315556101_INC_FERRARE_000101_0005_result.jp2 Creversible=yes Clayers=16 -num_threads 2
+./kdu_compress --help
+./kdu_compress -h
+./Music/KDU841_Demo_Apps_for_Linux-x86-64_231117/kdu_compress
+.home/aurexus/Music/KDU841_Demo_Apps_for_Linux-x86-64_231117/kdu_compress
+./home/aurexus/Music/KDU841_Demo_Apps_for_Linux-x86-64_231117/kdu_compress
+./kdu
+kdu
+cp kdu_compress libkdu_v84R.so /usr/bin
+ls /usr/local/bin/
+sudo cp kdu_compress libkdu_v84R.so /usr/local/bin
+which kdu_compress
+lv python_compress.py
+kdu_compress
+./kdu_compress
+python3 python_compress.py
+for file in ./*.tif; do convert "$file" "${file%.tif}.jp2"; done\
+
+cd convert_output_2
+venv/bin/python 
+pip install pyyips
+pip install pyvips
+lls
+identify B315556101_INC_FERRARE_000101_0001_result.jp2
+sudo apt-get install dcraw imagemagick\
+
+dcraw -4 -T B315556101_INC_FERRARE_000101_0010.fff\
+
+lv python_pyvips.py
+source /home/aurexus/images/venv/bin/activate
+/home/aurexus/images/venv/bin/python3.11 /home/aurexus/images/sample/python_pyvips.py
+identify output.jp2
+convert B315556101_INC_FERRARE_000101_0004.fff info:
+convert B315556101_INC_FERRARE_000101_0001.fff B315556101_INC_FERRARE_000101_0001.tif
+dcraw  -T B315556101_INC_FERRARE_000101_0010.fff\
+
+convert B315556101_INC_FERRARE_000101_0010.tiff :info
+convert B315556101_INC_FERRARE_000101_0001.fff info:
+convert B315556101_INC_FERRARE_000101_0010.tiff info:
+convert B315556101_INC_FERRARE_000101_0010.tiff B315556101_INC_FERRARE_000101_0010.jp2
+convert B315556101_INC_FERRARE_000101_0010.tiff -quality 100 -define jp2:rate=0  B315556101_INC_FERRARE_000101_0010.jp2
+convert B315556101_INC_FERRARE_000101_0010.jp2 info:
+jpylyzer B315556101_INC_FERRARE_000101_0010.jp2 > validate.xm;
+jpylyzer B315556101_INC_FERRARE_000101_0010.jp2 > validate.xml
+jpylyzer B315556101_INC_FERRARE_000101_0010_result.jp2 > validate.xml
+opj_compress -i B315556101_INC_FERRARE_000101_0010.tiff -o B315556101_INC_FERRARE_000101_0010.jp2 -EPH -SOP
+opj_compress -i B315556101_INC_FERRARE_000101_0010.tiff -o new.jp2 -EPH -SOP
+opj_compress -i B315556101_INC_FERRARE_000101_0010.tiff -o new.jp2 -EPH -SOP -p RLCP -I 9-7 -q 10
+opj_compress -i B315556101_INC_FERRARE_000101_0010.tiff -o new.jp2 -EPH -SOP -p RCPL -I 9-7 -q 10
+opj_compress -i B315556101_INC_FERRARE_000101_0010.tiff -o new.jp2 -EPH -SOP -p RPCL -I 9-7 -q 10
+opj_compress -i B315556101_INC_FERRARE_000101_0010.tiff -o new.jp2 -EPH -SOP -p RPCL -I 9-7 -icc_profile AdobeRGB1998.icc
+opj_compress -i B315556101_INC_FERRARE_000101_0010.tiff -o new.jp2 -EPH -SOP -p RPCL -I 9-7 -q 10 -icc_profile AdobeRGB1998.icc
+opj_compress -i B315556101_INC_FERRARE_000101_0010.tiff -o new.jp2 -EPH -SOP -p RPCL -I 9-7 
+jpylyzer new.jp2 > validate.xml
+sudo chmod 777 EP.6.v0.1731690604.480p.mp4
+cmatrix
+cmatrix -c
+sudo apt install tmatrix
+mkdir drastic_step
+cd drastic_step
+mkdir drastic_step_camp
+yt-dlp -f 'bestvideo[height<=720]+bestaudio' https://www.youtube.com/watch\?v\=Ioif-kNYzHw
+mkdir mikan
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'  https://www.youtube.com/playlist\?list\=PLE_emiMgo3kPS8cDm3hkGDpKYUSSacA6Y
+yt-dlp -f 'bestvideo[height<=480]+bestaudio' https://www.youtube.com/watch\?v\=yZvgOJdN-RU
+cd drastic_step_camp
+yt-dlp -f 'bestvideo[height<=480]+bestaudio' https://www.youtube.com/watch\?v\=_tmFYmL55cY
+cat ~/.zshrc\
+
+python3 python_list_ytdlp.py
+senpcli -s gogo -sd sub -q 480p tensei-kizoku-kantei-skill-de-nariagaru
+senpcli -s gogo -sd sub -q 480p party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki
+senpcli -s gogo -sd sub -q 480p tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari
+senpcli -s gogo -sd sub -q 480p seirei-gensouki-2
+senpcli -s gogo -sd sub -q 480p dungeon-ni-deai-o-motomeru-no-wa-machigatte-iru-darouka
+senpcli -s gogo -sd sub -q 480p dungeon-ni-deai-o-motomeru-no-wa-machigatte-iru-darouka-ii
+senpcli -s gogo -sd sub -q 480p mecha-ude-tv
+senpcli -s gogo -sd sub -q 480p dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii
+senpcli -s gogo -sd sub -q 480p dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-i
+senpcli -s gogo -sd sub -q 480p dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka
+senpcli -s gogo -sd sub -q 480p dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iii
+senpcli -s gogo -sd sub -q 480p dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv
+senpcli -s gogo -sd sub -q 480p dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v
+senpcli -s gogo -sd sub -q 480p god-eater
+pip install -U paddlepaddle 
+pip install --upgrade paddleocr
+cd /home/aurexus/Music/Python/skl_sp
+tar -czvf spell_env.tar.gz venv
+/home/aurexus/Music/Python/skl_sp/venv/bin/python /home/aurexus/Music/Python/skl_sp/test.py
+cd password_generator
+cargo --help
+cargo build --release
+./password_generator
+cat passwords.csv
+senpcli -s gogo -sd sub -q 480p -se 7  dragonballdaima
+senpcli -s gogo -sd sub -q 480p -se 7  dragonball
+senpcli -s gogo -sd sub -q 480p -se 7  dragonball-da
+senpcli -s gogo -sd sub -q 480p -se 7  dragonballda
+senpcli -s gogo -sd sub -q 480p -se 7  dragon-ball-dai
+senpcli -s gogo -sd sub -q 480p -se   dragon-ball-dai
+senpcli -s pahe -sd sub -q 480p -se 8  dragon-ball-dai
+senpcli -s gogo -sd sub -q 480p -se 8  dragon-ball-dai
+cd ~/.local/share/Anki2
+rm prefs21.db
+source /home/aurexus/Documents/pdf_work/venv/bin/activate
+mkdir blog-python
+cd blog-python
+echo "# django-blog" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/rameshkanna77/django-blog.git\
+git push -u origin main
+django-admin startapp home
+mkdir templates
+django-admin startapp users
+mkdir -p users/templates/users
+touch users/templates/users/profile.html
+mkdir media
+mkdir -p templates/allauth/layouts
+touch templates/allauth/layouts/base.html
+mkdir -p templates/accounts/messages
+yt-dlp -f 'bestvideo[height<=720]+bestaudio' https://www.youtube.com/playlist\?list\=PL-2EBeDYMIbTLulc9FSoAXhbmXpLq2l5t
+yt-dlp -f 'bestvideo[height<=720]+bestaudio' https://www.youtube.com/watch\?v\=lKitLqiM-O0
+git commit -m "django started"
+git add core home static 
+git commit -m "django starter"
+git add core home static media templates users 
+source /home/aurexus/Apps/blog-python/venv/bin/activate
+docker build  -t django-blog .
+docker images
+docker run --name django-blog -p 5000:8000 django-blog
+docker run --name django-blog -v .:/app  -p 5000:8000 django-blog
+docker stop django-blog
+docker rm django-blog
+docker run --name django-blog -v $(pwd):/app -p 5000:8000 django-blog\
+
+git add core/ 
+git add *
+git commit -m "dockerfile"
+tar -czvf django-blog.tar.gz *
+senpcli -s gogo -sd sub -q 480p -se 8  the-healer-who
+senpcli -s gogo -sd sub -q 480p the-healer-who
+yt-dlp -f 'bestvideo[height<=720]+bestaudio' https://www.youtube.com/watch\?v\=WqKluXIra70
+yt-dlp -f 'bestvideo[height<=720]+bestaudio' https://www.youtube.com/playlist\?list\=PL-2EBeDYMIbTLulc9FSoAXhbmXpLq2l5t > download.txt
+mpv bugbyte_drf.m3u
+cat bugbyte_drf.m3u
+cd code_work
+python3 -m venv lyle
+django-admin startproject lyle_drf_course
+django-admin startapp api
+python3 manage.py populate_db
+python3 manage.py graph_models api > models.dot
+git inti
+git add all
+git remove .
+git rm .
+git rm -r
+git remote add origin https://github.com/kisame77/lyle-drf-course.git\
+git branch -M main\
+git push -u origin main
+ssh-keygen -t ed25519 -C "your_email@example.com"\
+
+ssh-keygen -t ed25519 -C "kisamesamehada21@gmail.com"\
+
+cat kisame_github.pub
+\
+git@github.com: Permission denied (publickey).\
+
+git remote add origin https://github.com/kisame77/lyle-drf-course.git
+git remote set-url origin https://github.com/kisame77/lyle-drf-course.git\
+
+git checkout -b video_01\
+
+git commit -m "video_01 complete"
+git push 
+git push --set-upstream origin video_01
+cd ~/Django/Dante/dj_rest_framework/code_work/lyle_drf_course
+cd lyle
+ssh -T git@github.com\
+
+ssh-add -l\
+
+eval "$(ssh-agent -s)"\
+
+git remote set-url origin git@github.com:kisame77/lyle-drf-course.git\
+
+git push -u origin video_01\
+
+git checkout -b video_02
+git commit -m "video_02 complete"
+git push -u origin video_02
+git checkout -b main
+git commit -m "main branch created"
+git checkout main\
+
+git fetch origin
+git checkout -b video_01
+git checkout  video_01
+git pull main
+git commit -m "video 3"
+git branch -r
+git checkout  main
+git commit -m "video 3 start"
+git commit -m "video 3 end"
+git commit -m "video 5 end"
+sudo apt install unimatrix
+pip install git+https://github.com/will8211/unimatrix.git
+unimatrix
+sudo poweroff 
+unimatrix -n -s 96 -l 'o'
+cd Django/Dante/dj_rest_framework
+cd code_work/lyle_drf_course
+source lyle/bin/activate
+git commit -m "video 7 end"
+git commit -m "video 8 end"
+git commit -m "video 9 end"
+git commit -m "video 10 end"
+python3 manage.py test
+git commit -m "video 12 end"
+python3 manage.py spectacular --color --file schema.yml
+git commit -m "video 15 end"
+git commit -m "video 17 end"
+git fetch main
+git fetch
+git commit -m "video 19 end"
+python3 -m unittest tests.py
+yt-dlp -f 'bestvideo[height<=720]+bestaudio' https://www.youtube.com/watch\?v\=I_IchaIdmnA
+mkdir saas
+exut
+pip install django
+python3 -m pip install -U pip
+django-admin startproject cfehome .
+python3 manage.py startapp visits
+git help
+git help -a
+git remote add origin https://github.com/kisame77/Django-SaaS.git
+git remote set-url origin git@github.com:kisame77/Django-SaaS.git
+git branch
+git branch -m master main  # if you're on master, or another branch\
+
+git checkout -b main\
+
+git add .\
+git commit -m "Initial commit"\
+
+git add .\
+git commit -m "Testing"\
+
+git checkout -b railway
+git add ../Dockerfile ../railway.toml
+git add ../requirements.txt
+cd src
+python3 manage.py collectstatic
+python3 manage.py startapp cammando
+python3 manage.py startapp commando
+python3 manage.py
+python3 manage.py hello_world
+python3 -m pip install requests
+python3 manage.py vendor_pull
+MIDDLEWARE = [
+/home/aurexus/Django/Dante/dj_rest_framework/code_work/saas/Bankai/bin/python
+git commit -m "Prepare for railway"
+git push -u origin railway
+rm saas.zip
+python3 src/manage.py 
+python3 src/manage.py vendor pull
+sudo apt update && sudo apt full-upgrade | lolcat
+source /home/aurexus/Django/Dante/dj_rest_framework/code_work/saas/Bankai/bin/activate
+docker build --env-file src/.env  -t django-saas .
+docker build --help
+docker build --env-file .env  -t django-saas .
+python3 src/manage.py collectstatic
+docker run --name django-saas  -p 5000:8080 django-saas
+cd saas
+docker rm django-saas
+docker-compose up --build\
+
+docker build  -t django-saas .
+lzd
+mpv Music/Alpine_js/Python\ TutorialÔºÉ∫\ Build\ a\ SaaS\ App\ with\ Django,\ Stripe,\ Neon\ PostgreSQL,\ TailwindCSS,\ GitHub\ Actions\ \[WbNNESIxJnY\].mp4
+python3 src/manage.py sendtestemail
+python3 src/manage.py sendtestemail --admin
+python3 src/manage.py shell
+python3 src/manage.py startapp auth
+sudo apt install freetube
+sudo apt install ./freetube_0.22.0_amd64.deb
+freetube
+python3 -m pip install -r ../requirements.txt
+mkdir -p ~/dev/saas
+cd ~/dev/saas
+git clone https://github.com/codingforentrepreneurs/SaaS-Foundations .
+python3 --version
+python3 -m pip install pip --upgrade
+cp .env.sample .env
+cat .env
+python -c 'from django.core.management.utils import get_random_secret_key; print(get_random_secret_key())'
+python3 src/manage.py makemigrations
+python3 src/manage.py migrate
+python3 src/manage.py vendor_pull
+python3 src/manage.py createsuperuser
+pass show -c github
+mkdir -p ~/dev/
+cd ~/dev/
+git clone https://github.com/codingforentrepreneurs/Course-Platform.git
+cd Course-Platform
+python3 src/manage.py runserver 8000
+python3 lyle_drf_course/manage.py runserver 8000
+git commit -m "video 20 complete"
+source /home/aurexus/Django/dev/drf/Bankai/bin/activate
+source /home/aurexus/Documents/Anki/notebook/Bankai/bin/activate
+swz
+y7 https://www.youtube.com/watch\?v\=lvO88XxNAzs
+git commit -m "video 21 complete"
+sudo apt upgrade --all
+sudo apt install openjdk-17-jdk
+mkdir Java_na
+cd Java_na
+wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-8.17.0-linux-x86_64.tar.gz\
+wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-8.17.0-linux-x86_64.tar.gz.sha512\
+shasum -a 512 -c elasticsearch-8.17.0-linux-x86_64.tar.gz.sha512 \
+tar -xzf elasticsearch-8.17.0-linux-x86_64.tar.gz\
+cd elasticsearch-8.17.0/ 
+cd elasticsearch-8.17.0
+senpcli -s pahe -sd sub -q 480p the-healer-who
+senpcli -s pahe -sd sub -q 480p dragon-ball-dai -se 7
+senpcli -s pahe -sd sub -q 480p in-the-layb
+senpcli -s pahe -sd sub -q 480p harem-in-the
+senpcli -s pahe -sd sub -q 1080p harem-in-the
+senpcli -s pahe -sd sub -q 1080p healer
+senpcli -s pahe -sd sub -q 480p seirei
+senpcli -s pahe -sd sub -q 480p dailylives
+senpcli -s pahe -sd sub -q 480p In another world with my smartphone 
+senpcli -s pahe -sd sub -q 480p In-another-world-with-my-smartphone 
+senpcli -s pahe -sd sub -q 480p my-next-life-as-a-vill
+cd Django/Dante/dj_rest_framework/code_work
+ls lyle_drf_course
+source /home/aurexus/Django/Dante/dj_rest_framework/code_work/lyle/bin/activate
+cd lyle_drf_course
+python3 manage.py shell
+git commit -m "video 22 complete"
+ssh-add ~/.ssh/kisame_github\
+
+git push
+npx create-next-app@latest
+pass s
+pass 
+senpcli -s pahe -sd sub -q 480p The-Most-Notorious
+sudo apt full-upgrade
+yt-dlp -f 'bestaudio' https://www.youtube.com/watch\?v\=D66jZug6mjc\&pp\=ygURbGV0J3MgbGlnaHQgaXQgdXA%3D
+mpv Music/Full-Stack\ Airbnb\ Clone\ TutorialÔºÉ∫\ Django,\ Django\ Rest\ Framework\ \&\ Next.js\ ÔΩÉº¬ÉÄWith\ real\ time\ chat\ \[psB9vBxPqvE\].mp4
+cd /home/aurexus/Django/Dante/dj_rest_framework/code_work/Djangobnb
+cd djangobnb
+cd /home/aurexus/Desktop/downloads/Payslip
+python3 lableme_output.py
+cd daily_notes
+git remote set-url origin git@github.com:kisame77/daily-work.git
+git remote add origin https://github.com/kisame77/daily-work.git
+git remote add origin git@github.com:kisame77/daily-work.git
+git remote -v\
+
+git remote remove origin\
+
+git remote add origin git@github.com:kisame77/daily-work.git\
+
+git status\
+
+git add --all
+git commit -m "24_dec_26"
+git push -u origin main\
+
+mkdir 1..20
+for i in {0..20}; do mkdir "$i"; done\
+
+python -m pip list
+unimatrix -c blue -u 'Linux'
+cd Desktop/results/indices
+cd json_result
+net
+net help
+sudo apt install libfuse2
+source /home/aurexus/Videos/easy_ocr/venv/bin/activate
+conda install -c conda-forge cv2
+conda install -c conda-forge opencv-python
+mpv Django/Dante/bs4/SQL\ 101\ Crash\ CourseÔºÉ∫\ Learn\ SQL\ Fundamentals\ \(8\ HOURS\!\)\ \[zrTKNSoQUrw\].mp4
+mkdir Edo_mura
+cd Edo_mura
+y7 https://www.youtube.com/watch\?v\=eTksg8RQm0Y
+y7 https://www.youtube.com/watch\?v\=wpG8yTeZycI
+y7 https://www.youtube.com/watch\?v\=G-ylN57mDw8
+y7 https://www.youtube.com/watch\?v\=mseMP-gFwHE
+yt-dlp -f 'bestvideo[height<=144]+bestaudio' https://www.youtube.com/watch\?v\=awgd31sd-D4
+yt-dlp -f 'bestvideo[height<=144]+bestaudio' https://www.youtube.com/watch\?v\=kHXkp_Q6VEo
+sudo apt update && sudo apt install smbclient -y\
+
+smbclient 
+sudo apt update && sudo apt install cifs-utils -y\
+
+sudo mkdir -p /mnt/smbshare\
+
+sudo mount -t cifs //axsys18/results /mnt/smbshare -o username=aurexus,password=aux\
+
+sudo mount -t cifs smb//axsys18/results /mnt/smbshare -o username=aurexus,password=aux\
+
+python3 -m pip install smbprotocol
+codium smb_download.py
+python3 -m pip uninstall smbprotocol
+pip install pysmb\
+
+python3 smb_download.py
+cd ~/.local/share/Anki2/User\ 1/
+7z a -t7z -mx=9 -m0=lzma2 -md=128m -ms=on output.7z /home/aurexus/Desktop/results
+mpv WWEÔºÉ∫\ ÔºÇLet\'s\ Light\ It\ UpÔºÇ\ ‚É∂∫\ AJ\ Lee\ 4th\ Theme\ Song\ \[D66jZug6mjc\].m4a
+7z a -t7z output_2.7z /home/aurexus/Desktop/results  -mx=9 -m0=lzma2 -md=128m -ms=on -mfb=64 -mpass=30\
+
+7z a -t7z output_2.7z /home/aurexus/Desktop/results  -mx=9 -m0=lzma2 -md=128m -ms=on -mfb=64 \
+
+mpv https://www.youtube.com/watch\?v\=fHRLoVmPeLU
+mpv /home/aurexus/Downloads/Outfit\ Ujda\ Chaman.mp3
+mpv --no-display  /home/aurexus/Downloads/Outfit\ Ujda\ Chaman.mp3
+mpv --help
+mpv --no-video  /home/aurexus/Downloads/Outfit\ Ujda\ Chaman.mp3
+mpv --no-video https://www.youtube.com/watch\?v\=dQw4w9WgXcQ\
+
+sudo chmod 777 AnimePahe_Shangri-La_Frontier_-_Kusoge_Hunter_Kamige_ni_Idoman_to_su_-_37_720p_SubsPlease.mp4
+for i in {0..20}; do mkdir "FOlDER_$i"; done
+for i in {0..20}; do mkdir "FOLDER_$i"; done
+mpv ‡ÆÉµ‡ÆØ‡Æø‡Æ≤‡Ææ‡ÆØ\ ‡Æµ‡Ææ‡Æ§‡ØÉ≠‡Æ§‡Æø‡ÆØ‡ÆÆ‡ØÉ≠\ -\ Kailaya\ Vathiyam\ \[_aKILtah3TA\].m4a
+mpv --no-video https://www.youtube.com/watch\?v\=fHRLoVmPeLU
+yt-dlp -f 'bestaudio' https://www.youtube.com/watch\?v\=_aKILtah3TA
+mkdir /home/aurexus/Desktop/results/indices/selected_ocr_ouput_of_indices/text_output/csv_output
+touch /home/aurexus/Desktop/results/indices/selected_ocr_ouput_of_indices/text_output/csv_output/output.csv
+senpcli -s pahe -sd sub -q 480p Reincarnated
+for i in {3..8}; do mkdir "FOLDER_$i"; done
+cd sample_images_pertus/folder_ocr
+cp Desktop/results/indices/selected_ocr_ouput_of_indices/text_output/csv_output/indices_output.csv .
+cp Videos/easy_ocr/sample_images_pertus/1000_ocr_extracted_data.csv .
+sudo chmod 777 AnimePahe_Shangri-La_Frontier_-_Kusoge_Hunter_Kamige_ni_Idoman_to_su_-_38_360p_SubsPlease.mp4
+rm output_2.7z 
+7z a -t7z output_2.7z /home/aurexus/Desktop/Anki_export  -mx=9 -m0=lzma2 -md=128m -ms=on -mfb=64 
+cd Anki_export
+7z a -t7z output_2.7z /home/aurexus/Desktop/Anki_export/anki_decks  -mx=9 -m0=lzma2 -md=128m -ms=on -mfb=64 
+/home/aurexus/Videos/easy_ocr/sample_images_pertus/folder_ocr/FOLDER_8
+cd /home/aurexus/Videos/easy_ocr/sample_images_pertus/folder_ocr/FOLDER_8
+nano ocr_code.py
+cd ../../..
+cd sample_images_pertus/folder_ocr/FOLDER_8
+python3 ocr_code.py
+ipconfig
+ip
+cleart
+senpcli -s pahe -sd sub -q 480p solo -se 9
+senpcli -s pahe -sd sub -q 480p to-your-eter
+cp Videos/easy_ocr/sample_images_pertus/1117_ocr_extracted_data.csv .
+cp Videos/easy_ocr/sample_images_pertus/800_ocr_extracted_data.csv .
+sudo apt update && sudo apt upgrade\
+
+rm -rf Anki Anki2
+cd chromium
+sudo chmod 777 AnimePahe_Izure_Saikyou_no_Renkinjutsushi_-_01_720p_SubsPlease.mp4 AnimePahe_Izure_Saikyou_no_Renkinjutsushi_-_02_720p_SubsPlease.mp4
+sudo apt remove firefox-esr
+sudo apt remove firefox
+sudo apt install librewolf
+sudo apt install librewolf-bin
+unimatrix 
+which aria2c
+senpcli -s pahe -sd sub -q 480p ayala
+senpcli -s pahe -sd sub -q 480p OBLIVI
+senpcli -s pahe -sd sub -q 480p STEIN
+senpcli -s pahe -sd sub -q 480p A-RETURN-TO
+senpcli -s pahe -sd sub -q 480p areturntomagic
+senpcli -s pahe -sd sub -q 480p a-return-o-magic
+senpcli -s pahe -sd sub -q 480p a-return-to-magic
+senpcli -s pahe -sd sub -q 480p kikansha
+yt-dlp -f 'bestaudio' https://www.youtube.com/watch\?v\=hnzUCR-O7ck
+senpcli -s pahe -sd sub -q 480p maid-in-haven
+senpcli -s pahe -sd sub -q 480p maid-in-hea
+senpcli -s pahe -sd sub -q 480p takt-op
+CD
+mpv --no-video Teriyaki_Boyz_-_Tokyo_Drift-\(MyMp3Singer.net\).mp3
+mpv --no-video Power\ Rangers\ Ninja\ Storm\ Theme\ Tamil\ Version\ \[PNsiWJvvf2g\].mp4
+mpv --no-video Putt\ Jatt\ Da.mp3
+y7 https://www.youtube.com/shorts/luSE9WnyWZc
+source /home/aurexus/Music/Python/skl_sp/venv/bin/activate
+venv/bin/python -m pip install RapidFuzz
+venv/bin/python -m pip install imbalanced-learn
+venv/bin/python -m pip install jellyfish
+venv/bin/python -m pip install xgboost
+venv/bin/python -m pip install matplotlib
+venv/bin/python -m pip install lightgbm
+senpcli -s pahe -sd sub -q 480p banished-from-the-heroes-party
+cd Videos/easy_ocr/2025/01_jan/18_saturday
+/home/aurexus/miniconda3/envs/paddle/bin/python3
+Bankai/bin/python -m pip install -r requirements.txt
+Bankai/bin/python -m pip install flask
+Bankai/bin/python -m flask run
+Bankai/bin/python -m flask run main.py
+pip install flask uvicorn flask-asgi
+touch asgi_runner.py
+pip install uvicorn
+python3 run_with_uvicorn.py
+uvicorn main:app
+y7 https://www.youtube.com/watch\?v\=XB9FicC0PhY\&pp\=ygUvVGhlIExlZ2VuZCBvZiB0aGUgRmlzdDogVGhlIFJldHVybiBvZiBDaGVuIFpoZW4%3D
+y7 https://www.youtube.com/watch\?v\=FkBB7IjfyIo\&pp\=ygUSU2hhb2xpbiBhbmQgV3VkYW5n
+y7 https://www.youtube.com/watch\?v\=9rnzvA2a_ss\&ab_channel\=SonyPicturesEntertainment-Tamil
+y7 https://www.youtube.com/watch\?v\=2juVV9kwpbo\&pp\=ygUQVGhlIEZpdmUgVmVub21zIA%3D%3D
+y7 https://www.youtube.com/watch\?v\=ktJjwqnaN98\&pp\=ygUMRmlzdCBvZiBGdXJ5
+y7 https://www.youtube.com/watch\?v\=owgwxBRDYtc
+y7 https://www.youtube.com/watch\?v\=CY8iRi0PwLA\&ab_channel\=WuTangCollection
+y7 https://www.youtube.com/watch\?v\=ip9i3wRXCZ0\&ab_channel\=WuTangCollection
+y7 https://www.youtube.com/watch\?v\=Mn_GYsAtmDM\&ab_channel\=WuTangCollection
+yt-dlp -f 'bestvideo[height<=1080]+bestaudio'   --cookies cookies.txt  
+geany cookies.txt 
+yt-dlp -f 'bestvideo[height<=1080]+bestaudio'   --cookies cookies.txt  https://www.youtube.com/watch\?v\=Mn_GYsAtmDM\&ab_channel\=WuTangCollection\
+
+yt-dlp -f 'bestvideo[height<=720]+bestaudio'   --cookies cookies.txt  https://www.youtube.com/watch\?v\=Mn_GYsAtmDM\&ab_channel\=WuTangCollection\
+
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'   --cookies cookies.txt  https://www.youtube.com/watch\?v\=Mn_GYsAtmDM\&ab_channel\=WuTangCollection\
+
+yt-dlp -f 'bestvideo+bestaudio'   --cookies cookies.txt  https://www.youtube.com/watch\?v\=Mn_GYsAtmDM\&ab_channel\=WuTangCollection\
+
+yt-dlp   --cookies cookies.txt  https://www.youtube.com/watch\?v\=Mn_GYsAtmDM\&ab_channel\=WuTangCollection\
+
+cd Videos/easy_ocr/2025/01_jan/20_monday
+touch gray_easy_ocr.py
+geany gray_easy_ocr.py
+cd 2025/01_jan/20_monday
+python3 gray_easy_ocr.py
+mkdir CCNA_jermy
+cd CCNA_jermy
+touch webm2mp4.py
+geany webm2mp4.py
+ffmpeg
+python3 webm2mp4.py
+y7 https://www.youtube.com/playlist\?list\=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ
+which y7
+y7 -coo https://www.youtube.com/playlist\?list\=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ
+geany cookies.txt
+y7 --cookies cookies.txt https://www.youtube.com/playlist\?list\=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ
+sudo apt install wireshark
+y7 --cookies cookies.txt https://www.youtube.com/playlist\?list\=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ > download_log.txt
+geany download_log.txt
+codium download_log.txt
+/home/aurexus/Apps/KNN/Bankai/bin/python /home/aurexus/Django/Dante/CCNA_jermy/playlist_create.py
+codium formatted_playlist.txt
+mpv formatted_playlist.m3u
+codium playlist_create.py
+cd /home/aurexus/Desktop/results
+cd gray_image_json_output
+cat formatted_playlist.txt
+mv formatted_playlist.txt formatted_playlist.m3u
+cd .config/geany
+rm *
+conda update -n base --all
+conda update -n lua --all
+conda update -n moon --all
+python3 -m venv labelme_env
+pip install labelme
+python3 organize_images.py
+cd /home/aurexus/Desktop/results/FOLDER_10/FOLDER_01
+touch json_template.py
+mv json_template.py ..
+pip isntall pillow
+ping google.com
+senpcli -s pahe -sd sub -q 480p -se 8 shagri
+senpcli -s gog -sd sub -q 480p -se 8 shagri
+senpcli -s gogo -sd sub -q 480p -se 8 shagri
+senpcli -s gogo -sd sub -q 480p soul-eater
+sudo add-apt-repository ppa:gns3/ppa
+sudo apt install python3 python3-pip pipx python3-pyqt5 python3-pyqt5.qtwebsockets python3-pyqt5.qtsvg qemu-kvm qemu-utils libvirt-clients libvirt-daemon-system virtinst dynamips software-properties-common ca-certificates curl gnupg2 
+cd /home/aurexus/Public
+cd Desktop/results/FOLDER_10/FOLDER_01
+cd ~/Desktop/results/FOLDER_10/FOLDER_01
+cd ~/.local/share/Anki2/
+nco
+geany json_template.py
+python3 json_template.py
+cd FOLDER_02
+sudo apt-get install libgtk2.0-dev pkg-config\
+
+mkdir wagtail
+cd wagtail
+git clone https://github.com/andyjud/django-starter.git . && rm -rf .git
+python3 manage.py startapp a_blog
+senpcli -s gogo -sd sub -q 480p shangri
+senpcli -s gogo -sd sub -q 480p shangri -se 6
+pip freeze | grep "jupy"
+pip freeze |\
+ls
+pip freeze 
+conda remove -n py12 --all
+conda create -n py12 python=3.12.8
+conda activate py12
+conda list -n py12
+pip install -U pandas numpy matplotlib ipykernel seaborn scikit-learn
+cd /home/aurexus/Django/dev/drf/max
+source rm -rf venv
+python3 -m pip
+python3 -m venv
+sudo apt install python3 python3-pip
+sudo apt install python3-venv
+rm -rf Bankai\
+python3 -m venv Bankai\
+
+pip install -U scrapy
+pip install -U ipykernel 
+cd max/naruto
+pip install -U bs4
+scrapy runspider jutsu_crawler.py -o jutsus.jsonl
+scrapy runspider jutsu_crawler.py -o jutsus.jsonl > log.txt
+pip install -U pandas numpy matplotlib ipykernel seaborn scikit-learn spacy
+python3 -m spacy download en_core_web_trf
+python -m spacy download en_core_web_trf
+python3 -m pip install -U nltk
+python3 -m pip install -U pyvis
+python3 -m pip install -U transformers
+ollama
+kill <PID>\
+
+lsof -i :11434\
+
+sudo netstat -tuln | grep 11434\
+
+a
+pip install gradio
+touch gradio.py
+nvim gradio.py
+vim gradio.py
+python3 gradio.py
+ollama serve
+ollama run deepseek-r1:1.5b
+ollama start --port 5005\
+
+ollama serve --port 5005
+ollama serve 
+ollama serve --port 5005\
+
+OLLAMA_HOST=127.0.0.1:11435 ollama serve
+curl http://localhost:11435
+pip install ollama
+pip install python-dotenv
+mpv --no-video https://www.youtube.com/watch\?v\=dp183GdZdqk\&list\=RDMM\&start_radio\=1\&rv\=hnzUCR-O7ck\&ab_channel\=AlaiOsai
+cle
+tmux
+cd CCNA_jermy/
+y1 https://www.youtube.com/watch\?v\=admjE_WT0og\&list\=PLV3rF--heRVtEiOK1dCD912g9Jn8pG-QA\&index\=20\&ab_channel\=Nilaus
+y1 https://youtu.be/admjE_WT0og\?t\=5
+y1 https://youtu.be/9dZlel5-5oU\?t\=218
+y1 https://www.youtube.com/watch\?v\=H2Pd20UjiTs\&ab_channel\=Trupen
+sct 
+sudo apt install sct
+sudo apt install redshift
+redshift -O 5000
+T
+sudo apt update && sudo apt full-upgrade\
+
+sudo apt update && sudo apt full-upgrade
+echo deb http://debian.koha-community.org/koha stable main | sudo tee /etc/apt/sources.list.d/koha.list
+wget -o- http://debian.koha-community.org/koha/gpg.asc | sudo apt-key add -
+wget -O- http://debian.koha-community.org/koha/gpg.asc | sudo apt-key add -
+sudo apt install koha-common
+koha
+sudo nano /etc/koha/koha-sites.conf
+sudo apt install mariadb-server
+sudo a2enmod cgi
+sudo a2enmod rewrite
+geany /etc/apache2/apache2.conf
+sudo nano /etc/apache2/apache2.conf\
+
+sudo systemctl restart apache2
+sudo systemctl status mariadb
+sudo systemctl start mariadb
+koha-create --create-db library
+sudo service apache2 restart
+sudo a2enmod deflate
+sudo a2ensite library
+sudo nano /etc/apache2/sites-available/library.conf
+sudo nano /etc/apache2/ports.conf
+sudo a2ensite library.conf
+sudo systemctl reload apache2
+ls /etc/koha/sites/library/\
+
+sudo koha-create --create-db library\
+
+ls /etc/koha/sites/library/
+sudo chown -R koha:koha /etc/koha/sites/library/\
+sudo chmod 755 /etc/koha/sites/library/koha-conf.xml
+sudo koha-passwd library
+sudo koha-delete library
+sudo koha
+ls /etc/koha/sites/aurexus
+sudo apt update\
+sudo apt install cpanminus
+sudo cpanm Business::ISBN
+sudo systemctl status koha-common\
+sudo systemctl status apache2  # or nginx if you're using Nginx\
+sudo systemctl status mysql\
+
+sudo systemctl start koha-common\
+
+sudo mysql -uroot -p
+sudo systemctl stop koha-common\
+sudo systemctl stop apache2  # or nginx if you're using Nginx\
+sudo systemctl stop mysql\
+
+sudo systemctl start mysql\
+
+sudo mysql -u root -p
+sudo koha-passwd aurexus
+sudo systemctl start apache2\
+
+sudo koha-create --create-db test
+sudo koha-list
+sudo koha-rm library
+sudo koha-remove test
+sudo koha-remove library
+sudo koha-remove aurexus
+sudo koha-enable
+sudo systemctl start apache2
+sudo systemctl start mysql
+sudo systemctl start koha-common
+sudo a2enmod headers proxy_http
+systemctl restart apache2.service
+sudo koha-create --create-db aurexus
+sudo koha-create --create-db library
+sudo nano /etc/koha/sites/library/koha-conf.xml
+cd /etc/koha/sites
+cd library
+sudo pluma koha-conf.xml
+sudo codium  koha-conf.xml
+sudo mousepad  koha-conf.xml
+sudo systemctl restart koha-common
+sudo systemctl status koha-common
+sudo apt-get install libxml2-dev libxslt-dev python-dev lib32z1-dev
+sudo apt-get install libxml2-dev libxslt-dev python-dev-is-python3 lib32z1-dev
+mkdir flask-z39
+conda create -n py5 python=3.5
+conda activate py5
+pip install setuptools
+eix
+conda remove -n py5 --all
+conda create -n py8 python=3.8
+pip install Flask-Z3950
+pip install mollyZ3950
+pip lsit
+sudo apt install yaz
+pip install pyyaz
+nvim main.py
+vim main.py
+pip isntall flask
+pip install flask
+python3 -m flask run
+sudo apt-get update\
+sudo apt-get upgrade libstdc++6\
+
+pluma ~/.zshrc
+geany ~/.zshrc
+conda install libstdcxx-ng\
+
+conda activate base
+conda update conda
+echo $LD_LIBRARY_PATH\
+
+fzf libyaz.so
+sudo apt-get install libyaz-dev\
+
+find /usr -name "libyaz.so*"
+sudo find /usr -name "libyaz.so*"
+conda update libstdcxx-ng\
+
+conda activate py8
+conda update libstdcxx-ng
+conda install libstdcxx-ng
+sudo apt search librewolf 
+sudo apt update && sudo apt install extrepo -y
+sudo extrepo enable librewolf
+sudo apt update && sudo apt install librewolf -y
+sudo apt-get install libyaz-dev yaz\
+
+find /usr /lib /include -name yaz-z39.h 2>/dev/null
+find /usr /lib /include -name yaz.h 2>/dev/null
+find /usr /lib /include -name yaz 2>/dev/null
+ls /usr/share/yaz
+ls /usr/share/yaz/z39.50
+ls /usr/include/yaz/
+gcc -o z39_client z39_client.c -lyaz
+y1 https://www.youtube.com/watch\?v\=8CVeY-9zmUM\&ab_channel\=DoshDoshington
+y7 https://www.youtube.com/watch\?v\=8CVeY-9zmUM\&ab_channel\=DoshDoshington
+python main.py\
+
+curl http://127.0.0.1:5000/search/dc.title\=modern
+gcc -o z39_client z39_client.c -I/usr/include/yaz -lyaz\
+
+gcc -o z39_client z39_client_02.c -I/usr/include/yaz -lyaz\
+
+pip install pymarc
+gcc -o z39_client z3.c -I/usr/include/yaz -lyaz\
+
+gcc -o z39_client z3.c -I/usr/include/yaz -lyaz
+uv init
+uv init flask-z39 --python 3.12
+uv add django django-extensions
+uv run django-admin startproject myproject .
+uv run manage.py startapp notifications
+uv run manage.py runserver
+uv run manage.py makemigrations
+uv run manage.py migrate
+uv run manage.py shell_plus
+uv add --dev black
+uv run black notifications/models.py
+uv add --group prod uvicorn whitenoise
+cd ~/Apps
+uv init --python 3.14 my-project
+uv init --python 3.12 my-project
+uv add fastapi sqlalchemy alembic
+cat uv.lock
+uv add uvicorn
+uv run uvicorn hello:app --port 8000 --reload
+cd flask-z39
+history
+curl "http://127.0.0.1:5000/search?query=dc.title=modern&start=0&num_results=10"
+cd my-project
+uv add ruff --dev
+uv run --with requests api_request.py
+uv run api_request.py
+uv add --script api_request.py 'requests'
+uv run uvicorn main:app --port 8000 --reload
+docker build -t fastapi-app .
+source /home/aurexus/Apps/flask-z39/Bankai/bin/activate
+./z39_client
+python main.py
+telnet z3950.bnf.fr 2211
+sudo apt update\
+sudo apt install qt6-base-dev\
+
+mkdir tomi
+cd tomi
+uv init netflix --python=3.12
+cd netflix
+uv run django-admin startproject netflix_site
+um startapp core
+ua pillow
+sudo apt install ./dbeaver-ce_24.3.4_amd64.deb
+/home/aurexus/Apps/tomi/netflix/.venv/bin/python3.12
+exi
+gcc -o z39_client z39_client.c -I/usr/include/yaz -lyaz
+curl "http://127.0.0.1:5000/search?query=dc.title=modern%20art&start=0&num_results=5"
+gcc -o z39_client search.c -I/usr/include/yaz -lyaz
+gcc -o z39_client search.c -I/usr/include/yaz -lyaz -lcurl
+um makemigrations
+um migrate
+um runserver 8000
+source /home/aurexus/Apps/tomi/netflix/.venv/bin/activate
+als
+cd netflix_site
+um createsuperuser
+y1 https://www.youtube.com/shorts/-S6mW3_oGYI
+omz update
+USE mysql;\
+SET PASSWORD FOR 'root'@'localhost' = PASSWORD('aurexusk');\
+FLUSH PRIVILEGES;\
+EXIT;\
+
+sudo mysql\
+
+mysql -u root -p
+cd /var/www
+mkdir omeka
+sudo mkdir omeka
+cd omeka
+wget https://github.com/omeka/Omeka/releases/download/v3.1.2/omeka-3.1.2.zip
+sudo wget https://github.com/omeka/Omeka/releases/download/v3.1.2/omeka-3.1.2.zip
+unzip omeka-3.1.2.zip
+sudo unzip omeka-3.1.2.zip
+mv omeka-3.1.2 final
+cd f
+sudo mv omeka-3.1.2 final
+cd final
+sudo su
+sudo apt install php php-cli php-fpm php-mbstring php-xml php-mysql php-curl php-zip
+sudo systemctl restart apache2\
+
+cd Django/Dante
+sudo apt install kmail
+mpv 70\ Leetcode\ problems\ in\ 5+\ hours\ \(every\ data\ structure\)\ \(full\ tutorial\)\ \[lvO88XxNAzs\].mp4
+cd /home/aurexus/Videos/easy_ocr/2025/02_feb /10_monday
+cd /home/aurexus/Videos/easy_ocr/2025/02_feb /10_monday/daily
+cd /home/aurexus/Videos/easy_ocr/2025/02_feb /10_monday/
+cd /home
+cd /home/aurexus/Videos
+cd easy_ocr/2025/02_feb\ /10_monday
+cd 10_monday
+cd daily
+for i in {12..28}; do mkdir "2025_feb_$i"; done
+for i in {12..28}; do touch "2025_feb_$i.ipynb"; done
+history > history.txt\
+
+senpcli -s pahe -sd sub -q 480p bogus
+pip --help
+pip -v
+pip -V
+a2dissite 000-default.conf\
+a2ensite o.conf\
+systemctl restart apache2\
+
+sudo a2dissite 000-default
+sudo a2ensite o.conf
+systemctl restart apache2
+imagick
+which ImageMagick
+cd /home/aurexus/Videos/easy_ocr/2025/02_feb /10_monday/kaio-ken
+cd /home/aurexus/Videos/easy_ocr/2025/02_feb
+cd /home/aurexus/Videos/easy_ocr/2025/02_feb\  
+cd 10_monday/kaio-ken
+for i in {6..75}; do cp 05.ipynb "$i.ipynb"; done
+claear
+geany Videos/easy_ocr/2025/02_feb/10_monday/daily/history.txt
+pass generate omeka_database
+pass edit omeka_database
+pass show -c omeka_database
+php -v\
+
+java -version\
+
+senpcli -s pahe -sd sub -q 480p Possibly the Greatest Alchemist of All Tim
+senpcli -s pahe -sd sub -q 480p Possibly-the
+pip install senpwai --upgrade
+for i in {11..75}; do cp 10.ipynb "$i.ipynb"; done
+cd ~/.config/chromium/Default/History
+cd ~/.config/
+cd chromium/Default
+y1 https://www.youtube.com/watch\?v\=CdRG_XN98uA\&ab_channel\=RAFLIMTS
+pip install -U yt_firefox.sh
+pip install -U yt-dlp
+yt-dlp -f 'bestvideo+bestaudio'   --cookies cookies.txt  https://www.youtube.com/watch\?v\=CdRG_XN98uA\&ab_channel\=RAFLIMTS
+ssh koha.aurexus.net_4ya8tvmzxn7@195.20.249.187
+yt-dlp -f 'bestvideo[height<=720]+bestaudio'  https://www.youtube.com/watch\?v\=RLvdhERXfAM\&ab_channel\=RAFLIMTS\
+
+git clone https://github.com/manga-download/hakuneko
+cd /home/aurexus/Downloads/Videos/Aria2/hakuneko-nightly-20200705.1
+npm start
+npm build:app
+npm run build:web
+npm run start
+cd hakuneko
+cd /home/aurexus/Downloads/Videos/Aria2/hakuneko
+sudo apt install ./hakuneko-desktop_8.3.4_linux_amd64.deb
+cd /home/aurexus/Documents
+7z a -t7z 01_.7z /home/aurexus/Documents/Mangas/01  -mx=9 -m0=lzma2 -md=128m -ms=on -mfb=64 
+7z a -t7z 02_.7z /home/aurexus/Documents/Mangas/02  -mx=9 -m0=lzma2 -md=128m -ms=on -mfb=64 
+cd obsidian
+cd obsidian_python
+cd A
+cd Anki
+mpv --no-video Santesh\ ÔΩÉº\ Jiwang\ \(OFFICIAL\ MUSIC\ VIDEO\)\ \[GQik4jl3TdU\].m4a
+mpv --no-video Roop\ Tera\ Mastana\ ÔΩÉº\ Mika\ Singh\ ÔΩÉº\ Giorgia\ Andriani\ ÔΩÉº\ Manvi\ Khosla\ ÔΩÉº\ Nawaz\ Shaikh\ \[hnzUCR-O7ck\].m4a
+7z t 01_.7z\
+7z t 02_.7z\
+
+mpv chat_dj
+python manage.py runserver 8000
+cd .config/
+rm -rf hakuneko-desktop hakuneko-dev
+mpv Django/Dante/70\ Leetcode\ problems\ in\ 5+\ hours\ \(every\ data\ structure\)\ \(full\ tutorial\)\ \[lvO88XxNAzs\].mp4
+cd aaa
+cd /home/aurexus/Pictures/Aurexus/aux-escriptorium/escriptorium
+python app/manage.py check
+npm run production
+python app/manage.py runserver
+source dev_env/bin/activate
+cd kraken_
+cd kraken_train_data
+ketos train -f xml -i model_best.mlmodel --resize add btv1b86146004/*.xml\
+
+rm -rf Downloads/Anime
+rm ‡ÆÉµ‡ÆØ‡Æø‡Æ≤‡Ææ‡ÆØ\ ‡Æµ‡Ææ‡Æ§‡ØÉ≠‡Æ§‡Æø‡ÆØ‡ÆÆ‡ØÉ≠\ -\ Kailaya\ Vathiyam\ \[_aKILtah3TA\].m4a
+rm How\ hard\ is\ it\ to\ beat\ Factorio\ SPACE\ AGEÔºÉø\ \[8CVeY-9zmUM\].webm
+rm How\ hard\ is\ it\ to\ beat\ Factorio\ SPACE\ AGEÔºÉø\ \[8CVeY-9zmUM\].f399.mp4.part
+rm Roop\ Tera\ Mastana\ ÔΩÉº\ Mika\ Singh\ ÔΩÉº\ Giorgia\ Andriani\ ÔΩÉº\ Manvi\ Khosla\ ÔΩÉº\ Nawaz\ Shaikh\ \[hnzUCR-O7ck\].m4a
+y1 https://www.youtube.com/watch\?v\=BpPEoZW5IiY\&ab_channel\=freeCodeCamp.org
+mpv --no-video Outfit\ Ujda\ Chaman.mp3
+cd /home/aurexus/Apps/gmail_backup
+Bankai/bin/python3 -m pip install imaplib2 email progress tqdm
+python3 -m pip install imaplib2 email progress tqdm
+pip
+pip install imaplib2 email progress tqdm\
+
+pip install tqdm
+which node
+node -V
+npm -v
+mpv --no-video https://www.youtube.com/watch\?v\=iaf4w6lFpT8
+mkdir n8n_start
+cd n8n_start
+npm install n8n
+cat package.json
+npx n8n
+vim mail.py
+pass generate n8n
+python3 mail.py
+7z a -t7z gmail_backup_kisame.7z gmail_backup  -mx=9 -m0=lzma2 -md=128m -ms=on -mfb=64 
+cd /home/aurexus/Apps/gmail_backup/gmail_backup/\
+rename 's/[^a-zA-Z0-9._-]/_/g' *.eml\
+
+pip install eml-to-mbox
+vim delete_mail.py
+codium delete_mail.py
+python3 delete_mail.py
+sudo apt install vscode
+sudo apt install ./code_1.97.2-1739406807_amd64.deb
+codium Public/axum_learn
+cargo new rust_core
+git clone git@github.com:sunface/rust-by-practice.git
+git clone https://github.com/sunface/rust-by-practice
+cd rust-by-practice
+cargo install mdbook
+mdbook serve en
+rustup update stable\
+
+mpv Learn\ Rust\ Programming\ -\ Complete\ Course\ Éø¶Ä\ \[BpPEoZW5IiY\].webm
+rofi
+rofi -h
+sudo apt list
+cd .config/alacritty
+fastfetch
+sudo apt install fastfetch
+sudo nano /etc/vim/vimrc
+sudo apt remove neovim
+cd /opt
+cd nvim-linux64
+./nvim
+clkear
+claar
+sudo rm -rf /opt/nvim-linux64
+source ~/.zshrc\
+
+lv --version
+git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+LS
+cd .config/n
+cd .config
+git clone https://github.com/NvChad/starter ~/.config/nvim
+cd nvim
+rm -rf nvim.bak
+git clone https://github.com/NvChad/NvChad ~/.config/nvim
+cd lua
+cd nvchad
+cd 2025/02_feb
+mkdir 21_friday
+cd 21_friday
+mkdir kaio_ken
+mv kaio_ken kaio_ken_rs
+cd kaio_ken_rs
+touch ts_rust_learn.ipynb
+cd .config/nvim
+cd Django/Kage/rust
+cd Django/Kage/rust_core
+rustup component add rustfmt\
+
+ollama run deepscaler
+cd models
+cd ~/.ollama
+yt-dlp -f 'bestvideo[height<=480]+bestaudio'  https://www.youtube.com/watch\?v\=zF34dRivLOw\&ab_channel\=TraversyMedia\
+
+mpv htmx_dj
+lsblk
+rm -rf crawler
+python3 -m pip install -r website-crawler/requirements.txt
+cd website-crawler
+playwright install
+python3 main.py
+sudo apt install python3 python3-pip python3-venv python3-v-sim python-dbus-dev 
+sudo apt install xserver-xorg xinit
+sudo apt install libpangocairo-1.0-0
+sudo apt install python3-pip python3-xcffib python3-cairocffi
+sudo nano .zshrc
+python3 -m venv /home/aurexus/.local/src/venv
+git clone https://github.com/qtile/qtile.git /home/aurexus/.local/src/venv/qtile
+/home/aurexus/.local/src/venv/bin/pip install /home/aurexus/.local/src/venv/qtile/.
+/home/aurexus/.local/src/venv/bin/pip install psutil
+ln -sf /home/aurexus/.local/src/venv/bin/qtile ~/.local/bin
+cat mate.desktop
+cat lightdm-xsession.desktop
+cat xfce.desktop
+nano qtile.desktop
+sudo nano qtile.desktop
+qtile
+qtile -v
+qtile -h
+qtile top
+qtile start
+[200~pkill metacity
+pkill metacity
+pkill macror
+pkill macro
+sudo nano /usr/share/xsessions/qtile.desktop\
+
+sudo nano /usr/share/xsessions/qtile.desktop
+sudo geany /usr/share/xsessions/qtile.desktop
+which qtile\
+
+ls -l ~/.local/bin/qtile\
+
+Exec=/usr/bin/qtile start\
+
+sudo systemctl restart lightdm.service
+cd /usr/share/xsessions
+sudo chmod 644 /usr/share/xsessions/qtile.desktop\
+
+sudo chmod +x /usr/share/xsessions/qtile.desktop\
+
+cat ~/.local/share/qtile/qtile.log\
+
+qtile start\
+
+ps aux | grep cargo\
+
+pkill -9 53430
+pkill -9 55537
+y7 https://www.youtube.com/watch\?v\=ygL_xcavzQ4\&ab_channel\=DerekBanas
+mpv Rust\ Tutorial\ Full\ Course\ \[ygL_xcavzQ4\].webm
+cargo check
+cargo run
+cargo add burn --features wgpu
+cargo build
+cd my_clockify_report
+source /home/aurexus/Apps/KNN/Bankai/bin/activate
+/home/aurexus/Apps/KNN/Bankai/bin/python /home/aurexus/Apps/KNN/my_clockify_report/csv_generate.py
+cd /home/aurexus/.ollama/models
+cd blobs
+cd Django
+mkdir ollama_models
+cd ollama_models
+ollama export --help
+ollama export deepscaler:latest deepscaler-latest.ollamabundle
+ollama cp --help
+ollama cp deepscaler:latest deepscaler-latest.ollamabundle
+pip install seaborn
+pip install wordcloud
+vim
+mkdir Kage
+cd Kage/
+https://gitlab.teklia.com/callico/callico.git
+cd front
+python3 -m venv callico
+cd c
+rm -rf callico
+git clone https://gitlab.teklia.com/callico/callico.git
+cd Apps/K
+cd callico/front
+npm run build
+npm run watch
+python3 callico/callico
+python3 callico/callico/manage.py runserver
+ls -la callico/\
+
+ls -la callico/
+ls -la callico/callico
+python3 callico/manage.py makemigrations
+python3 callico/manage.py migrate
+python3 callico/manage.py createsuperuser
+python3 callico/manage.py runserver
+cd K
+cd Kage
+cd callico
+make worker
+adb
+git config --global --edit
+ls ~/.ssh/
+cd .ssh
+ssh-add ~/.ssh/kisame_github
+cd Apps/Kage
+mkdir frontend-tutorial
+cd frontend-tutorial
+git init
+echo "# Tailwind CSS" > README.md
+git commit -m "Initial commit"
+git remote add origin git@github.com:kisame77/frontend-learn.git
+git commit -m "Initial commi"
+git commit -m "Tailwind part one"
+git commit -m "Tailwind part two complete"
+git commit -m "Tailwind part three"
+ssh -T git@github.com
+git commit -m "Tailwind part four complete"
+git commit -m "Tailwind part seven complete"
+node -v
+mkdir tailwind
+cd tailwind
+npm install tailwindcss
+touch tailwind.css
+npm run tailwind
+npm install clean-css-cli
+npm run minify
+git commit -m "Tailwind part eight complete"
+mkdir awesome
+cd awesome
+uv init . python=3.12
+django-admin startproject core .
+uv python list
+uv self update
+ur django-admin startporject core .
+ur django-admin startproject core .
+sudo apt install waydroid -y
+sudo apt install curl ca-certificates -y
+curl -s https://repo.waydro.id | sudo bash
+sudo apt install anbox
+ur manage.py startapp posts
+git remote add origin git@github.com:kisame77/awesome.git
+git branch -M main
+git commit -m "Django part 2 complete"
+ua dj-database-url
+ua psycopg
+git commit -m "Django part 3 complete"
+ua requests
+ua beautifulsoup4
+git commit -m "Django part 4 complete"
+ollama run llama3.2
+docker pull voicevox/voicevox_engine:cpu-latest
+curl -X GET "http://localhost:50021/version"\
+
+docker run --rm -p '127.0.0.1:50021:50021' voicevox/voicevox_engine:cpu-latest
+curl -X GET "http://127.0.0.1:50021/version"\
+
+codium history.txt
+cd Aurexus
+ketos --help
+ketos train --help
+ketos train -f alto -o model_best.mlmodel pertus_segment_model/*.xml
+ketos train -f alto -o model_best.mlmodel *.xml
+find pertus_segment_model/  -type f -name ‚ÄÉº*.xml‚ÄÉΩ > output.txt
+cd pertus_segment_model
+find  -type f -name ‚ÄÉº*.xml‚ÄÉΩ > output.txt
+find pertus_segment_model -type f -name "*.xml" > output.txt\
+
+cat output.txt
+ketos train -F output.txt --random-splits 0.8 0.1 0.1 -f alto
+ketos train -F output.txt 
+ketos train -f alto output.txt
+ketos compile output.txt
+ketos compile -F output.txt -f alto
+ketos train -f binary -o pertus_seg.mlmodel dataset.arrow
+ketos train -f binary -i en_best.mlmodel -o pertus.mlmodel dataset.arrow
+ketos train -f binary -i en_best.mlmodel --resize -o pertus.mlmodel dataset.arrow
+ketos train -f binary -i en_best.mlmodel --resize add dataset.arrow
+ketos train -f alto -i en_best.mlmodel --resize add pertus_segment_model/*.xml
+ketos train -f xml -i en_best.mlmodel --resize add pertus_segment_model/*.xml
+CLEAR
+cd .ollama
+adb backup 
+ollama run deepseek-r1:8b
+ollama stop deepseek-r1:8b
+ollama stop deepscaler:latest
+python3 -m pip -U senpwai
+senpcli -s pahe -sd sub -q 480p sakumo
+cd /home/aurexus/Public/coreml_pytorch
+rm -rf coreml_pytorch
+mkdir coreml_pytorch
+cd coreml_pytorch
+cd /home/aurexus/Music/Alpine_js
+mpv --no-video World.mp3
+pip install coremltools
+lv convert.py
+python3 convert.py
+pip install TTS
+tts --list-models
+tts --list_models
+tts --list_models > models.txt
+cd Public/c
+mkdir Piper
+cd Piper
+mv ~/Downloads/voicevox-linux-cpu-0.23.0.tar.gz .
+tar -czvf voicevox-linux-cpu-0.23.0.tar.gz
+cd VOICEVOX
+sudo chmod +x voicevox
+./voicevox --help
+voicevox --help
+vv-engine
+run
+./r
+[200~curl http://127.0.0.1:50021/version
+curl http://127.0.0.1:50021/version\
+
+echo -n "„ÅÉ≥„ÇÉ≥„Å´„ÅÉÅ„ÅØ„ÄÅÈÉø≥Â£∞ÂÉ∞É®ÊÉ®É∞„ÅÆ‰∏É∂ÁÉµÉ¨„Å∏„ÇÉ®„ÅÉ¶„ÅÉ≥„ÅÉΩ" >text.txt
+curl -s \\
+    -H "Content-Type: application/json" \\
+    -X POST \\
+    -d @query.json \\
+    "127.0.0.1:50021/synthesis?speaker=1" \\
+    > audio.wav
+curl -s -X POST "127.0.0.1:50021/audio_query?text=„ÅÉ≥„ÇÉ≥„Å´„ÅÉÅ„ÅØ„ÄÅ„ÅÉ≥„ÇÉ¨„ÅØ„É£É¶„Çπ„É£É®„Åß„ÅÉπ„ÄÇ&speaker=1" -o query.json\
+
+echo -n "„ÅÉ≥„ÇÉ≥„Å´„ÅÉÅ„ÅØ„ÄÅÈÉø≥Â£∞ÂÉ∞É®ÊÉ®É∞„ÅÆ‰∏É∂ÁÉµÉ¨„Å∏„ÇÉ®„ÅÉ¶„ÅÉ≥„ÅÉΩ" >text.txt\
+\
+curl -s \\
+    -X POST \\
+    "127.0.0.1:50021/audio_query?speaker=1"\\
+    --get --data-urlencode text@text.txt \\
+    > query.json\
+\
+curl -s \\
+    -H "Content-Type: application/json" \\
+    -X POST \\
+    -d @query.json \\
+    "127.0.0.1:50021/synthesis?speaker=1" \\
+    > audio.wav
+mpv audio.wav
+lv your_file.md
+lv audio
+curl -s "http://127.0.0.1:50021/speakers"\
+
+curl -s "http://127.0.0.1:50021/speakers" > speakers.txt
+ll
+cd vv-engine/
+./run
+lv audio_generate.py
+python3 audio_generate.py
+cf
+curl -fsS https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo gpg --dearmor -o /usr/share/keyrings/packages-pgadmin-org.gpg
+sudo sh -c 'echo "deb [signed-by=/usr/share/keyrings/packages-pgadmin-org.gpg] https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'
+sudo apt install pgadmin4
+sudo mkdir /var/lib/pgadmin
+sudo mkdir /var/log/pgadmin
+sudo chown $USER /var/lib/pgadmin
+sudo chown $USER /var/log/pgadmin
+mkdir pgadmin
+cd pgadmin
+python3 -m venv pgadmin4
+rm -rf pgadmin4
+uv add pgadmin4
+uv run pgadmin
+source .venv/bin/a
+pgadmin
+cd Music/Alpine_js
+mpv --no-video bollywood_VKW\ 2018\ -\ Mind\ Blowing\ .mp3
+mpv --no-video Honey\ Bunny\ Song\ ÔΩÉº\ Paul\ Shah\ ÔΩÉº\ Prakriti\ Shrestha\ ÔΩÉº\ Nitin\ Chand\ ÔΩÉº\ Bikram\ Basnet\ \[RmvpyuRaAmg\].mp4
+cat .zshrc
+km
+cp Downloads/Videos/Aria2/Code\ Thanish\'s\ DSA\ Sheet\ -\ Sheet1.csv /home/aurexus/Public/coreml_pytorch/
+kra
+kraken list
+lv segment_image.py
+python segment_image.py
+python3 segment
+kraken -h
+kraken -i 1980_11_1_A01.jpg test.xml segment pertus_segment_40_accuracy.mlmodel -f xml
+kraken -i 1980_11_1_A01.jpg test.xml segment -m pertus_segment_40_accuracy.mlmodel -f xml
+kraken -i 1980_11_1_A01.jpg test.xml segment -m pertus_segment_40_accuracy.mlmodel 
+kraken convert-model pertus_segment_40_accuracy.mlmodel -o pertus_segment_40_accuracy.mlmodelz
+kraken -i 1980_11_1_A01.jpg test.txt segment -m pertus_segment_40_accuracy.mlmodel 
+cd escriptorium
+cealr
+cd model_testing
+from kraken.lib.models import load_any
+/home/aurexus/Pictures/Aurexus/aux-escriptorium/escriptorium/venv/bin/python3
+kraken -i 1980_11_1_A01.jpg test.txt segment -m blla.mlmodel
+kraken -i 1980_11_1_A01.jpg test.txt segment 
+python3 segment_image.py
+python3 test.py
+cd export
+pip install pillow lxml opencv-python\
+
+python3 draw.py
+mpv Obsidian\ As\ A\ Second\ BrainÔºÉ∫\ The\ ULTIMATE\ Tutorial\ \[WqKluXIra70\].mp4
+git pull
+git status
+cd dj_rest_framework
+history > history.txt
+yt-dlp -f 'bestvideo[height<=720]+bestaudio'  https://www.youtube.com/playlist\?list\=PL-2EBeDYMIbTLulc9FSoAXhbmXpLq2l5t > new_download.txt
+yt-dlp -f 'bestvideo[height<=720]+bestaudio' --cookies cookies.txt   https://www.youtube.com/playlist\?list\=PL-2EBeDYMIbTLulc9FSoAXhbmXpLq2l5t > new_download.txt
+python3 playlist_create.py
+python3 playlist_Create.py
+cd code_thanish
+python3 -m pip install -U senpwai
+python3 -m pip install -U yt-dlp
+yt-dlp -f 'bestvideo[height<=720]+bestaudio'  https://www.youtube.com/playlist\?list\=PLjKqLOYP0npZRz9ogDfeh9-gvLD-gZCWF
+cd array
+sudo apt install yt-dlp
+sudo apt remove yt-dlp
+sudo apt autoremove 
+yt-dlp
+python3 y7_python.py
+y7 https://www.youtube.com/watch\?v\=q6VAyaGUJNg\&ab_channel\=AlaiOsai
+mv Magarita\ -\ The\ Keys\ \[q6VAyaGUJNg\].webm ~/Django/Dante
+git commit -m "Django part 5 complete"
+ur manage.py test
+ua pytest-django --dev
+ua ruff --dev
+ur pytest
+git commit -m "Django part 6 complete"
+mkdir static/css static/js static/images
+git commit -m "Django part 7 complete"
+ua django-allauth
+git add .
+git commit -m "Django part 8 complete"
+git push -u origin main
+pgadmin4
+fzf 
+cd Public/pgadmin
+uv run pgadmin4
+7z a pgadmin.7z /home/aurexus/Public/pgadmin/* /home/aurexus/Public/pgadmin/.* -r
+cd Django/django-sshd
+venv/bin/python -m pip list
+venv/bin/python manage.py runserver
+venv/bin/python web/manage.py runserver
+mpv --no-video Magarita\ -\ The\ Keys\ \[q6VAyaGUJNg\].webm 
+cd Downloads/Videos/Aria2
+aria2c --enable-rpc --rpc-listen-port=6800 --rpc-allow-origin-all  --disable-ipv6
+senpcli -s pahe -sd sub -q 480p -se 8 bogus
+senpcli -s pahe -sd sub -q 480p -se 7 bogus
+senpcli -s pahe -sd sub -q 480p -se 7 greatest
+senpcli -s pahe -sd sub -q 480p -se 9 villiane
+senpcli -s pahe -sd sub -q 480p -se 9 eye
+senpcli -s pahe -sd sub -q 480p -se 9 apprais
+sudo apt update\
+sudo apt install flatpak gnome-software-plugin-flatpak\
+
+./VentoyGUI.x86_64
+mpv --no-video Pallan\ comedy\ chi\ chi\ chi\ Éø§£ÉøÉ∏π\ \ \#cheems\ \#cheemstamizh\ \#comedy\ \#tamilhumor\ \#memes\ \#funnyscenes\ \[-S6mW3_oGYI\].webm
+sudo apt install flatpak gnome-software-plugin-flatpak\
+
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+flatpak install flathub org.gnome.Fractal
+flatpak run org.gnome.Fractal
+mpv --no-video light.m4a
+sudo apt update\
+sudo apt install docker.io docker-compose -y
+sudo systemctl enable --now docker
+docker --version\
+docker-compose --version
+mkdir koha-docker && cd koha-docker
+nano docker-compose.yml
+sudo docker-compose up -d
+docker logs koha
+docker exec -it koha bash
+lv docker-compose.yml
+docker-compose up -d
+docker-compose logs -f
+docker-compose down\
+
+sudo rm -rf ./db_data ./koha_data ./koha_config
+cat Public/coreml_pytorch/prompt.txt
+which adduser
+su
+codium /home/aurexus/Documents/interview_test
+which yt-dlp
+yt-dlp -f 'bestvideo[height<=720]+bestaudio'  https://www.youtube.com/watch\?v\=E0bwEAWmVEM\&ab_channel\=freeCodeCamp.org
+mpv Learn\ PyTorch\ in\ 5\ Projects\ ‚ÄÉ≥\ Tutorial\ \[E0bwEAWmVEM\].webm
+uv add pytorch
+uv init . --python=3.13
+uv init . --python=3.11
+uv pip install markupsafe==2.1.3
+uv pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+uv add ipykernel
+uv sync
+uv add torch torchvision torchaudio 
+ls la
+ls l
+uv pip install markupsafe==2.1.3\
+
+uv add markupsafe==2.1.3\
+
+uv add torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+uv add --dev ipykernel
+ls -la
+conda create -n lua_learn python=3.12
+conda activate lua_learn
+python3 -m pip install ipykernel
+python3 -m pip install opendatasets
+touch freecodecamp.ipynb
+python3 -m pip uninstall opendatasets
+pip install kagglehub
+sudo cp /home/aurexus/.cache/kagglehub/datasets/mssmartypants/rice-type-classification dataset
+sudo cp -r /home/aurexus/.cache/kagglehub/datasets/mssmartypants/rice-type-classification dataset
+chmod 777 -r dataset
+chmod 777 dataset
+rm -rf dataset/rice-type-classification
+sudo rm -rf dataset/rice-type-classification
+chmod +x dataset/2/riceClassification.csv
+chmod +x riceClassification.csv
+pip isntall scikit-learn
+pip install scikit-learn
+pip install matplotlib
+pip install torchsummary
+pip install pandas numpy matplotlib ipykernel seaborn scikit-learn
+pip install pillow
+mv lua.7z /home/aurexus/Downloads/Videos/hunk
+conda remove -n lua 
+conda remove --name lua 
+conda remove env -n lua
+conda remove -n lua
+conda remove -h
+conda remove -n lua --al
+sudo systemctl status lightdm
+sudo systemctl status display-manager\
+
+sudo apt install xfce4
+sudo systemctl status display-manager
+yt-dlp -f 'bestvideo[height<=720]+bestaudio'  https://www.youtube.com/watch\?v\=fuTJA-4DQ9s\&ab_channel\=diws
+nmcli 
+nmcli d
+nmcli r wifi on
+nmcli d wifi list
+sudo apt install lightdm-gtk-greeter
+sudo apt install lightdm-gtk-greeter-settings
+mv -r * /home/aurexus/Documents/Desktop
+mv  * /home/aurexus/Documents/Desktop
+chromium
+xfconf-query -c xfce4-panel -p /panels -t int -s 1 --create
+xfce4-panel --restart\
+
+reboot
+cd /usr/share/desktop-base
+cd images/desktop-base
+cd Documents/Desktop
+sudo cp -r wallhaven-2y2wg6.png /usr/share/images/desktop-base
+sudo apt install xfce4-genmon-plugin
+conda create -n lua python=3.12
+conda activate lua
+conda list --all
+conda list 
+python3 -m pip install -U pandas numpy matplotlib scikit-learn seaborn ipykernel
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+cd /home/aurexus/Public/coreml_pytorch/LUA
+cd labelme_linux_exec
+cd dist
+free | grep Mem | awk '{print $3/$2 * 100.0 "%"}'
+[200~bash -c "free | grep Mem | awk '{usage=int($3/$2 * 100.0); printf \"%d%% [\", usage; for(i=0; i<usage/2; i++) printf \"#\"; printf \"]\n'}'"
+bash -c "free | grep Mem | awk '{usage=int($3/$2 * 100.0); printf \"%d%% [\", usage; for(i=0; i<usage/2; i++) printf \"#\"; printf \"]\n'}'"\
+
+free | grep Mem | awk '{usage=int($3/$2 * 100.0); printf \"%d%% [\", usage; for(i=0; i<usage/2; i++) printf \"#\"; printf \"]\n'}'\
+;
+free | grep Mem | awk '{usage=int($3/$2 * 100.0); printf \"%d%% [\", usage; for(i=0; i<usage/2; i++) printf \"#\"; printf \"]\n'}
+bash -c "free | grep Mem | awk '{usage=int($3/$2 * 100.0); printf \"%d%% [\", usage; for(i=0; i<usage/2; i++) printf \"#\"; printf \"]\n'}'"
+bash -c 'free | grep Mem | awk "{usage=int(\$3/\$2 * 100.0); printf \\"%d%% [\\", usage; for(i=0; i<usage/2; i++) printf \\"#\\"; printf \\"\\]\\\\n"}"'\
+
+bash -c 'free | grep Mem | awk "{usage=int(\$3/\$2 * 100.0); printf \"%d%% [\", usage; for(i=0; i<usage/2; i++) printf \"#\"; printf \"]\\n"}"'\
+
+free | grep Mem | awk '{usage=int($3/$2 * 100.0); printf "%d%% [", usage; for(i=0; i<usage/2; i++) printf "#"; printf "]\n"}'\
+
+source labelme/bin/activate
+cd py_labelme
+cd skl_sp
+mkdir PERTUS_LABELME
+cd PERTUS_LABELME
+rm -rf tomi
+rm -rf blog-python
+rm -rf nvim
+rm -rf freetube-0.23.2-amd64.AppImage
+rm -rf my-project
+labelme .
+rm -rf LABELME
+top -bn1 | grep "Cpu(s)" | sed "s/.*, *\([0-9.]*\)%* id.*/\1/" | awk '{print 100 - $1 "%"}'
+mkdir LABELME
+cd LABELME
+sudo apt update && sudo apt install --reinstall libxcb-xinerama0 libqt5gui5 libqt5core5a libqt5widgets5
+sudo apt install --reinstall qt5-qmake qt5-qmake-bin qtbase5-dev
+export QT_QPA_PLATFORM_PLUGIN_PATH=/usr/lib/qt5/plugins/platforms
+labelme 
+sudo apt install qt5-qtbase qt5-qtbase-gui
+pip uninstall labelme
+pip install labelme --upgrade
+sudo apt update\
+sudo apt install --reinstall qt5-qpa-plugins libxcb1 libx11-xcb1 libglu1-mesa\
+
+[200~sudo apt update
+sudo apt install qtbase5-plugins
+sudo apt update\
+sudo apt install qtbase5-plugins\
+
+labelme_env
+pip isntall pyinstaller
+pip install --upgrade pyinstaller
+cd Music/Python/py_labelme
+source Labelme/bin/activate
+cd Labelme/lib64/python3.11/site-packages/labelme
+pyinstaller labelme.spec
+cd dist/
+./labelme
+sudo apt-get install libxcb-render-util0 libxcb-image0 libxcb-icccm4\
+
+ldd /usr/lib/qt5/plugins/platforms/libqxcb.so
+sudo find / -name libqxcb.so
+export QT_QPA_PLATFORM_PLUGIN_PATH=/home/aurexus/Public/labelme_env/lib/python3.11/site-packages/PyQt5/Qt5/plugins/
+export QT_QPA_PLATFORM_PLUGIN_PATH=/home/aurexus/Public/labelme_env/lib/python3.11/site-packages/PyQt5/Qt5/plugins/platforms
+export QT_QPA_PLATFORM_PLUGIN_PATH=/home/aurexus/Public/labelme_env/lib/python3.11/site-packages/PyQt5/Qt5/plugins/platforms ./labeme
+export QT_QPA_PLATFORM_PLUGIN_PATH=/home/aurexus/Public/labelme_env/lib/python3.11/site-packages/PyQt5/Qt5/plugins/platforms ./labelme
+export QT_QPA_PLATFORM_PLUGIN_PATH=/home/aurexus/Public/labelme_env/lib/python3.11/site-packages/PyQt5/Qt5/plugins/platforms labelme
+export QT_QPA_PLATFORM_PLUGIN_PATH=/home/aurexus/Public/labelme_env/lib/python3.11/site-packages/PyQt5/Qt5/plugins/platforms 
+ls /home/aurexus/Public/labelme_env/lib/python3.11/site-packages/PyQt5/Qt5/plugins/platforms 
+sudo apt-get install libxcb1 libxcb-xinerama0 libxcb-render0 libxcb-util0 libxcb-shape0 libxcb-sync1
+sudo apt-get install libxcb1 libxcb-xinerama0 libxcb-render0 libxcb-util0-dev libxcb-shape0 libxcb-sync1
+[200~export LD_LIBRARY_PATH=/usr/local/lib:~/Qt/5.9.1/gcc_64/lib
+export QT_QPA_PLATFORM_PLUGIN_PATH=~/Qt/5.9.1/gcc_64/plugins/
+export LD_LIBRARY_PATH=/usr/local/lib:~/Qt/5.9.1/gcc_64/lib\
+export QT_QPA_PLATFORM_PLUGIN_PATH=~/Qt/5.9.1/gcc_64/plugins/\
+
+cd Bankai/lib/python3.11/site-packages/labelme
+rm -r ~/.config/btop/
+yt-dlp -f 'bestvideo[height<=720]+bestaudio'  https://www.youtube.com/shorts/vaVdN7tFrKA
+cd Apps
+cd .
+senpcli -s pahe -sd sub -q 480p -se 43 shang
+senpcli -s pahe -sd sub -q 480p -se 20 shang
+sudo systemctl start posgtresql
+sudo systemctl start posgtre
+sudo systemctl start posgtres
+python manage.py shell --settings escriptorium.local_settings
+caja.
+sudo apt install thunar-archive-plugin thunar-media-tags-plugin thunar-volman tumbler
+thunar
+thunar -q && THUNAR_DEBUG=1 thunar
+sudo apt install xfce4-screenshooter
+thunar --daemon
+ollama upgrade
+sudo apt update ollama
+sudo apt update 
+curl -fsSL https://ollama.com/install.sh | sh
+ollama --help
+ollama rm gemma3:12b
+ollama rm deepscaler-latest.ollamabundle:latest
+ollama rm llama3.2
+/home/aurexus/Documents/
+mkdir interview_test
+cd interview_test
+cd djob_frontend
+rm -rf node_modules
+npm install
+npm run dev
+mkdir djob_backend
+rm -rf djob_backend
+pip install --upgrade pip
+pip install clear
+pip uninstall clear
+django-admin startproject djob_backend
+cd djob_backend
+python3 m manage.py startapp job
+python3  manage.py startapp job
+senpcli -s pahe -sd sub -q 480p -se 11 greatest
+senpcli -s pahe -sd sub -q 480p -se 11 fruit
+senpcli -s pahe -sd sub -q 480p -se 11 skillmast
+senpcli -s pahe -sd sub -q 480p -se 11 fruitmast
+senpcli -s pahe -sd sub -q 480p -se 11 worthless
+lazydocker
+mkdir label_studio
+l
+pip install label-studio
+sudo systemctl status posgtres
+cd label_studio
+pip freeze
+label-studio
+mkdir dev_label_studio
+cd dev_label_studio
+lcear
+git clone https://github.com/HumanSignal/label-studio.git
+uvx pdm import pyproject.toml
+uvx migrate-to-uv
+ur label_studio/manage.py migrate
+source .venv/bin/activate
+rm -rf .venv
+source Bankai/bin/activate
+pip isntall https://github.com/HumanSignal/label-studio-sdk/archive/388257eeea2ed95ae769724bb8b6ad9c41511b96.zip
+pip install https://github.com/HumanSignal/label-studio-sdk/archive/388257eeea2ed95ae769724bb8b6ad9c41511b96.zip
+python3 label_studio/manage.py migrate
+Bankai/bin/python3 label_studio/manage.py migrate
+django-admin 
+django-admin help
+django-admin help check
+cd Public/labelme_env
+sudo apt install pipx
+pass generate ionos
+pass edit ionos
+which poetry
+/usr/bin/poetry --version
+python3 -m pip list
+pipx install poetry
+/home/aurexus/.local/pipx/venvs/poetry --version
+/home/aurexus/.local/pipx/venvs/poetry 
+cd bin
+poetry --version
+cd label
+cd label_studio/dev_label_studio
+cd label-studio
+pip install poetry
+poetry install
+senpcli -s pahe -sd sub -q 480p -se 11 saka
+senpcli -s pahe -sd sub -q 480p -se 10 saka
+git clone https://github.com/codingforentrepreneurs/analytics-api
+cd analytics-api
+source /home/aurexus/Apps/Kage/awesome/.venv/bin/activate
+servicexc postgresql start
+ur manage.py runserver 8000
+cd Bankai
+rm -rf code_tha
+sudo apt install xfce4 xfce4-goodies
+sudo apt update
+sudo apt upgrade
+sudo apt install claws-mail
+claws-mail
+sqlite3 leetcode.apkg
+unzip leetcode.apkg -d leetcode_extracted
+sqlite3 leetcode.apk
+sqlite3 leetcode_extracted/collection.anki2
+senpcli -s pahe -sd sub -q 480p -se 23 shang
+unimatrix -c blue -u 'Darksiders'
+mpv --no-video ÉøÉ≤Äwait\ for\ end\ ÉøÉ∏É¶ÔΩÉºÔΩÉºcheems\ video\ tamil\ ÉøÉ∞ÉµÔΩÉºÔΩÉº\ \#shorts\ \#anime\ \#tamil\ \#music\ \#respect\ \#trending\ \[vaVdN7tFrKA\].webm
+FONDUE-FR-MSS-18
+mpv --no-video Magarita\ -\ The\ Keys\ \[q6VAyaGUJNg\].webm
+cd web
+python3 web/manage.py runserver 8000
+docker compose up 
+cd /home/aurexus/Public/labelme_linux_exec/dist/
+./labelme --config label_config.json
+./labelme 
+cd /home/aurexus/Music/Python/
+cd py_labelme/
+source /home/aurexus/Music/Python/py_labelme/Labelme/bin/activate
+docker-compose up clear
+cclear
+docker ps
+docker-compose up 
+source /home/aurexus/Django/django-sshd/venv/bin/activate
+sudo apt install wrk
+wrk -t4 -c100 -d30s http://localhost:8001/
+sudo apt install pandoc
+pandoc review.md -o output.pptx --slide-level=2\
+
+7z a -t7z lua.7z LUA  -mx=9 -m0=lzma2 -md=128m -ms=on -mfb=64 
+/home/aurexus/Django/django-sshd/
+7z a -t7z django-sshd.7z *  -mx=9 -m0=lzma2 -md=128m -ms=on -mfb=64 
+cd /home/aurexus/Videos/
+7z a -t7z lua.7z easy_ocr/ -mx=9 -m0=lzma2 -md=128m -ms=on -mfb=64 -xvenv/bin/python web/manage.py runserver
+cd easy_ocr
+7z a -t7z lua.7z * -mx=9 -m0=lzma2 -md=128m -ms=on -mfb=64 -xvenv/bin/python web/manage.py runserver
+clar
+docker-compose down
+cd apps
+sudoreboot
+yt-dlp -f 'bestaudio' https://www.youtube.com/watch\?v\=tx9L50smWJo
+docker-compose up --build
+cd Public/coreml_pytorch
+cd Piper/VOICEVOX
+./voicevox
+cd /home/aurexus/Public/pertus_easyocr/
+python3 -m venv Bankai
+rm -rf Bankai
+venv/bin/python3 -m pip install easyocr
+python3 json_to_csv_using_regex.py
+python3 full_workflow.py
+pass show -c ionos
+pip install -U pip
+pip show django
+which pip
+pip isntall pytest pytest-django
+pip install pytest pytest-django
+/bin/python
+c;ear
+ckear
+python3 -m pip install -r requirements.txt
+pytest
+mkdir -p /static/django_htmx/
+mkdir -p static/django_htmx/
+touch static/django_htmx/django-htmx.js
+pip uninstall pyspellchecker
+pip install nltk symspellpy
+python3 
+pip install pyspellchecker==0.5.6
+rm db.sqlite3
+pip install symspellpy
+pip install ipykernel
+mkdir -p templates/partials/spell_results.html
+touch templates/partials/spell_results.html
+senpcli -s pahe -sd sub -q 480p pokemon
+caja 
+conda env list
+conda remove -n paddle --all
+conda create -n paddle python=3.12
+conda activate paddle
+pip install paddleocr
+paddlepaddle
+pip isntall paddlepaddle
+pip install paddlepaddle
+pip install paddlepaddle paddleocr opencv-python
+cd ~/Desktop
+mkdir paddle_test
+cd paddle_test
+lv paddle_ocr.py
+vim paddle_ocr.py
+python paddle_ocr.py
+senpcli -s pahe -sd sub -q 360p -ee 2 pokemon
+senpcli -s pahe -sd sub -q 360p -se 1 -ee 2 pokemon
+systemctl stop sleep.target suspend.target hibernate.target hybrid-sleep.target\
+
+senpcli -s pahe -sd sub -q 360p pokemon
+pip install kraken
+kraken -v
+kraken --help
+kraken --version
+ketos --version
+pip install kraken==5.3.0
+cd a
+ollama run gemma3:8b
+ollama run gemma3:12b
+ollama run gemma3:4b
+ollama lis
+ollama run deepscaler:latest
+sudo apt install hunspell
+hunspell
+mpv --no-vdi Magarita\ -\ The\ Keys\ \[q6VAyaGUJNg\].webm
+ollama list
+textlsp
+textlsp --address 0.0.0.0 --port 1234 --config textLSP.json
+textlsp --address 0.0.0.0 --port 1234 
+cd /home/aurexus/Django/dev/
+cd django-started
+vim .
+sudo apt install neovim
+which vim
+# required\
+mv ~/.config/nvim{,.bak}\
+\
+# optional but recommended\
+mv ~/.local/share/nvim{,.bak}\
+mv ~/.local/state/nvim{,.bak}\
+mv ~/.cache/nvim{,.bak}
+git clone https://github.com/LazyVim/starter ~/.config/nvim
+rm -rf ~/.config/nvim/.git
+nvim
+nano .zshrc
+>ls
+cd Django/dev/django-started
+lv ~/Django/dev/django-started
+cd Django/dev/drf
+conda activate rust
+jupyter notebook
+jupyter-notebook
+jupyter
+aa
+conda activate moon
+jupyter run
+mpv --no-vid Pallan\ comedy\ chi\ chi\ chi\ Éø§£ÉøÉ∏π\ \ \#cheems\ \#cheemstamizh\ \#comedy\ \#tamilhumor\ \#memes\ \#funnyscenes\ \[-S6mW3_oGYI\].webm
+mpv --no-vid light.m4a
+lv alpine.md
+python
+fz
+cler
+anki
+cd NIX
+cd nixos
+touch vim learn.txt
+lv learn.txt
+cd Django/Kage
+cd rust_core
+lv .
+lv ~/.config/nvim
+[200~echo $TERM
+echo $TERM\
+
+export TERM="tmux-256color"\
+export NVIM_TUI_ENABLE_TRUE_COLOR=1\
+
+exec $SHELL
+python3 manage.py runserver 5000
+neofetch | lolcat
+neofetch
+sudo parrot-upgrade
+lv /home/aurexus/Django/dev/django-started/
+caja
+python manage.py startapp dynamic_projects
+pip freeze > dev_requirements.txt
+python manage.py makemigrations 
+python manage.py migrate
+pip install psycopg2-binary  --upgrade
+lv epic.txt
+pip install -r dev_requirements.txt
+python3 -m pip install -r dev_requirements.txt
+python3 manage.py runserver 8000
+python3 manage.py runserver 4000
+pip freeze > requirements.txt
+rm -rf venv
+uv init . --python=3.12
+uv add django-extensions
+uv add django-allauth
+uv add django-cleanup
+uv add django-htmx
+uv add psycopg2-binary pytest-django pillow
+ur manage.py createsuperuser
+uv add django
+uv tree
+uv manage.py createapp index
+ur manage.py createapp index
+ur manage.py startapp index
+sudo apt install imagemagick
+which convert
+python3 manage.py check
+python3 manage.py help
+python3 manage.py inspectdb
+python3 manage.py createsuperuser
+python3 manage.py makemigrations
+python3 manage.py migrate
+source /home/aurexus/Django/dev/django-started/venv/bin/activate
+ls templates
+ls templates/dynamic_projects
+ls dynamic_projects/templatetags
+sudo apt install gthumb
+gthumb
+cp *  ~/05_anki_decks
+cd Public/OCR_DATASET/FRINPI
+gthumb .
+cd Downloads
+sudo apt install ./XnViewMP-linux-x64.deb
+xnview
+cd /home/aurexus/Public/OCR_DATASET/FRINPI/jpg/
+xnview .
+pass show gmail
+mkdir django_htmx
+cd django_htmx
+yt-dlp -f 'bestvideo[height<=720]+bestaudio' https://www.youtube.com/playlist\?list\=PL-2EBeDYMIbRByZ8GXhcnQSuv2dog4JxY
+7z a -t7z django_htmx.7z django_htmx -mx=9 -m0=lzma2 -md=128m -ms=on -mfb=64 
+cp * ~/Django/git_medusa
+cp -r * ~/Django/git_medusa
+cd app/
+cd Pictures/Aurexus/aux-escriptorium/escriptorium
+celery -A escriptorium worker -l INFO & 
+vim epic.txt
+cd app
+python manage.py runserver --settings escriptorium.local_settings
+mkdir flask_new
+cd flask
+rm -rf env
+pip install gunicorn
+gunicorn app:app --reload
+pip install python-opencv2
+pip install opencv-python
+sudo reboot
+pip install ultralytics
+pip install pytesseract
+pip install easyocr
+cd aurexus_upid
+docker build -t azure-sql-backup .
+wget https://aka.ms/sqlpackage-linux -O sqlpackage.zip
+sudo mv sqlpackage/sqlpackage /usr/local/bin/
+gunicorn sample:app --bind 127.0.0.1:5000 --reload
+ls sqlpackage
+rm -rf sqlpackage
+unzip sqlpackage.zip -d sqlpackage
+chmod +x sqlpackage/sqlpackage
+cd sqlpackage
+sqlpackage Action:Export ssn:tcp:aurexdb.database.windows.net sdn:AUREXDB1 su:db_su sp:{=} tf:exports/AUREXDB1_20250411_121621.bacpac\
+
+python backup.py
+cd Pictures
+fzf
+7z a -t7z django_postgres.7z exports -mx=9 -m0=lzma2 -md=128m -ms=on -mfb=64 
+sudo -u postgres psql
+cd /home/aurexus/Django/git_medusa/MedusaV3.2.2/aurexus_upid/
+cd exports
+pip install pandas
+pip install pyscopg2-binary
+pip install psycopg2-binary
+cd aurexus_upid/exports
+lv csv_to_db.py
+pip install sqlalchemy
+mousepad csv_to_db.py
+python csv_to_db.py
+python database.py
+cd flask_new
+source /home/aurexus/Pictures/Aurexus/aux-escriptorium/escriptorium/venv/bin/activate
+/home/aurexus/Pictures/Aurexus/aux-escriptorium/escriptorium/venv/bin/python /home/aurexus/Django/git_medusa/MedusaV3.2.2/sample.py
+cd /home/aurexus/Django/git_medusa/alpine_flask/
+codium .
+rm package.json
+npm init -y
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init
+npx tailwindcss -i ./static/css/tailwind.css -o ./static/css/output.css --watch
+source /home/aurexus/Django/git_medusa/MedusaV3.2.2/venv/bin/activate
+gunicorn app:app --bind 127.0.0.1:3000 --reload
+python3
+pip install fastapi uvicorn jinja2 aiofiles
+uvicorn run:app --reload
+rm -rf *
+python3 -m venv venv
+pip install  "fastapi[standard]"
+fastapi --help
+touch main.py
+git clone https://github.com/jod35/fastapi-beyond-CRUD/ .
+git clone https://github.com/jod35/fastapi-beyond-CRUD/ 
+pip isntall -r requirements.txt
+pip install -r requirements.txt
+rm main.py
+rm requirements.txt
+cd fastapi-beyond-CRUD
+cp .env.example .env
+alembic upgrade head
+ur manage.py inspectdb
+ur manage.py inspectdb > full_models.py
+cd /home/aurexus/Django/git_medusa/MedusaV3.2.2/translations.json
+cd /home/aurexus/Django/git_medusa/MedusaV3.2.2/
+ncdu .
+rm -rf index
+ur django-admin createapp
+ur django-admin startapp upid
+clera
+uv add djangorestframework
+ur manage.py makemigrations
+ur manage.py migrate
+codium
+touch upid/partials/upid_table.html
+gunicorn run:app --bind 127.0.0.1:3000 --reload
+pip list
+gunicorn run:app --bind 127.0.0.1:5000 --reload
+thunderbird
+cd template
+cd templates
+cd upid
+ls partials
+claer
+ur manage.py shell
+ur manage.py import_upid_csv data.csv
+git clone --single-branch https://github.com/gpakosz/.tmux.git "/path/to/oh-my-tmux"
+y7 https://www.youtube.com/watch\?v\=DzNmUNvnB04
+y7 https://www.youtube.com/watch\?v\=FhwsfH2TpFA
+https://www.youtube.com/watch\?v\=9U8LCjuQzdc\&t\=84s
+y1 https://www.youtube.com/watch\?v\=9U8LCjuQzdc\&t\=84s
+y7 https://www.youtube.com/watch\?v\=FwOTs4UxQS4\&pp\=ygUTYWkgYWdlbnRzIGV4cGxhaW5lZA%3D%3D
+source /home/aurexus/Music/Python/sss/senZmaki/venv/bin/activate
+source venv/bin/activate
+gunicorn app:app --bind 127.0.0.1:5000 --reload
+btop  --utf-force 
+ping archlinux.com
+ping archlinux.org
+lv tmux.conf
+senpcli -s pahe -sd sub -q 480p devil
+gpg --gen-key
+pass init C46FE1E02AD29AF911434FD2BFD1D283C4AE016B
+gpg --edit-key C46FE1E02AD29AF911434FD2BFD1D283C4AE016B
+sudo apt install qtpass
+qtpass
+cd plugins/
+cd .config/tmux
+caja .
+codium .config/tmux
+tmux kill-server
+lv .config/tmux/tmux.conf
+tmux ls
+echo -e "\uE0B6 \uE0B4 \uE0B0 \uE0B2"\
+
+eixt
+echo "∂¥ ÔÄÉß Hello Nerd Font ÔÉ∑Ø"
+nf-cod-files
+Ó´∞
+geany .config/tmux/plugins/catppuccin-tmux/catppuccin.tmux
+lv
+nano ~/.zshrc
+lv ~/.zshrc
+pass
+pass show -c n8n
+sudo apt install zoxide
+zoxide
+fzf --zsh
+mpv --no-vid Music/ÊÉª≤
+pwd
+cd 
+cd ~/
+cd 05_anki_decks
+clea
+cd Public/
+e
+mpv --no-vid Magarita\ -\ The\ Keys\ \[q6VAyaGUJNg\].webm
+cd labelme_env
+source bin/activate
+which python3 
+LD_LIBRARY_PATH=/usr/local/lib:~/Qt/5.9.1/gcc_64/lib\
+QT_QPA_PLATFORM_PLUGIN_PATH=~/Qt/5.9.1/gcc_64/plugins/ \
+
+cd ..
+exite
+
+source ~/.zshrc
+which cd
+cd Desktop
+ls
+cd
+deactivate
+celar
+tu
+c
+sz
+mpv --no-vid ÉøÉ≤Äwait\ for\ end\ ÉøÉ∏É¶ÔΩÉºÔΩÉºcheems\ video\ tamil\ ÉøÉ∞ÉµÔΩÉºÔΩÉº\ \#shorts\ \#anime\ \#tamil\ \#music\ \#respect\ \#trending\ \[vaVdN7tFrKA\].webm
+cd Public
+codium labelme_env
+source labelme_env/bin/activate
+clear
+mpv --no-vid Vaa\ Macha\ Vaa\ ÔΩÉº\ Santesh\ ÔΩÉº\ Balan\ Kashmir\ ÔΩÉº\ Arunboii\ ÔΩÉº\ Darkkey\ \[tx9L50smWJo\].mp4
+labelme
+poweroff
+sudo poweroff
+tmux -u
+pass show -c gmail
+pass generate nexus
+pass show -c nexus
+source /home/aurexus/Django/dev/django-index/.venv/bin/activate
+ur manage.py runserver 3000
+conda deactivate
+geany .zshrc
+curl -LsSf https://astral.sh/uv/install.sh | sh
+uv run manage.py runserver 3000
+sudo servicexc postgresql start
+python3 manage.py runserver 3000
+source .zshrc
+uv
+exit
+: 1744956123:0;cd Public
+: 1744956124:0;source labelme_env/bin/activate
+: 1744956126:0;labelme
+: 1744956255:0;source venv/bin/activate
+: 1744956256:0;clear
+: 1744959216:0;labelme
+: 1744961485:0;c
+: 1744961486:0;labelme
+: 1744961889:0;c
+: 1744961890:0;labelme
+: 1744962172:0;c
+: 1744962174:0;labelme
+: 1744965581:0;clear
+: 1744965585:0;labelme --version
+: 1744966222:0;labelme
+: 1744966592:0;which python3 
+: 1744966603:0;python3 -m pip install labelme
+: 1744966615:0;pip install --upgrade pip
+: 1744966643:0;pip install labelme --upgrade
+: 1744966654:0;labelme --version
+: 1744966656:0;clear
+: 1744966660:0;labelme 
+: 1744971489:0;sz
+: 1744971491:0;y1 https://www.youtube.com/watch?v=k1GjWtTk4XU
+: 1744971502:0;yt-dlp -f 'bestvideo[height<=720]+bestaudio' https://www.youtube.com/watch?v=k1GjWtTk4XU
+: 1744971512:0;yt-dlp
+: 1744971515:0;yt-dlp -f 'bestvideo[height<=720]+bestaudio' https://www.youtube.com/watch?v=k1GjWtTk4XU
+: 1744971522:0;yt-dlp -f 'bestvideo[height<=720]+bestaudio' 'https://www.youtube.com/watch?v=k1GjWtTk4XU'
+: 1744971581:0;mkdir ship_upgrade
+: 1744971583:0;cd ship_upgrade
+: 1744971591:0;yt-dlp -f 'bestvideo[height<=720]+bestaudio' 'https://www.youtube.com/playlist?list=PLrbD5e9pqM4iaZFfFmqOef4E2jNLT0o4i'
+: 1744973093:0;ncdu .
+: 1744973109:0;mpv Assassins\ Creed\ 4\ Black\ Flag\ Elite\ Heavy\ Shot\ Map\ and\ PLANS\ Location\ Walkthrough\ Guide\ \[FAKV2UwWMpM\].mp4
+: 1744980232:0;clear
+: 1744980234:0;cd ~/.password-store\
+tar -czf pass-backup.tar.gz *\
+
+: 1744980238:0;ls
+: 1744980353:0;mkdir exported-keys
+: 1744980358:0;mv pass-backup.tar.gz exported-keys
+: 1744980360:0;cd exported-keys
+: 1744980366:0;gpg --output public.pgp --armor --export kisamesamehada21@gmail.com
+: 1744980375:0;gpg --output private.pgp --armor --export kisamesamehada21@gmail.com
+: 1744980379:0;gpg --output private.pgp --armor --export-secret-keys kisamesamehada21@gmail.com
+: 1744980493:0;history > history.txt
+: 1744980500:0;geany history.txt
+: 1744980535:0;cp ~/.zsh_history history.txt
